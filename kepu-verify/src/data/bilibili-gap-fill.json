@@ -1,0 +1,487 @@
+{
+  "generated_at": "2026-11-12T03:26:42.088Z",
+  "source": "bilibili-public-api: /x/web-interface/view (eligible BVs) + local metadata from real-sources.json and bilibili-extra.json; search endpoint blocked",
+  "attempted": 16,
+  "succeeded": 9,
+  "blocked": 1,
+  "retrieved_at_note": "本轮 10 次 view 请求的逐条时间未单独持久化；本轮首次获取的 5 条记录使用 generated_at 作为 retrieved_at。来自 bilibili-extra.json 的记录保留其原始 retrieved_at。",
+  "search": {
+    "executed_keywords": [
+      "器械腿举"
+    ],
+    "planned_keywords": [
+      "上斜哑铃卧推",
+      "坐姿绳索划船",
+      "器械腿举",
+      "俯卧腿弯举",
+      "站姿提踵",
+      "靠墙静蹲",
+      "臀桥",
+      "锤式弯举",
+      "绳索下压",
+      "卷腹",
+      "仰卧举腿",
+      "死虫式",
+      "鸟狗式",
+      "靠墙天使",
+      "弹力带扩胸",
+      "肩胛俯卧撑",
+      "门框胸肌拉伸",
+      "髋屈肌拉伸",
+      "猫牛式",
+      "杠铃平板卧推",
+      "单臂哑铃划船",
+      "杠铃深蹲",
+      "哑铃箭步蹲",
+      "坐姿哑铃推肩",
+      "杠铃实力举",
+      "哑铃侧平举"
+    ],
+    "http_status": 200,
+    "response_type": "html_anti_bot_error_page",
+    "response_title": "出错啦! - aba",
+    "json_code": null,
+    "is_403": false,
+    "result": "blocked",
+    "stopped_at": "搜索探测第 1 条（关键词：器械腿举）",
+    "not_attempted_keywords": 25,
+    "reason": "搜索接口返回 HTTP 200 但内容为反爬 HTML 错误页，不是 JSON；按拦截/验证码处理，立即停止搜索。未重试、未更换 UA、未实现 WBI、未使用浏览器。其余动作仅使用本地已有元数据判定。",
+    "requests_after_search_block": "仅对 view 接口做了 5 次二次核验，未再调用搜索接口"
+  },
+  "local_sources_used": [
+    "src/data/real-sources.json（60 条视频、77 个 bvid）",
+    "src/data/bilibili-extra.json（123 条视频）",
+    "本轮 view 接口成功返回的 10 条公开元数据"
+  ],
+  "candidates": [
+    {
+      "exerciseId": "barbell-bench-press",
+      "exerciseName": "杠铃平板卧推",
+      "matchLevel": "near",
+      "bvid": "BV1GE421A7xi",
+      "title": "史密斯平板卧推详解",
+      "author": "凯圣王",
+      "duration": 726,
+      "pages": [
+        {
+          "page": 1,
+          "part": "7  6.17史密斯成片"
+        }
+      ],
+      "url": "https://www.bilibili.com/video/BV1GE421A7xi",
+      "difference": "器械不同：视频为史密斯机平板卧推，目标为自由杠铃平板卧推；轨迹由器械固定，稳定性要求不同。",
+      "retrieved_at": "2026-11-12T02:34:40.057Z"
+    },
+    {
+      "exerciseId": "dumbbell-bench-press",
+      "exerciseName": "哑铃平板卧推",
+      "matchLevel": "exact",
+      "bvid": "BV1mD421J7o3",
+      "title": "哑铃平板卧推详解",
+      "author": "凯圣王",
+      "duration": 584,
+      "pages": [
+        {
+          "page": 1,
+          "part": "哑铃平板卧推详解"
+        }
+      ],
+      "url": "https://www.bilibili.com/video/BV1mD421J7o3",
+      "difference": null,
+      "retrieved_at": "2026-11-12T03:26:42.088Z"
+    },
+    {
+      "exerciseId": "incline-dumbbell-press",
+      "exerciseName": "上斜哑铃卧推",
+      "matchLevel": "near",
+      "bvid": "BV1XJ4m1w7tn",
+      "title": "哑铃上斜对握推详解",
+      "author": "凯圣王",
+      "duration": 317,
+      "pages": [
+        {
+          "page": 1,
+          "part": "哑铃上斜对握推详解"
+        }
+      ],
+      "url": "https://www.bilibili.com/video/BV1XJ4m1w7tn",
+      "difference": "握法不同：视频为哑铃上斜「对握」推，目标通常为正握上斜哑铃卧推；凳角与器械（哑铃）一致。",
+      "retrieved_at": "2026-11-12T03:26:42.088Z"
+    },
+    {
+      "exerciseId": "seated-cable-row",
+      "exerciseName": "坐姿绳索划船",
+      "matchLevel": "near",
+      "bvid": "BV1uaPNewEGe",
+      "title": "杠铃划船练背思路",
+      "author": "凯圣王",
+      "duration": 890,
+      "pages": [
+        {
+          "page": 1,
+          "part": "杠铃划船练背思路"
+        }
+      ],
+      "url": "https://www.bilibili.com/video/BV1uaPNewEGe",
+      "difference": "器械与体位不同：视频为杠铃划船（俯身站姿），目标为坐姿绳索划船；阻力形式与躯干角度不同。",
+      "retrieved_at": "2026-11-12T02:33:52.966Z"
+    },
+    {
+      "exerciseId": "leg-press",
+      "exerciseName": "器械腿举",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到。实际搜索关键词「器械腿举」：搜索接口返回反爬 HTML 错误页，被拦截，未获得任何搜索结果。本地 203 条视频中无腿举；深蹲、箭步蹲不属于腿举。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "lying-leg-curl",
+      "exerciseName": "俯卧腿弯举",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到。计划关键词「俯卧腿弯举」「腿弯举」；搜索未执行（首条探测即被拦截）。本地只有肱二头弯举（杠铃/哑铃），无俯卧腿弯举。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "standing-calf-raise",
+      "exerciseName": "站姿提踵",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到。计划关键词「站姿提踵」「提踵」；搜索未执行。本地无提踵相关标题或分P。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "dumbbell-lunge",
+      "exerciseName": "哑铃箭步蹲",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到可确认的 near。本地 BV1gRbDzSER1「箭步蹲详解」未注明哑铃，无法写出确定的器械差异，按严格口径不判 near；计划关键词「哑铃箭步蹲」「负重箭步蹲」因搜索被拦截未执行。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "wall-sit",
+      "exerciseName": "靠墙静蹲",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到。计划关键词「靠墙静蹲」「静蹲」；搜索未执行。本地只有 BV1Bo4y1Y7Fi「给你的膝盖做个大保养吧」等宽泛膝盖训练，未点名靠墙静蹲。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "glute-bridge",
+      "exerciseName": "臀桥",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到。计划关键词「臀桥」「臀推」；搜索未执行。本地 BV1Zb2mYHEWv「健身房练臀常用动作与代偿问题」为宽泛练臀主题，未点名臀桥。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "dumbbell-shoulder-press",
+      "exerciseName": "坐姿哑铃推肩",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到可确认的 near。本地 BV1fUBDBKEYH「卧推系列⑬——哑铃推肩」未注明坐姿，无法写出确定的体位差异，按严格口径不判 near；计划关键词「坐姿哑铃推肩」「哑铃肩推」因搜索被拦截未执行。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "barbell-overhead-press",
+      "exerciseName": "杠铃实力举",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到可确认的 near。本地 BV1qz421R7rG「实力举详解」未注明杠铃，无法写出确定的器械差异，按严格口径不判 near；计划关键词「杠铃实力举」「杠铃推举」因搜索被拦截未执行。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "dumbbell-lateral-raise",
+      "exerciseName": "哑铃侧平举",
+      "matchLevel": "near",
+      "bvid": "BV1Uf421v7Rf",
+      "title": "侧平举变式详解",
+      "author": "凯圣王",
+      "duration": 479,
+      "pages": [
+        {
+          "page": 1,
+          "part": "侧平举变式详解"
+        }
+      ],
+      "url": "https://www.bilibili.com/video/BV1Uf421v7Rf",
+      "difference": "变式与器械未确认：标题为「侧平举变式详解」，未注明哑铃；与标准哑铃侧平举的变式、器械均无法核对。",
+      "retrieved_at": "2026-11-12T02:34:25.088Z"
+    },
+    {
+      "exerciseId": "dumbbell-curl",
+      "exerciseName": "哑铃弯举",
+      "matchLevel": "exact",
+      "bvid": "BV1Fp4y1d73D",
+      "title": "哑铃弯举详解（兄弟们新年快乐，看视频臂围增加3厘米）",
+      "author": "凯圣王",
+      "duration": 360,
+      "pages": [
+        {
+          "page": 1,
+          "part": "哑铃弯举详解（兄弟们新年快乐，看视频臂围增加3厘米）"
+        }
+      ],
+      "url": "https://www.bilibili.com/video/BV1Fp4y1d73D",
+      "difference": null,
+      "retrieved_at": "2026-11-12T03:26:42.088Z"
+    },
+    {
+      "exerciseId": "hammer-curl",
+      "exerciseName": "锤式弯举",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到。计划关键词「锤式弯举」「垂式弯举」；搜索未执行。本地 BV1ku4y1Q7u3「爆炸手臂训练」为宽泛手臂课，BV1nb4y1M7By「杠铃弯举」、BV1Fp4y1d73D「哑铃弯举」均未点名锤式。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "triceps-pushdown",
+      "exerciseName": "绳索下压",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到。计划关键词「绳索下压」「三头下压」；搜索未执行。本地 BV1NF4m1E7nv「龙门臂屈伸」未点名下压，不能确认为绳索下压。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "crunch",
+      "exerciseName": "卷腹",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到。计划关键词「卷腹」；搜索未执行。本地 BV1uT421Y7Lr「腹肌训练详解」、BV1Nx4y147dj「腹横肌激活（真空腹）」均为宽泛腹部主题，未点名卷腹。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "lying-leg-raise",
+      "exerciseName": "仰卧举腿",
+      "matchLevel": "near",
+      "bvid": "BV1nJ4m1e7bj",
+      "title": "悬垂举腿详解",
+      "author": "凯圣王",
+      "duration": 407,
+      "pages": [
+        {
+          "page": 1,
+          "part": "悬垂举腿详解"
+        }
+      ],
+      "url": "https://www.bilibili.com/video/BV1nJ4m1e7bj",
+      "difference": "体位不同：视频为悬垂举腿，目标为仰卧举腿；躯干姿势与支撑方式不同。",
+      "retrieved_at": "2026-11-12T03:26:42.088Z"
+    },
+    {
+      "exerciseId": "dead-bug",
+      "exerciseName": "死虫式",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到。计划关键词「死虫式」「死虫子」；搜索未执行。本地 BV1pr421n7Wq「核心训练详解」为宽泛核心主题，未点名死虫式。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "bird-dog",
+      "exerciseName": "鸟狗式",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到。计划关键词「鸟狗式」「鸟狗」；搜索未执行。本地 BV1pr421n7Wq「核心训练详解」为宽泛核心主题，未点名鸟狗式。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "wall-slide",
+      "exerciseName": "靠墙天使",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到。计划关键词「靠墙天使」「墙壁天使」；搜索未执行。本地 BV1gYXAYYEzj「翼状肩胛调整详解」、BV1K14218728「肩胛功能对比详解」均未点名靠墙天使。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "band-pull-apart",
+      "exerciseName": "弹力带扩胸",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到。计划关键词「弹力带扩胸」「弹力带夹胸」；搜索未执行。本地 BV1hQxMehEKi「弹力带练背前激活详解」为练背，BV1Fi4y1m73c「胸背训练的重要基本功」为宽泛体态主题，均未点名弹力带扩胸。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "scapular-push-up",
+      "exerciseName": "肩胛俯卧撑",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到。计划关键词「肩胛俯卧撑」「肩胛骨俯卧撑」；搜索未执行。本地 BV19W421X7xa「动物流肩胛训练详解」为宽泛肩胛训练，未点名俯卧撑形式。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "doorway-chest-stretch",
+      "exerciseName": "门框胸肌拉伸",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到。计划关键词「门框胸肌拉伸」「胸肌拉伸」；搜索未执行。本地 BV1qM4m117VH「全身拉伸详解」、BV1xq5pz4ENW「拉伸详解」为宽泛拉伸主题，未点名门框胸肌拉伸。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "hip-flexor-stretch",
+      "exerciseName": "髋屈肌拉伸",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到。计划关键词「髋屈肌拉伸」「髂腰肌拉伸」；搜索未执行。本地 BV1qM4m117VH「全身拉伸详解」为宽泛拉伸主题，未点名髋屈肌拉伸。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "cat-cow",
+      "exerciseName": "猫牛式",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到。计划关键词「猫牛式」「猫牛」；搜索未执行。本地 BV1k4YXznErX「胸椎灵活度」、BV1FC4y1T7q4「胸椎灵活性训练」为宽泛灵活度主题，未点名猫牛式。",
+      "retrieved_at": null
+    },
+    {
+      "exerciseId": "barbell-back-squat",
+      "exerciseName": "杠铃深蹲",
+      "matchLevel": "near",
+      "bvid": "BV14x4y147Jw",
+      "title": "史密斯深蹲详解",
+      "author": "凯圣王",
+      "duration": 577,
+      "pages": [
+        {
+          "page": 1,
+          "part": "史密斯深蹲详解"
+        }
+      ],
+      "url": "https://www.bilibili.com/video/BV14x4y147Jw",
+      "difference": "器械不同：视频为史密斯深蹲，目标为自由杠铃深蹲；轨迹固定、稳定性与自由重量要求不同。",
+      "retrieved_at": "2026-11-12T02:33:07.862Z"
+    },
+    {
+      "exerciseId": "goblet-squat",
+      "exerciseName": "高脚杯深蹲",
+      "matchLevel": "exact",
+      "bvid": "BV1TT4y1p7YR",
+      "title": "高脚杯深蹲详解",
+      "author": "凯圣王",
+      "duration": 496,
+      "pages": [
+        {
+          "page": 1,
+          "part": "高脚杯深蹲详解"
+        }
+      ],
+      "url": "https://www.bilibili.com/video/BV1TT4y1p7YR",
+      "difference": null,
+      "retrieved_at": "2026-11-12T03:26:42.088Z"
+    },
+    {
+      "exerciseId": "one-arm-dumbbell-row",
+      "exerciseName": "单臂哑铃划船",
+      "matchLevel": "none",
+      "bvid": null,
+      "title": null,
+      "author": null,
+      "duration": null,
+      "pages": [],
+      "url": null,
+      "difference": "未找到可确认的 near。本地 BV1ij411H773「哑铃划船详解」只写哑铃划船，未注明单臂，无法写出确定的单/双手差异，按严格口径不判 near；计划关键词「单臂哑铃划船」「单手哑铃划船」因搜索被拦截未执行。",
+      "retrieved_at": null
+    }
+  ],
+  "failed": [
+    {
+      "exerciseId": "leg-press",
+      "reason": "搜索探测（关键词：器械腿举）返回 HTTP 200 反爬 HTML 错误页（非 JSON），判定为拦截并立即停止搜索；未重试、未换 UA、未实现 WBI。"
+    }
+  ],
+  "stats_note": "succeeded = 写入 candidates 的视频条数（9）；本轮 view 接口成功 15 次、搜索 1 次被拦截。"
+}

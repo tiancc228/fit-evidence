@@ -1,0 +1,367 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "../vendor/shadcn-tailwind-4.13.0.css";
+
+@utility scrollbar-thin {
+  scrollbar-width: thin;
+}
+
+@utility scrollbar-none {
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@utility scrollbar-gutter-stable {
+  scrollbar-gutter: stable;
+}
+
+/* ============================================================
+   训练馆 × 实验室
+   深冷炭灰打底，酸性柠檬绿承载能量与达标；
+   四层证据各自持有一个满色度色相，绝不混用：
+     博主原话 = 品红 / AI 拆解 = 电蓝 / 科学证据 = 青绿 / 产品建议 = 柠檬绿
+   ============================================================ */
+
+:root {
+  --site-bg: #0a0f0d;
+  --site-fg: #eef4f0;
+  --site-accent: #c9f227;
+  --site-on-accent: #0a1206;
+  --site-surface: #141b18;
+  --site-muted: #8ba098;
+  --site-border: #24302b;
+  --site-font: "Inter", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei",
+    system-ui, -apple-system, sans-serif;
+  --site-radius: 14px;
+  --site-space: 1;
+  --site-type: 1;
+  --site-motion: 1;
+
+  --site-elevated: #1b2420;
+  --site-overlay: #212c27;
+  --site-scrim: #05090799;
+
+  --layer-voice: #ff2d9b;
+  --layer-voice-soft: #ff2d9b1f;
+  --layer-ai: #3b82f6;
+  --layer-ai-soft: #3b82f61f;
+  --layer-science: #00d4a0;
+  --layer-science-soft: #00d4a01f;
+  --layer-advice: #c9f227;
+  --layer-advice-soft: #c9f2271f;
+
+  --tone-ok: #00d4a0;
+  --tone-warn: #ffab00;
+  --tone-bad: #ff453a;
+  --tone-info: #3b82f6;
+
+  --chart-1: #c9f227;
+  --chart-2: #00d4a0;
+  --chart-3: #3b82f6;
+  --chart-4: #ff2d9b;
+  --chart-5: #ffab00;
+  --chart-6: #a78bfa;
+  --chart-7: #ff453a;
+  --chart-8: #22d3ee;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --site-bg: #f7f9f5;
+    --site-fg: #101a14;
+    --site-accent: #5d7c00;
+    --site-on-accent: #ffffff;
+    --site-surface: #ffffff;
+    --site-muted: #5c6f66;
+    --site-border: #dde5db;
+
+    --site-elevated: #ffffff;
+    --site-overlay: #ffffff;
+    --site-scrim: #101a1466;
+
+    --layer-voice: #c2007a;
+    --layer-voice-soft: #c2007a14;
+    --layer-ai: #1d4ed8;
+    --layer-ai-soft: #1d4ed814;
+    --layer-science: #00806a;
+    --layer-science-soft: #00806a14;
+    --layer-advice: #5d7c00;
+    --layer-advice-soft: #5d7c0014;
+
+    --tone-ok: #00806a;
+    --tone-warn: #a86800;
+    --tone-bad: #d92619;
+    --tone-info: #1d4ed8;
+
+    --chart-1: #5d7c00;
+    --chart-2: #00806a;
+    --chart-3: #1d4ed8;
+    --chart-4: #c2007a;
+    --chart-5: #a86800;
+    --chart-6: #7c3aed;
+    --chart-7: #d92619;
+    --chart-8: #0e7490;
+  }
+}
+
+:root {
+  --background: var(--site-bg);
+  --foreground: var(--site-fg);
+  --card: var(--site-surface);
+  --card-foreground: var(--site-fg);
+  --popover: var(--site-overlay);
+  --popover-foreground: var(--site-fg);
+  --primary: var(--site-accent);
+  --primary-foreground: var(--site-on-accent);
+  --secondary: var(--site-elevated);
+  --secondary-foreground: var(--site-fg);
+  --muted: var(--site-elevated);
+  --muted-foreground: var(--site-muted);
+  --accent: var(--site-elevated);
+  --accent-foreground: var(--site-fg);
+  --destructive: var(--tone-bad);
+  --border: var(--site-border);
+  --input: var(--site-border);
+  --ring: var(--site-accent);
+  --radius: var(--site-radius);
+  --sidebar: var(--site-surface);
+  --sidebar-foreground: var(--site-fg);
+  --sidebar-primary: var(--site-accent);
+  --sidebar-primary-foreground: var(--site-on-accent);
+  --sidebar-accent: var(--site-elevated);
+  --sidebar-accent-foreground: var(--site-fg);
+  --sidebar-border: var(--site-border);
+  --sidebar-ring: var(--site-accent);
+}
+
+@theme inline {
+  --color-background: var(--site-bg);
+  --color-foreground: var(--site-fg);
+  --color-card: var(--site-surface);
+  --color-card-foreground: var(--site-fg);
+  --color-popover: var(--site-overlay);
+  --color-popover-foreground: var(--site-fg);
+  --color-primary: var(--site-accent);
+  --color-primary-foreground: var(--site-on-accent);
+  --color-secondary: var(--site-elevated);
+  --color-secondary-foreground: var(--site-fg);
+  --color-muted: var(--site-elevated);
+  --color-muted-foreground: var(--site-muted);
+  --color-accent: var(--site-elevated);
+  --color-accent-foreground: var(--site-fg);
+  --color-destructive: var(--tone-bad);
+  --color-border: var(--site-border);
+  --color-input: var(--site-border);
+  --color-ring: var(--site-accent);
+
+  --color-elevated: var(--site-elevated);
+  --color-overlay: var(--site-overlay);
+  --color-scrim: var(--site-scrim);
+
+  --color-voice: var(--layer-voice);
+  --color-voice-soft: var(--layer-voice-soft);
+  --color-ai: var(--layer-ai);
+  --color-ai-soft: var(--layer-ai-soft);
+  --color-science: var(--layer-science);
+  --color-science-soft: var(--layer-science-soft);
+  --color-advice: var(--layer-advice);
+  --color-advice-soft: var(--layer-advice-soft);
+
+  --color-ok: var(--tone-ok);
+  --color-warn: var(--tone-warn);
+  --color-bad: var(--tone-bad);
+  --color-info: var(--tone-info);
+
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-chart-6: var(--chart-6);
+  --color-chart-7: var(--chart-7);
+  --color-chart-8: var(--chart-8);
+
+  --color-sidebar: var(--site-surface);
+  --color-sidebar-foreground: var(--site-fg);
+  --color-sidebar-primary: var(--site-accent);
+  --color-sidebar-primary-foreground: var(--site-on-accent);
+  --color-sidebar-accent: var(--site-elevated);
+  --color-sidebar-accent-foreground: var(--site-fg);
+  --color-sidebar-border: var(--site-border);
+  --color-sidebar-ring: var(--site-accent);
+
+  --radius-sm: calc(var(--site-radius) - 6px);
+  --radius-md: calc(var(--site-radius) - 3px);
+  --radius-lg: var(--site-radius);
+  --radius-xl: calc(var(--site-radius) + 6px);
+  --radius-2xl: calc(var(--site-radius) + 14px);
+
+  --font-sans: var(--site-font);
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+
+  --spacing: calc(0.25rem * var(--site-space));
+  --text-xs: calc(0.75rem * var(--site-type));
+  --text-sm: calc(0.875rem * var(--site-type));
+  --text-base: calc(1rem * var(--site-type));
+  --text-lg: calc(1.125rem * var(--site-type));
+  --text-xl: calc(1.25rem * var(--site-type));
+  --text-2xl: calc(1.5rem * var(--site-type));
+  --text-3xl: calc(1.875rem * var(--site-type));
+  --text-4xl: calc(2.25rem * var(--site-type));
+  --text-5xl: calc(3rem * var(--site-type));
+  --text-6xl: calc(3.75rem * var(--site-type));
+  --text-7xl: calc(4.5rem * var(--site-type));
+  --text-8xl: calc(6rem * var(--site-type));
+  --text-9xl: calc(8rem * var(--site-type));
+  --default-transition-duration: calc(150ms * var(--site-motion));
+}
+
+body {
+  background: var(--site-bg);
+  color: var(--site-fg);
+  font-family: var(--site-font);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* 背景层：极光漂移 + 颗粒，全部取自本色板 */
+.field-aurora {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+.field-aurora::before,
+.field-aurora::after {
+  content: "";
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(90px);
+  opacity: 0.22;
+  will-change: transform;
+}
+.field-aurora::before {
+  width: 46vw;
+  height: 46vw;
+  left: -8vw;
+  top: -12vw;
+  background: radial-gradient(circle at 30% 30%, var(--layer-advice), transparent 68%);
+  animation: drift-a calc(26s * var(--site-motion)) ease-in-out infinite alternate;
+}
+.field-aurora::after {
+  width: 40vw;
+  height: 40vw;
+  right: -10vw;
+  top: 22vh;
+  background: radial-gradient(circle at 60% 40%, var(--layer-science), transparent 68%);
+  animation: drift-b calc(32s * var(--site-motion)) ease-in-out infinite alternate;
+}
+.field-grain {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.035;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+@keyframes drift-a {
+  from { transform: translate3d(0, 0, 0) scale(1); }
+  to { transform: translate3d(8vw, 10vh, 0) scale(1.18); }
+}
+@keyframes drift-b {
+  from { transform: translate3d(0, 0, 0) scale(1.1); }
+  to { transform: translate3d(-7vw, -8vh, 0) scale(0.92); }
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translate3d(0, 14px, 0); }
+  to { opacity: 1; transform: none; }
+}
+.rise {
+  animation: rise calc(520ms * var(--site-motion)) cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@keyframes sheen {
+  from { background-position: 0% 50%; }
+  to { background-position: 200% 50%; }
+}
+.energy-line {
+  background: linear-gradient(
+    90deg,
+    var(--layer-advice),
+    var(--layer-science),
+    var(--layer-ai),
+    var(--layer-voice),
+    var(--layer-advice)
+  );
+  background-size: 200% 100%;
+  animation: sheen calc(9s * var(--site-motion)) linear infinite;
+}
+
+@keyframes pulse-ring {
+  0% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--site-accent) 45%, transparent); }
+  70% { box-shadow: 0 0 0 12px transparent; }
+  100% { box-shadow: 0 0 0 0 transparent; }
+}
+.pulse-ring {
+  animation: pulse-ring calc(2.4s * var(--site-motion)) ease-out infinite;
+}
+
+/* 滚动条走自己的视觉语言 */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--site-border) transparent;
+}
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+*::-webkit-scrollbar-thumb {
+  background: var(--site-border);
+  border-radius: 99px;
+  border: 2px solid var(--site-bg);
+}
+*::-webkit-scrollbar-thumb:hover {
+  background: color-mix(in srgb, var(--site-accent) 60%, var(--site-border));
+}
+
+/* 固定导航的锚点落位 */
+[id] {
+  scroll-margin-top: 88px;
+}
+
+@layer base {
+  button,
+  a {
+    transition-duration: calc(150ms * var(--site-motion));
+  }
+  ::selection {
+    background: color-mix(in srgb, var(--site-accent) 32%, transparent);
+    color: var(--site-fg);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    button,
+    a {
+      transition-duration: 0ms;
+    }
+    .field-aurora::before,
+    .field-aurora::after,
+    .energy-line,
+    .pulse-ring,
+    .rise {
+      animation: none;
+    }
+    .rise {
+      opacity: 1;
+      transform: none;
+    }
+  }
+}

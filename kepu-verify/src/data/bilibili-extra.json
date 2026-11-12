@@ -1,0 +1,2245 @@
+{
+  "generated_at": "2026-11-12T02:35:09.569Z",
+  "source": "bilibili-public-api",
+  "total": 124,
+  "ok": 123,
+  "failed": [
+    {
+      "bvid": "BV1CT411U7XJ",
+      "code": 62002,
+      "message": "稿件不可见"
+    }
+  ],
+  "videos": [
+    {
+      "bvid": "BV1Bh4y1V7ea",
+      "title": "【带你练背】第三视角私教课！",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1690203600,
+      "duration": 1864,
+      "pages": [
+        {
+          "page": 1,
+          "part": "【带你练背】第三视角私教课！"
+        }
+      ],
+      "desc": "本期带大家练个背，感受一下第三视角的私教课吧！\n以下为往期内容，大家要多学习哈！\n新手增肌系列开篇：BV1Qd4y1Z75J\n新手增肌系列①【二分化躯干】BV1Nc411P7nc\n新手增肌系列②【二分化四肢】BV1YL411q7HR\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n新手增肌系列④【语文课】BV1eh411K7Aa\n新手增肌系列⑤【躯干拉伸】BV1Eu41187oU\n备赛训练系列①【腿部训练】BV1Aa411H76y\n备赛训练系列②【背部训练】BV1534y1n7A2",
+      "url": "https://www.bilibili.com/video/BV1Bh4y1V7ea",
+      "pic": "http://i0.hdslb.com/bfs/archive/0bb5e3961a4ba35c2e4537be21d2a5a7b556e852.jpg",
+      "retrieved_at": "2026-11-12T02:32:35.054Z"
+    },
+    {
+      "bvid": "BV1RX4y1j7P6",
+      "title": "【练肩的细节和容易出现的问题】第三视角私教课",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1690891200,
+      "duration": 1855,
+      "pages": [
+        {
+          "page": 1,
+          "part": "【带你练肩】第三视角私教课"
+        }
+      ],
+      "desc": "本期带大家练个肩，感受一下第三视角的私教课吧！\n以下为往期内容，大家要多学习哈！\n第三视角私教课【练背】BV1Bh4y1V7ea\n新手增肌系列开篇：BV1Qd4y1Z75J\n新手增肌系列①【二分化躯干】BV1Nc411P7nc\n新手增肌系列②【二分化四肢】BV1YL411q7HR\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n新手增肌系列④【语文课】BV1eh411K7Aa\n新手增肌系列⑤【躯干拉伸】BV1Eu41187oU\n备赛训练系列①【腿部训练】BV1Aa411H76y",
+      "url": "https://www.bilibili.com/video/BV1RX4y1j7P6",
+      "pic": "http://i1.hdslb.com/bfs/archive/41cc443a206ce4bdfd056f40666f8c9b90984647.jpg",
+      "retrieved_at": "2026-11-12T02:32:36.258Z"
+    },
+    {
+      "bvid": "BV1Qd4y1Z75J",
+      "title": "【凯圣王】新手增肌系列、开篇",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1684839681,
+      "duration": 387,
+      "pages": [
+        {
+          "page": 1,
+          "part": "【凯圣王】新手增肌系列、开篇"
+        }
+      ],
+      "desc": "本期为新手增肌系列的开篇，主要是讲解系列内容结构。\n以下为往期训练内容，对大家也会很有帮助：\n备赛训练系列①【腿部训练】BV1Aa411H76y\n备赛训练系列②【背部训练】BV1534y1n7A2\n备赛训练系列③【肩部训练】BV1oF411P7oL\n新手训练系列①【小体重卧推技巧】BV1gt4y1n7Ya\n新手训练系列②【RM和RPE的应用】BV15Y4y1u71f\n新手训练系列③【小体重深蹲干货】BV1BD4y1B7Z9\n新手训练系列④【背部发力感教学】BV15e411u7a9",
+      "url": "https://www.bilibili.com/video/BV1Qd4y1Z75J",
+      "pic": "http://i2.hdslb.com/bfs/archive/fbb516da0b30a4eb3cdcb659228855b0cf008b96.jpg",
+      "retrieved_at": "2026-11-12T02:32:37.201Z"
+    },
+    {
+      "bvid": "BV1Nc411P7nc",
+      "title": "【凯圣王】新手增肌系列、二分化带练躯干/体育课",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1684933763,
+      "duration": 2270,
+      "pages": [
+        {
+          "page": 1,
+          "part": "【凯圣王】新手增肌系列、二分化带练躯干/体育课"
+        }
+      ],
+      "desc": "新手增肌系列会让各位小伙伴们的训练少走弯路，快速提高，希望大家能够多多关注！\n以下为往期内容，一样干货满满：\n新手增肌系列开篇：BV1Qd4y1Z75J\n备赛训练系列①【腿部训练】BV1Aa411H76y\n备赛训练系列②【背部训练】BV1534y1n7A2\n备赛训练系列③【肩部训练】BV1oF411P7oL\n新手训练系列①【小体重卧推技巧】BV1gt4y1n7Ya\n新手训练系列②【RM和RPE的应用】BV15Y4y1u71f\n新手训练系列③【小体重深蹲干货】BV1BD4y1B7Z9",
+      "url": "https://www.bilibili.com/video/BV1Nc411P7nc",
+      "pic": "http://i0.hdslb.com/bfs/archive/7af6c79dafb4c01eb37977f8bbecb3100949a55f.jpg",
+      "retrieved_at": "2026-11-12T02:32:38.513Z"
+    },
+    {
+      "bvid": "BV1YL411q7HR",
+      "title": "【凯圣王】新手增肌系列、二分化带练四肢/体育课",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1685361600,
+      "duration": 1761,
+      "pages": [
+        {
+          "page": 1,
+          "part": "【凯圣王】新手增肌系列、二分化带练四肢/体育课"
+        }
+      ],
+      "desc": "新手增肌系列会让各位小伙伴们的训练少走弯路，快速提高，希望大家能够多多关注！\n以下为往期内容，一样干货满满：\n新手增肌系列开篇：BV1Qd4y1Z75J\n新手增肌系列①【二分化躯干】BV1Nc411P7nc\n备赛训练系列①【腿部训练】BV1Aa411H76y\n备赛训练系列②【背部训练】BV1534y1n7A2\n新手训练系列①【小体重卧推技巧】BV1gt4y1n7Ya\n新手训练系列②【RM和RPE的应用】BV15Y4y1u71f\n新手训练系列③【小体重深蹲干货】BV1BD4y1B7Z9",
+      "url": "https://www.bilibili.com/video/BV1YL411q7HR",
+      "pic": "http://i2.hdslb.com/bfs/archive/1f215c57ecd14be9fb4c10a6ed55820adc31a905.jpg",
+      "retrieved_at": "2026-11-12T02:32:40.083Z"
+    },
+    {
+      "bvid": "BV1sc411V7Bm",
+      "title": "【家庭跟练】每天十分钟！有效解决胸背练不好的问题！！",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1685707200,
+      "duration": 639,
+      "pages": [
+        {
+          "page": 1,
+          "part": "【凯圣王】新手增肌系列、每天十分钟/助力上身整体强化"
+        }
+      ],
+      "desc": "新手增肌系列会让各位小伙伴们的训练少走弯路，快速提高，希望大家能够多多关注！\n以下为往期内容，一样干货满满：\n新手增肌系列开篇：BV1Qd4y1Z75J\n新手增肌系列①【二分化躯干】BV1Nc411P7nc\n新手增肌系列②【二分化四肢】BV1YL411q7HR\n备赛训练系列①【腿部训练】BV1Aa411H76y\n备赛训练系列②【背部训练】BV1534y1n7A2\n新手训练系列①【小体重卧推技巧】BV1gt4y1n7Ya\n新手训练系列②【RM和RPE的应用】BV15Y4y1u71f",
+      "url": "https://www.bilibili.com/video/BV1sc411V7Bm",
+      "pic": "http://i2.hdslb.com/bfs/archive/61d90f4d28c0010cec20960a2ece6d6d2ff9c136.jpg",
+      "retrieved_at": "2026-11-12T02:32:41.268Z"
+    },
+    {
+      "bvid": "BV1urUVBkE9d",
+      "title": "卧推系列先导片",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1763719323,
+      "duration": 321,
+      "pages": [
+        {
+          "page": 1,
+          "part": "卧推系列先导片"
+        }
+      ],
+      "desc": "本期为卧推系列先导片\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）：BV1ZZTfzAEDy\nFMS七项运动筛查详讲：BV1A1s3zUEN6\n碳水化合物详解：BV1kSsozkEEJ\n增肌饮食误区：BV1aLyhBUEpP\n戒烟过程分享：BV1cvCeBzEKb\n生活化减脂分享：BV1A9yEBNEgE",
+      "url": "https://www.bilibili.com/video/BV1urUVBkE9d",
+      "pic": "http://i0.hdslb.com/bfs/archive/0a09825b9939a6b6b76aa72c36dbe3ef021f4cd7.jpg",
+      "retrieved_at": "2026-11-12T02:32:42.377Z"
+    },
+    {
+      "bvid": "BV1VqqnBuETA",
+      "title": "卧推系列⑧——RPE RM代入",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1766052000,
+      "duration": 806,
+      "pages": [
+        {
+          "page": 1,
+          "part": "卧推系列⑧——RPE RM代入"
+        }
+      ],
+      "desc": "本期为卧推系列⑧——RPE RM代入\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n增肌饮食误区：BV1aLyhBUEpP\n卧推系列先导片：BV1urUVBkE9d\n卧推系列②——RM至关重要：BV1oxUpBCEwc\n卧推系列③——训练计划前两周：BV1fyUABfERd\n卧推系列④——RPE：BV1XNUkBfERC\n卧推系列⑤——组间休息：BV1yyU8ByEgS\n卧推系列⑥——热身跟练：BV1LjUzBREQ1\n卧推系列⑦——睡眠：BV1rRSKBCE5p\n创业⑲——为了西安大采购：BV1a92rBnEws",
+      "url": "https://www.bilibili.com/video/BV1VqqnBuETA",
+      "pic": "http://i0.hdslb.com/bfs/archive/95682743adb84d22db70a115cf549d7dc69b9fc9.jpg",
+      "retrieved_at": "2026-11-12T02:32:43.913Z"
+    },
+    {
+      "bvid": "BV1RTq6B8ED7",
+      "title": "卧推系列⑩——饮食",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1766224800,
+      "duration": 1033,
+      "pages": [
+        {
+          "page": 1,
+          "part": "卧推系列⑩——饮食"
+        }
+      ],
+      "desc": "本期为卧推系列⑩——饮食\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n卧推系列先导片：BV1urUVBkE9d\n卧推系列④——RPE：BV1XNUkBfERC\n卧推系列⑤——组间休息：BV1yyU8ByEgS\n卧推系列⑥——热身跟练：BV1LjUzBREQ1\n卧推系列⑦——睡眠：BV1rRSKBCE5p\n创业⑲——为了西安大采购：BV1a92rBnEws\n卧推系列⑧——RPE RM代入：BV1VqqnBuETA",
+      "url": "https://www.bilibili.com/video/BV1RTq6B8ED7",
+      "pic": "http://i1.hdslb.com/bfs/archive/11961fbaa8024e9439bc2bb88ab22b5976bd1fe2.jpg",
+      "retrieved_at": "2026-11-12T02:32:45.457Z"
+    },
+    {
+      "bvid": "BV1VZBNBYELf",
+      "title": "创业⑳——拓得时代五周年碎碎念",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1766484000,
+      "duration": 1614,
+      "pages": [
+        {
+          "page": 1,
+          "part": "创业⑳——拓得时代五周年碎碎念"
+        }
+      ],
+      "desc": "本期为创业⑳——拓得时代五周年碎碎念\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n卧推系列先导片：BV1urUVBkE9d\n卧推系列④——RPE：BV1XNUkBfERC\n卧推系列⑤——组间休息：BV1yyU8ByEgS\n卧推系列⑥——热身跟练：BV1LjUzBREQ1\n卧推系列⑦——睡眠：BV1rRSKBCE5p\n创业⑲——为了西安大采购：BV1a92rBnEws\n卧推系列⑧——RPE RM代入：BV1VqqnBuETA\n卧推系列⑩——饮食：BV1RTq6B8ED7\n卧推系列⑫——卧推动作分享：BV1rvBWBcEZs",
+      "url": "https://www.bilibili.com/video/BV1VZBNBYELf",
+      "pic": "http://i0.hdslb.com/bfs/archive/4633077cbf934b0d17597e6930338f1fd86ea3cd.jpg",
+      "retrieved_at": "2026-11-12T02:32:46.610Z"
+    },
+    {
+      "bvid": "BV1YJvCBwECz",
+      "title": "卧推系列⑮——双杠臂屈伸",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1767019200,
+      "duration": 534,
+      "pages": [
+        {
+          "page": 1,
+          "part": "卧推系列⑮——双杠臂屈伸"
+        }
+      ],
+      "desc": "本期为卧推系列⑮——双杠臂屈伸\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n卧推系列先导片：BV1urUVBkE9d\n卧推系列⑧——RPE RM代入：BV1VqqnBuETA\n卧推系列⑩——饮食：BV1RTq6B8ED7\n卧推系列⑫——卧推动作分享：BV1rvBWBcEZs\n创业⑳——拓得时代五周年碎碎念：BV1VZBNBYELf\n大剪刀使用技巧详讲：BV1GiBLBtE85\n卧推系列⑬——哑铃推肩：BV1fUBDBKEYH\n卧推系列⑭——斗牛犬握：BV1vpBaB3Eui",
+      "url": "https://www.bilibili.com/video/BV1YJvCBwECz",
+      "pic": "http://i0.hdslb.com/bfs/archive/e1f2cc0211da38ff072dfdaadfdba8d35a946501.jpg",
+      "retrieved_at": "2026-11-12T02:32:47.952Z"
+    },
+    {
+      "bvid": "BV1yvv8BCEAN",
+      "title": "创业21——店庆感慨",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1767099600,
+      "duration": 645,
+      "pages": [
+        {
+          "page": 1,
+          "part": "创业21——店庆感慨"
+        }
+      ],
+      "desc": "本期为创业21——店庆感慨\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n卧推系列先导片：BV1urUVBkE9d\n卧推系列⑧——RPE RM代入：BV1VqqnBuETA\n卧推系列⑩——饮食：BV1RTq6B8ED7\n卧推系列⑫——卧推动作分享：BV1rvBWBcEZs\n创业⑳——拓得时代五周年碎碎念：BV1VZBNBYELf\n大剪刀使用技巧详讲：BV1GiBLBtE85\n卧推系列⑬——哑铃推肩：BV1fUBDBKEYH\n卧推系列⑭——斗牛犬握：BV1vpBaB3Eui\n卧推系列⑮——双杠臂屈伸：BV1YJvCBwECz",
+      "url": "https://www.bilibili.com/video/BV1yvv8BCEAN",
+      "pic": "http://i2.hdslb.com/bfs/archive/96826412a3c4734ff9bc54bdbba213cccc205888.jpg",
+      "retrieved_at": "2026-11-12T02:32:48.965Z"
+    },
+    {
+      "bvid": "BV15Y4y1u71f",
+      "title": "带新手训练系列②（如何用RM和RPE来规划训练重量与次数）",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1661518435,
+      "duration": 760,
+      "pages": [
+        {
+          "page": 1,
+          "part": "带新手训练系列②（如何用RM和RPE来规划训练重量与次数）"
+        }
+      ],
+      "desc": "新手训练系列①【小体重卧推技巧】BV1gt4y1n7Ya\n备赛训练系列①【腿部训练】BV1Aa411H76y\n备赛训练系列②【背部训练】BV1534y1n7A2\n备赛训练系列③【肩部训练】BV1oF411P7oL\n备赛训练系列④【腹部训练】BV1ka411U72J\n备赛训练系列⑤【手臂训练】BV1he4y1X7uY\n备赛训练系列⑥【肩胛训练】BV13t4y1G7Nx\n备赛训练系列⑦【胸部训练】BV1ba411P77r",
+      "url": "https://www.bilibili.com/video/BV15Y4y1u71f",
+      "pic": "http://i1.hdslb.com/bfs/archive/7bcf8bf625665ec80ab59761061efed846c0b30b.jpg",
+      "retrieved_at": "2026-11-12T02:32:50.027Z"
+    },
+    {
+      "bvid": "BV1Aa411H76y",
+      "title": "带小朋友备赛系列①（看别人练腿是一种快乐）",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1657976247,
+      "duration": 1689,
+      "pages": [
+        {
+          "page": 1,
+          "part": "带小朋友备赛系列①（看别人练腿是一种快乐）"
+        }
+      ],
+      "desc": "你的训练真的有强度吗？这次带大家参考下备赛期的训练，希望对你们的训练有新的启发\n以下是训练和饮食相关的分享，希望能帮到大家\n练出麒麟臂【手臂训练】BV1La411p7v1\n力量训练积累与转化【5X5训练计划】BV1DZ4y1y77T\n调理慢病 告别亚健康【轻断食】BV1PY411J7Un\n减脂小白指南【新手减脂大全】BV1WB4y1K7DQ\n6种饮食计划分析【饮食计划分析大全】BV1WB4y1K7DQ\n影响你健身进步的重要因素【超量恢复】 BV1cu411z7GV",
+      "url": "https://www.bilibili.com/video/BV1Aa411H76y",
+      "pic": "http://i1.hdslb.com/bfs/archive/c8136607734b965b37bd6ff7e0e8cca4cfd4d21f.jpg",
+      "retrieved_at": "2026-11-12T02:32:51.150Z"
+    },
+    {
+      "bvid": "BV1534y1n7A2",
+      "title": "带小朋友备赛系列②（背部训练干货分享）",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1658577591,
+      "duration": 1614,
+      "pages": [
+        {
+          "page": 1,
+          "part": "带小朋友备赛系列②（背部训练干货分享）"
+        }
+      ],
+      "desc": "你真的会练背吗？这次带大家感受一次有强度有质量的背部训练\n以下是训练和饮食相关的分享，希望能帮到大家\n备赛训练系列①【腿部训练】BV1Aa411H76y\n打造麒麟臂【手臂训练】BV1La411p7v1\n胸背训练基本功【肩胛大保健】BV1Fi4y1m73c\n力量训练积累与转化【5X5训练计划】BV1DZ4y1y77T\n调理慢病 告别亚健康【轻断食】BV1PY411J7Un\n减脂小白指南【新手减脂大全】BV1WB4y1K7DQ\n6种饮食计划分析【饮食计划分析大全】BV1WB4y1K7DQ",
+      "url": "https://www.bilibili.com/video/BV1534y1n7A2",
+      "pic": "http://i2.hdslb.com/bfs/archive/f1359be63214b35dc7e0be10d896cddd0ba381fb.jpg",
+      "retrieved_at": "2026-11-12T02:32:52.617Z"
+    },
+    {
+      "bvid": "BV1oF411P7oL",
+      "title": "带小朋友备赛系列③（练个肩快气吐血了）",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1658837905,
+      "duration": 2299,
+      "pages": [
+        {
+          "page": 1,
+          "part": "带小朋友备赛系列③（练个肩快气吐血了）"
+        }
+      ],
+      "desc": "各位看官久等，这次分享下肩部训练的细节，希望能给你们新的启发\n以下是训练和饮食相关的分享\n备赛训练系列①【腿部训练】BV1Aa411H76y\n备赛训练系列②【背部训练】BV1534y1n7A2\n打造麒麟臂【手臂训练】BV1La411p7v1\n训练的重要单位【RM】BV1XS4y1L7DZ\n胸背训练基本功【肩胛大保健】BV1Fi4y1m73c\n力量训练积累与转化【5X5训练计划】BV1DZ4y1y77T\n调理慢病 告别亚健康【轻断食】BV1PY411J7Un",
+      "url": "https://www.bilibili.com/video/BV1oF411P7oL",
+      "pic": "http://i0.hdslb.com/bfs/archive/e254ff3f6d1964724449487e3edb227fb75aef1b.jpg",
+      "retrieved_at": "2026-11-12T02:32:53.589Z"
+    },
+    {
+      "bvid": "BV1ka411U72J",
+      "title": "带小朋友备赛系列④（我说你之前怎么腹不行）",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1659095501,
+      "duration": 1255,
+      "pages": [
+        {
+          "page": 1,
+          "part": "带小朋友备赛系列④（我说你之前怎么腹不行）"
+        }
+      ],
+      "desc": "有些人说腹肌不用练，你也这么认为吗？希望本期视频能够让你得到启发。\n以下是训练和饮食相关的分享\n备赛训练系列①【腿部训练】BV1Aa411H76y\n备赛训练系列②【背部训练】BV1534y1n7A2\n备赛训练系列③【肩部训练】BV1oF411P7oL\n打造麒麟臂【手臂训练】BV1La411p7v1\n训练的重要单位【RM】BV1XS4y1L7DZ\n胸背训练基本功【肩胛大保健】BV1Fi4y1m73c\n调理慢病 告别亚健康【轻断食】BV1PY411J7Un",
+      "url": "https://www.bilibili.com/video/BV1ka411U72J",
+      "pic": "http://i2.hdslb.com/bfs/archive/77a9756bb2807c38274902f7868490d31ef661b1.jpg",
+      "retrieved_at": "2026-11-12T02:32:54.965Z"
+    },
+    {
+      "bvid": "BV1he4y1X7uY",
+      "title": "带小朋友备赛系列⑤（手臂训练的坑还真多）",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1659356265,
+      "duration": 1850,
+      "pages": [
+        {
+          "page": 1,
+          "part": "手臂视频"
+        }
+      ],
+      "desc": "想要练就一双麒麟臂，这些细节你得注意\r\n以下是训练和饮食相关的分享，希望对大家有所帮助\r\n备赛训练系列①【腿部训练】BV1Aa411H76y\r\n备赛训练系列②【背部训练】BV1534y1n7A2\r\n备赛训练系列③【肩部训练】BV1oF411P7oL\r\n备赛训练系列④【腹部训练】BV1ka411U72J\r\n打造麒麟臂【手臂训练】BV1La411p7v1\r\n胸背训练基本功【肩胛大保健】BV1Fi4y1m73c\r\n调理慢病 告别亚健康【轻断食】BV1PY411J7Un",
+      "url": "https://www.bilibili.com/video/BV1he4y1X7uY",
+      "pic": "http://i1.hdslb.com/bfs/archive/d86c6d1f7e5ff271624478a2cbba4adc234ab53d.jpg",
+      "retrieved_at": "2026-11-12T02:32:55.996Z"
+    },
+    {
+      "bvid": "BV1dw411D7Py",
+      "title": "新手硬拉大全！",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1693051200,
+      "duration": 803,
+      "pages": [
+        {
+          "page": 1,
+          "part": "新手硬拉大全！"
+        }
+      ],
+      "desc": "硬拉需要注意的细节很多，这一期就为大家好好讲解一下。\n以下为往期内容，大家要多学习哈！\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列②【二分化四肢】BV1YL411q7HR\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n新手增肌系列④【语文课】BV1eh411K7Aa\n新手增肌系列⑤【躯干拉伸】BV1Eu41187oU",
+      "url": "https://www.bilibili.com/video/BV1dw411D7Py",
+      "pic": "http://i2.hdslb.com/bfs/archive/273891eee4803a2af87ddc711a61656b0754459d.jpg",
+      "retrieved_at": "2026-11-12T02:32:57.451Z"
+    },
+    {
+      "bvid": "BV1nb4y1M7By",
+      "title": "杠铃弯举详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1701418835,
+      "duration": 514,
+      "pages": [
+        {
+          "page": 1,
+          "part": "杠铃弯举详解"
+        }
+      ],
+      "desc": "想要一个饱满的肱二头肌吗？快来学起吧！\n以下为往期内容：\n训练前如何热身：BV1Nw411u7t8\n做什么可以提高练腿效率：BV1CQ4y1n7YR\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列②【二分化四肢】BV1YL411q7HR\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm",
+      "url": "https://www.bilibili.com/video/BV1nb4y1M7By",
+      "pic": "http://i0.hdslb.com/bfs/archive/e8984d1c034d8805b3dbaaffc79e7f1fa52b1a08.jpg",
+      "retrieved_at": "2026-11-12T02:32:58.993Z"
+    },
+    {
+      "bvid": "BV14w411V7Yj",
+      "title": "平板支撑详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1703160000,
+      "duration": 330,
+      "pages": [
+        {
+          "page": 1,
+          "part": "平板支撑详解"
+        }
+      ],
+      "desc": "本视频教大家如何做平板支撑\n以下为往期作品：\n训练前如何热身：BV1Nw411u7t8\n做什么可以提高练腿效率：BV1CQ4y1n7YR\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列②【二分化四肢】BV1YL411q7HR\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n杠铃弯举详解：BV1nb4y1M7By",
+      "url": "https://www.bilibili.com/video/BV14w411V7Yj",
+      "pic": "http://i0.hdslb.com/bfs/archive/0da2378d19743b5b62752c47131a880c65ad401b.jpg",
+      "retrieved_at": "2026-11-12T02:33:00.110Z"
+    },
+    {
+      "bvid": "BV1ij411H773",
+      "title": "哑铃划船详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1703073600,
+      "duration": 492,
+      "pages": [
+        {
+          "page": 1,
+          "part": "哑铃划船详解"
+        }
+      ],
+      "desc": "本期为哑铃划船细节教学\n以下为往期作品：\n训练前如何热身：BV1Nw411u7t8\n做什么可以提高练腿效率：BV1CQ4y1n7YR\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列②【二分化四肢】BV1YL411q7HR\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n杠铃弯举详解：BV1nb4y1M7By",
+      "url": "https://www.bilibili.com/video/BV1ij411H773",
+      "pic": "http://i2.hdslb.com/bfs/archive/35479f32fc6c50fe979be8a7f3da191050ca1512.jpg",
+      "retrieved_at": "2026-11-12T02:33:01.665Z"
+    },
+    {
+      "bvid": "BV1FC4y1T7q4",
+      "title": "胸椎灵活性训练详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1703505600,
+      "duration": 326,
+      "pages": [
+        {
+          "page": 1,
+          "part": "胸椎灵活性训练详解"
+        }
+      ],
+      "desc": "本期为胸椎灵活性训练详解\n以下为往期作品：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列②【二分化四肢】BV1YL411q7HR\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n杠铃弯举详解：BV1nb4y1M7By\n平板支撑详解：BV14w411V7Yj\n哑铃划船详解：BV1ij411H773",
+      "url": "https://www.bilibili.com/video/BV1FC4y1T7q4",
+      "pic": "http://i2.hdslb.com/bfs/archive/110fb2e9d51eb6e4a9410765a1d2b0867db599b8.jpg",
+      "retrieved_at": "2026-11-12T02:33:03.000Z"
+    },
+    {
+      "bvid": "BV1xq5pz4ENW",
+      "title": "拉伸详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1745056800,
+      "duration": 320,
+      "pages": [
+        {
+          "page": 1,
+          "part": "拉伸详解"
+        }
+      ],
+      "desc": "本期为拉伸详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n白石桥南新店——采购器械：BV1mQQ2YLENn\n拆拆拆：BV1eQQRY7EKH\n翼状肩胛调整详解：BV1gYXAYYEzj\n蹭饭三——减脂实操 ：BV1S4XhYgEwm\nTUT(张力下时间)详解：BV1Ta5ez8ECo\n蹭饭四——维生素与矿物质详解：BV1Zp57zhEed",
+      "url": "https://www.bilibili.com/video/BV1xq5pz4ENW",
+      "pic": "http://i2.hdslb.com/bfs/archive/c6cc5db38fb69a91c185a7c5adfe842f2d6475ca.jpg",
+      "retrieved_at": "2026-11-12T02:33:04.398Z"
+    },
+    {
+      "bvid": "BV19eLAzDELv",
+      "title": "蹭饭五—健美备赛脱水与营养科学详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1745142706,
+      "duration": 3358,
+      "pages": [
+        {
+          "page": 1,
+          "part": "蹭饭五—健美备赛脱水与营养科学详解"
+        }
+      ],
+      "desc": "本期为蹭饭五—健美备赛脱水与营养科学详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n白石桥南新店——采购器械：BV1mQQ2YLENn\n拆拆拆：BV1eQQRY7EKH\n翼状肩胛调整详解：BV1gYXAYYEzj\n蹭饭三——减脂实操 ：BV1S4XhYgEwm\nTUT(张力下时间)详解：BV1Ta5ez8ECo\n蹭饭四——维生素与矿物质详解：BV1Zp57zhEed\n拉伸详解：BV1xq5pz4ENW",
+      "url": "https://www.bilibili.com/video/BV19eLAzDELv",
+      "pic": "http://i1.hdslb.com/bfs/archive/f79faffb7b8750c60b2fe12a35088a9daac5af3d.jpg",
+      "retrieved_at": "2026-11-12T02:33:05.405Z"
+    },
+    {
+      "bvid": "BV1DCLtzDE6e",
+      "title": "西安钢铁森林走起",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1745402400,
+      "duration": 25,
+      "pages": [
+        {
+          "page": 1,
+          "part": "西安钢铁森林走起"
+        }
+      ],
+      "desc": "本期为西安钢铁森林走起\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n白石桥南新店——采购器械：BV1mQQ2YLENn\n蹭饭三——减脂实操 ：BV1S4XhYgEwm\nTUT(张力下时间)详解：BV1Ta5ez8ECo\n蹭饭四——维生素与矿物质详解：BV1Zp57zhEed\n拉伸详解：BV1xq5pz4ENW\n蹭饭五—健美备赛脱水与营养科学详解：BV19eLAzDELv",
+      "url": "https://www.bilibili.com/video/BV1DCLtzDE6e",
+      "pic": "http://i1.hdslb.com/bfs/archive/d91be79308c05f51bc41a47760b3f2cf03866973.jpg",
+      "retrieved_at": "2026-11-12T02:33:06.714Z"
+    },
+    {
+      "bvid": "BV14x4y147Jw",
+      "title": "史密斯深蹲详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1721649600,
+      "duration": 577,
+      "pages": [
+        {
+          "page": 1,
+          "part": "史密斯深蹲详解"
+        }
+      ],
+      "desc": "本期为史密斯深蹲详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n卧推突破辅项训练详解：BV1XZ421M7iU\n动物流肩胛训练详解：BV19W421X7xa\n龙门绳索弯举详解：BV1sw4m1k7JV\n动物流手指筋膜放松详解：BV114421U7ni\n动物流腕关节训练详解：BV12T42167aM",
+      "url": "https://www.bilibili.com/video/BV14x4y147Jw",
+      "pic": "http://i1.hdslb.com/bfs/archive/42aa1fa20ed3c537087cafd308f00c0ff90d33a8.jpg",
+      "retrieved_at": "2026-11-12T02:33:07.862Z"
+    },
+    {
+      "bvid": "BV1K14218728",
+      "title": "肩胛功能对比详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1721736000,
+      "duration": 491,
+      "pages": [
+        {
+          "page": 1,
+          "part": "肩胛功能对比详解"
+        }
+      ],
+      "desc": "本期为肩胛功能对比详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n动物流肩胛训练详解：BV19W421X7xa\n龙门绳索弯举详解：BV1sw4m1k7JV\n动物流手指筋膜放松详解：BV114421U7ni\n动物流腕关节训练详解：BV12T42167aM\n史密斯深蹲详解：BV14x4y147Jw",
+      "url": "https://www.bilibili.com/video/BV1K14218728",
+      "pic": "http://i1.hdslb.com/bfs/archive/d8ced789382895c0f092e498ef2024e270869974.jpg",
+      "retrieved_at": "2026-11-12T02:33:08.795Z"
+    },
+    {
+      "bvid": "BV1Nx4y147dj",
+      "title": "腹横肌激活（真空腹）详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1721822400,
+      "duration": 323,
+      "pages": [
+        {
+          "page": 1,
+          "part": "腹横肌激活（真空腹）详解"
+        }
+      ],
+      "desc": "本期为腹横肌激活（真空腹）详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n动物流肩胛训练详解：BV19W421X7xa\n龙门绳索弯举详解：BV1sw4m1k7JV\n动物流手指筋膜放松详解：BV114421U7ni\n动物流腕关节训练详解：BV12T42167aM\n史密斯深蹲详解：BV14x4y147Jw\n肩胛功能对比详解：BV1K14218728",
+      "url": "https://www.bilibili.com/video/BV1Nx4y147dj",
+      "pic": "http://i0.hdslb.com/bfs/archive/ac99fcfac45331be226d8b5f8ea219f3a9885b4f.jpg",
+      "retrieved_at": "2026-11-12T02:33:10.296Z"
+    },
+    {
+      "bvid": "BV1Cz421i79n",
+      "title": "对握哑铃仰卧臂屈伸详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1721908800,
+      "duration": 460,
+      "pages": [
+        {
+          "page": 1,
+          "part": "对握哑铃仰卧臂屈伸详解"
+        }
+      ],
+      "desc": "本期为对握哑铃仰卧臂屈伸详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n动物流手指筋膜放松详解：BV114421U7ni\n动物流腕关节训练详解：BV12T42167aM\n史密斯深蹲详解：BV14x4y147Jw\n肩胛功能对比详解：BV1K14218728\n腹横肌激活（真空腹）详解：BV1Nx4y147dj",
+      "url": "https://www.bilibili.com/video/BV1Cz421i79n",
+      "pic": "http://i2.hdslb.com/bfs/archive/9d95f73ec4fff5d1730a9332012ab71d1b693089.jpg",
+      "retrieved_at": "2026-11-12T02:33:11.446Z"
+    },
+    {
+      "bvid": "BV1mJfMBmEUX",
+      "title": "卧推系列⑱——13-16周训练计划",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1771840800,
+      "duration": 14,
+      "pages": [
+        {
+          "page": 1,
+          "part": "卧推系列⑱——13-16周训练计划"
+        }
+      ],
+      "desc": "本期为卧推系列⑱——13-16周训练计划\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n卧推系列⑫——卧推动作分享：BV1rvBWBcEZs\n创业⑳——拓得时代五周年碎碎念：BV1VZBNBYELf\n卧推系列⑮——双杠臂屈伸：BV1YJvCBwECz\n创业21——店庆感慨：BV1yvv8BCEAN\n蹭饭十二——掉肌肉详解：BV1tEkxBsE8M\n卧推系列⑯——9-12周训练计划：BV182kYBEER7\n把哑铃夹胸当功能训练：BV1Puk7BbEhe\n蛋白质摄入量详讲：BV1A4zjB7EcE\n创业22——退款：BV178zWBtEVD\n创业23——相互选择：BV1JLzQBrEFZ\n创业24——为什么健身房容易倒闭：BV1ECzaBDEi5\n透视学动作①——卧推详解：BV1ZHzMBmEtj\n透视学动作②——哑铃推肩详解：BV1xtzCBhEYN\n透视学动作③——罗马尼亚硬拉详解 ：BV1qF6wBaEWu\n卧推系列⑰——腿驱：BV1Di6qB9EbC",
+      "url": "https://www.bilibili.com/video/BV1mJfMBmEUX",
+      "pic": "http://i0.hdslb.com/bfs/archive/6d3be4f219a6a596d3a5cd8d043d8778ceea223a.jpg",
+      "retrieved_at": "2026-11-12T02:33:12.702Z"
+    },
+    {
+      "bvid": "BV1zyAUztE1n",
+      "title": "透视学动作④——正反高位下拉的区别",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1772187172,
+      "duration": 791,
+      "pages": [
+        {
+          "page": 1,
+          "part": "透视学动作④——正反高位下拉的区别"
+        }
+      ],
+      "desc": "本期为透视学动作④——正反高位下拉的区别\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n创业⑳——拓得时代五周年碎碎念：BV1VZBNBYELf\n创业21——店庆感慨：BV1yvv8BCEAN\n蹭饭十二——掉肌肉详解：BV1tEkxBsE8M\n创业22——退款：BV178zWBtEVD\n创业24——为什么健身房容易倒闭：BV1ECzaBDEi5\n透视学动作①——卧推详解：BV1ZHzMBmEtj\n透视学动作②——哑铃推肩详解：BV1xtzCBhEYN\n透视学动作③——罗马尼亚硬拉详解 ：BV1qF6wBaEWu\n卧推系列⑰——腿驱：BV1Di6qB9EbC\n卧推系列⑱——13-16周训练计划：BV1mJfMBmEUX\n机械张力：BV1zTf2B3Ead\n创业25—— 一定要有存销比的概念：BV1AbfbBAEuM\n创业26——开业后新增器械：BV1gmA6zWEzi",
+      "url": "https://www.bilibili.com/video/BV1zyAUztE1n",
+      "pic": "http://i0.hdslb.com/bfs/archive/006f90caea151333498ae378024347e0e0c78d52.jpg",
+      "retrieved_at": "2026-11-12T02:33:13.728Z"
+    },
+    {
+      "bvid": "BV1cdAwzeEe5",
+      "title": "创业29——薅器械羊毛",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1774087200,
+      "duration": 542,
+      "pages": [
+        {
+          "page": 1,
+          "part": "创业29——薅器械羊毛"
+        }
+      ],
+      "desc": "本期为创业29——薅器械羊毛\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n蹭饭十二——掉肌肉详解：BV1tEkxBsE8M\n卧推系列⑰——腿驱：BV1Di6qB9EbC\n卧推系列⑱——13-16周训练计划：BV1mJfMBmEUX\n机械张力：BV1zTf2B3Ead\n创业25—— 一定要有存销比的概念：BV1AbfbBAEuM\n创业26——开业后新增器械：BV1gmA6zWEzi\n透视学动作①——卧推详解：BV1ZHzMBmEtj\n透视学动作②——哑铃推肩详解：BV1xtzCBhEYN\n透视学动作③——罗马尼亚硬拉详解 ：BV1qF6wBaEWu\n透视学动作④——正反高位下拉的区别：BV1zyAUztE1n\n器械技巧系列——马格南详讲：BV1QxwvzuEQj\n创业28——对自由教练开放：BV1dDwkzKESZ",
+      "url": "https://www.bilibili.com/video/BV1cdAwzeEe5",
+      "pic": "http://i1.hdslb.com/bfs/archive/6185eddd071081c75b9a0e2bc9c42df80fbc7896.jpg",
+      "retrieved_at": "2026-11-12T02:33:14.703Z"
+    },
+    {
+      "bvid": "BV1cS96BSE18",
+      "title": "器械技巧系列5——如何练好二头",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1777370400,
+      "duration": 883,
+      "pages": [
+        {
+          "page": 1,
+          "part": "器械技巧系列5——如何练好二头"
+        }
+      ],
+      "desc": "本期为器械技巧系列5——如何练好二头\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n卧推系列⑰——腿驱：BV1Di6qB9EbC\n卧推系列⑱——13-16周训练计划：BV1mJfMBmEUX\n透视学动作③——罗马尼亚硬拉详解 ：BV1qF6wBaEWu\n透视学动作④——正反高位下拉的区别：BV1zyAUztE1n\n创业28——对自由教练开放：BV1dDwkzKESZ\n创业29——薅器械羊毛：BV1cdAwzeEe5\n器械技巧系列3——蝴蝶机夹胸：BV1W4X5B1EZE\n器械技巧系列4——Newtech高位下拉：BV1HVdpBMEET\n凯圣王-谭成义三分化合集：BV17ooLBUEqS\n凯圣王-谭成义三分化⑤——跟练腿股四头肌腘绳肌 ：BV17aovBqEdg\n凯圣王-谭成义三分化⑥——约练背vlog ：BV1SEorB6Ekj",
+      "url": "https://www.bilibili.com/video/BV1cS96BSE18",
+      "pic": "http://i0.hdslb.com/bfs/archive/a3a6f442c52506ad12334942183a3e5c26f985c9.jpg",
+      "retrieved_at": "2026-11-12T02:33:15.991Z"
+    },
+    {
+      "bvid": "BV17ooLBUEqS",
+      "title": "凯圣王-谭成义三分化合集",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1777040562,
+      "duration": 16071,
+      "pages": [
+        {
+          "page": 1,
+          "part": "凯圣王-谭成义三分化合集"
+        }
+      ],
+      "desc": "本期为凯圣王-谭成义三分化合集\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n卧推系列⑰——腿驱：BV1Di6qB9EbC\n卧推系列⑱——13-16周训练计划：BV1mJfMBmEUX\n透视学动作③——罗马尼亚硬拉详解 ：BV1qF6wBaEWu\n透视学动作④——正反高位下拉的区别：BV1zyAUztE1n\n创业28——对自由教练开放：BV1dDwkzKESZ\n创业29——薅器械羊毛：BV1cdAwzeEe5\n器械技巧系列3——蝴蝶机夹胸：BV1W4X5B1EZE\n器械技巧系列4——Newtech高位下拉：BV1HVdpBMEET\n凯圣王-谭成义三分化①——训练计划:BV1FcdZBNEm3\n凯圣王-谭成义三分化②——跟练胸肩三头：BV1CSoKBaEgK\n凯圣王-谭成义三分化③——名词释义：BV1hCdSBaEvw\n凯圣王-谭成义三分化④——跟练背三角肌后束二头：BV1v5opBhEDc",
+      "url": "https://www.bilibili.com/video/BV17ooLBUEqS",
+      "pic": "http://i0.hdslb.com/bfs/archive/70f4a6e4f9714434ca644bd8324b1159c9aa3339.jpg",
+      "retrieved_at": "2026-11-12T02:33:17.193Z"
+    },
+    {
+      "bvid": "BV1N6786uEts",
+      "title": "【凯圣王—张丹玥女性训练与健康系列】第④期激素周期与训练饮食",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1782380658,
+      "duration": 959,
+      "pages": [
+        {
+          "page": 1,
+          "part": "【凯圣王—张丹玥女性训练与健康系列】第④期激素周期与训练饮食"
+        }
+      ],
+      "desc": "本期为【凯圣王—张丹玥女性训练与健康系列】第④期激素周期与训练饮食 \n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n卧推系列⑰——腿驱：BV1Di6qB9EbC\n卧推系列⑱——13-16周训练计划：BV1mJfMBmEUX\n透视学动作③——罗马尼亚硬拉详解 ：BV1qF6wBaEWu\n透视学动作④——正反高位下拉的区别：BV1zyAUztE1n\n创业28——对自由教练开放：BV1dDwkzKESZ\n创业29——薅器械羊毛：BV1cdAwzeEe5\n器械技巧系列4——Newtech高位下拉：BV1HVdpBMEET\n器械技巧系列5——如何练好二头：BV1cS96BSE18\n凯圣王-谭成义三分化合集：BV17ooLBUEqS\n【凯圣王—张丹玥女性训练与健康系列】第①期女性力量训练 ：BV1qtGx6AEMz\n【凯圣王—张丹玥女性训练与健康系列】第②期抗衰：BV185G16CERy\n【凯圣王—张丹玥女性训练与健康系列】第③期二分化计划：BV14dGX6fEhq",
+      "url": "https://www.bilibili.com/video/BV1N6786uEts",
+      "pic": "http://i0.hdslb.com/bfs/archive/3ae6b9bb7888d19af856e5c6c326cca34524c685.jpg",
+      "retrieved_at": "2026-11-12T02:33:18.216Z"
+    },
+    {
+      "bvid": "BV1aQ1VYyE5B",
+      "title": "三分化-训练节奏详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1730109600,
+      "duration": 644,
+      "pages": [
+        {
+          "page": 1,
+          "part": "三分化-训练节奏详解"
+        }
+      ],
+      "desc": "本期为三分化-训练节奏详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n单手侧平举详解：BV1RGy3YzEz9\n跪姿健腹轮详解：BV1FGCRYiEyj\n推类中护腕和握法详解：BV1phy8YgEGY\n蝴蝶机夹胸详解：BV1fTyVYDE1j\n训练组数与增肌详解：BV1S31FYvErH\n三分化开篇：BV1Ne1MYQEyh",
+      "url": "https://www.bilibili.com/video/BV1aQ1VYyE5B",
+      "pic": "http://i2.hdslb.com/bfs/archive/345074fe2abcc004fafc4a941ca8b4e0be6d9c32.jpg",
+      "retrieved_at": "2026-11-12T02:33:19.130Z"
+    },
+    {
+      "bvid": "BV1hjUVYJE8X",
+      "title": "三分化-计划上",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1731574703,
+      "duration": 1265,
+      "pages": [
+        {
+          "page": 1,
+          "part": "三分化-计划上"
+        }
+      ],
+      "desc": "本期为三分化-计划上\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n跪姿健腹轮详解：BV1FGCRYiEyj\n推类中护腕和握法详解：BV1phy8YgEGY\n蝴蝶机夹胸详解：BV1fTyVYDE1j\n训练组数与增肌详解：BV1S31FYvErH\n三分化开篇：BV1Ne1MYQEyh\n三分化-训练节奏详解：BV1aQ1VYyE5B",
+      "url": "https://www.bilibili.com/video/BV1hjUVYJE8X",
+      "pic": "http://i0.hdslb.com/bfs/archive/b23dd76b9857a9a326e0182ec0773c9a6005c6d4.jpg",
+      "retrieved_at": "2026-11-12T02:33:20.713Z"
+    },
+    {
+      "bvid": "BV1KZU8Y4EoF",
+      "title": "三分化-计划中",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1731758400,
+      "duration": 952,
+      "pages": [
+        {
+          "page": 1,
+          "part": "三分化-计划中"
+        }
+      ],
+      "desc": "本期为三分化-计划中\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n蝴蝶机夹胸详解：BV1fTyVYDE1j\n训练组数与增肌详解：BV1S31FYvErH\n三分化开篇：BV1Ne1MYQEyh\n三分化-训练节奏详解：BV1aQ1VYyE5B\n三分化-计划上：BV1hjUVYJE8X\n首次3D讲解八大体态问题/做全家的体态康复师：BV1qdmoYUECG",
+      "url": "https://www.bilibili.com/video/BV1KZU8Y4EoF",
+      "pic": "http://i0.hdslb.com/bfs/archive/fb262729537c20c2690fe9bffb287f1f342307b1.jpg",
+      "retrieved_at": "2026-11-12T02:33:22.213Z"
+    },
+    {
+      "bvid": "BV1ZZTfzAEDy",
+      "title": "创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1749707287,
+      "duration": 466,
+      "pages": [
+        {
+          "page": 1,
+          "part": "创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）"
+        }
+      ],
+      "desc": "本期为创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n补剂系列②——蛋白粉：BV1AvJbzDENd\n补剂③——支链氨基酸详解：BV1D9JizDEww\n创业⑥——新馆装修进展：BV1K3JnzNECV\n蹭饭七——抗氧化详解：BV1KJj4zVE2D\n补剂④——谷氨酰胺详解：BV1M8j2zTE1a",
+      "url": "https://www.bilibili.com/video/BV1ZZTfzAEDy",
+      "pic": "http://i1.hdslb.com/bfs/archive/dfe36cf22e8586446ea52b320af313184014ee7a.jpg",
+      "retrieved_at": "2026-11-12T02:33:23.746Z"
+    },
+    {
+      "bvid": "BV1D1WszwEJT",
+      "title": "蹭饭十——备赛最后两周",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1760781600,
+      "duration": 2317,
+      "pages": [
+        {
+          "page": 1,
+          "part": "蹭饭十——备赛最后两周"
+        }
+      ],
+      "desc": "本期为蹭饭十——备赛最后两周\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）：BV1ZZTfzAEDy\n全身功能性筛查与跟练⑤——肘外翻：BV185peznE5n\n全身功能性筛查与跟练⑥——骨盆前倾：BV17Lp9zHELA\n直臂下压详解 ：BV13fJQzYE7p\n哑铃推肩与哑铃侧平举详解：BV13fnvzpE8o",
+      "url": "https://www.bilibili.com/video/BV1D1WszwEJT",
+      "pic": "http://i1.hdslb.com/bfs/archive/923c39e351be33997fac80a7e1b45e91cd9e6ec5.jpg",
+      "retrieved_at": "2026-11-12T02:33:24.976Z"
+    },
+    {
+      "bvid": "BV1ujsAziEPq",
+      "title": "蹭饭⑪——素食主义",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1760868000,
+      "duration": 680,
+      "pages": [
+        {
+          "page": 1,
+          "part": "蹭饭⑪——素食主义"
+        }
+      ],
+      "desc": "本期为蹭饭⑪——素食主义\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）：BV1ZZTfzAEDy\n全身功能性筛查与跟练⑤——肘外翻：BV185peznE5n\n全身功能性筛查与跟练⑥——骨盆前倾：BV17Lp9zHELA\n直臂下压详解 ：BV13fJQzYE7p\n哑铃推肩与哑铃侧平举详解：BV13fnvzpE8o\n蹭饭十——备赛最后两周：BV1D1WszwEJT",
+      "url": "https://www.bilibili.com/video/BV1ujsAziEPq",
+      "pic": "http://i1.hdslb.com/bfs/archive/9f840ec6da8f9a9630f1217d79dcb233e14ab46f.jpg",
+      "retrieved_at": "2026-11-12T02:33:26.596Z"
+    },
+    {
+      "bvid": "BV1A1s3zUEN6",
+      "title": "FMS七项运动筛查详讲",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1760954400,
+      "duration": 1949,
+      "pages": [
+        {
+          "page": 1,
+          "part": "FMS七项运动筛查详讲"
+        }
+      ],
+      "desc": "本期为FMS七项运动筛查详讲\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）：BV1ZZTfzAEDy\n全身功能性筛查与跟练⑥——骨盆前倾：BV17Lp9zHELA\n哑铃推肩与哑铃侧平举详解：BV13fnvzpE8o\n蹭饭十——备赛最后两周：BV1D1WszwEJT\n蹭饭⑪——素食主义：BV1ujsAziEPq",
+      "url": "https://www.bilibili.com/video/BV1A1s3zUEN6",
+      "pic": "http://i1.hdslb.com/bfs/archive/39304d24ddf9b4885eea0764f268bd1b0d91745d.jpg",
+      "retrieved_at": "2026-11-12T02:33:28.045Z"
+    },
+    {
+      "bvid": "BV1Di6qB9EbC",
+      "title": "卧推系列⑰——腿驱",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1769771362,
+      "duration": 201,
+      "pages": [
+        {
+          "page": 1,
+          "part": "卧推系列⑰——腿驱"
+        }
+      ],
+      "desc": "本期为卧推系列⑰——腿驱\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n卧推系列⑫——卧推动作分享：BV1rvBWBcEZs\n创业⑳——拓得时代五周年碎碎念：BV1VZBNBYELf\n卧推系列⑮——双杠臂屈伸：BV1YJvCBwECz\n创业21——店庆感慨：BV1yvv8BCEAN\n蹭饭十二——掉肌肉详解：BV1tEkxBsE8M\n卧推系列⑯——9-12周训练计划：BV182kYBEER7\n把哑铃夹胸当功能训练：BV1Puk7BbEhe\n蛋白质摄入量详讲：BV1A4zjB7EcE\n创业22——退款：BV178zWBtEVD\n创业23——相互选择：BV1JLzQBrEFZ\n创业24——为什么健身房容易倒闭：BV1ECzaBDEi5\n透视学动作①——卧推详解：BV1ZHzMBmEtj\n透视学动作②——哑铃推肩详解：BV1xtzCBhEYN\n透视学动作③——罗马尼亚硬拉详解 ：BV1qF6wBaEWu",
+      "url": "https://www.bilibili.com/video/BV1Di6qB9EbC",
+      "pic": "http://i1.hdslb.com/bfs/archive/df69b3e6073c04bc0418a053ec0a7865dd94c561.jpg",
+      "retrieved_at": "2026-11-12T02:33:29.403Z"
+    },
+    {
+      "bvid": "BV1qF6wBaEWu",
+      "title": "透视学动作③——罗马尼亚硬拉详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1769697078,
+      "duration": 396,
+      "pages": [
+        {
+          "page": 1,
+          "part": "透视学动作③——罗马尼亚硬拉详解"
+        }
+      ],
+      "desc": "本期为透视学动作③——罗马尼亚硬拉详解 \n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n卧推系列⑫——卧推动作分享：BV1rvBWBcEZs\n创业⑳——拓得时代五周年碎碎念：BV1VZBNBYELf\n卧推系列⑮——双杠臂屈伸：BV1YJvCBwECz\n创业21——店庆感慨：BV1yvv8BCEAN\n蹭饭十二——掉肌肉详解：BV1tEkxBsE8M\n卧推系列⑯——9-12周训练计划：BV182kYBEER7\n把哑铃夹胸当功能训练：BV1Puk7BbEhe\n蛋白质摄入量详讲：BV1A4zjB7EcE\n创业22——退款：BV178zWBtEVD\n透视学动作①——卧推详解：BV1ZHzMBmEtj\n透视学动作②——哑铃推肩详解：BV1xtzCBhEYN\n创业23——相互选择：BV1JLzQBrEFZ\n创业24——为什么健身房容易倒闭：BV1ECzaBDEi5",
+      "url": "https://www.bilibili.com/video/BV1qF6wBaEWu",
+      "pic": "http://i2.hdslb.com/bfs/archive/183a088067ff002ba1ea9870275f39899e5e1279.jpg",
+      "retrieved_at": "2026-11-12T02:33:30.316Z"
+    },
+    {
+      "bvid": "BV1dDwkzKESZ",
+      "title": "创业28——对自由教练开放",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1773914400,
+      "duration": 332,
+      "pages": [
+        {
+          "page": 1,
+          "part": "创业28——对自由教练开放"
+        }
+      ],
+      "desc": "本期为创业28——对自由教练开放\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n蹭饭十二——掉肌肉详解：BV1tEkxBsE8M\n卧推系列⑰——腿驱：BV1Di6qB9EbC\n卧推系列⑱——13-16周训练计划：BV1mJfMBmEUX\n机械张力：BV1zTf2B3Ead\n创业25—— 一定要有存销比的概念：BV1AbfbBAEuM\n创业26——开业后新增器械：BV1gmA6zWEzi\n透视学动作①——卧推详解：BV1ZHzMBmEtj\n透视学动作②——哑铃推肩详解：BV1xtzCBhEYN\n透视学动作③——罗马尼亚硬拉详解 ：BV1qF6wBaEWu\n透视学动作④——正反高位下拉的区别：BV1zyAUztE1n\n器械技巧系列——马格南详讲：BV1QxwvzuEQj",
+      "url": "https://www.bilibili.com/video/BV1dDwkzKESZ",
+      "pic": "http://i2.hdslb.com/bfs/archive/fefa819ef4a157ecdedcb449ab25e2999925d62c.jpg",
+      "retrieved_at": "2026-11-12T02:33:31.799Z"
+    },
+    {
+      "bvid": "BV1c2kdYMEKS",
+      "title": "泵感详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1735033852,
+      "duration": 710,
+      "pages": [
+        {
+          "page": 1,
+          "part": "泵感详解"
+        }
+      ],
+      "desc": "本期为泵感详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n健身房你不要做的事：BV1LfztYyEUU\n三分化胸部计划-第三视角跟练：BV1YwkwYBESW\n三分化背部计划-第三视角跟练：BV1MvkxYPEDR\n三分化腿+肩计划-第三视角跟练：BV1yCkqY4ERs\n三分化-练后怎么吃详解：BV1mnCGYFEUw",
+      "url": "https://www.bilibili.com/video/BV1c2kdYMEKS",
+      "pic": "http://i0.hdslb.com/bfs/archive/f960e43ce13da501d4bf568644a0ce7261ed1ec5.jpg",
+      "retrieved_at": "2026-11-12T02:33:32.960Z"
+    },
+    {
+      "bvid": "BV1G4CaYoEhC",
+      "title": "动物流—蟹式支撑详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1735207200,
+      "duration": 464,
+      "pages": [
+        {
+          "page": 1,
+          "part": "动物流—蟹式支撑详解"
+        }
+      ],
+      "desc": "本期为动物流—蟹式支撑详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n三分化背部计划-第三视角跟练：BV1MvkxYPEDR\n三分化腿+肩计划-第三视角跟练：BV1yCkqY4ERs\n三分化-练后怎么吃详解：BV1mnCGYFEUw\n泵感详解：BV1c2kdYMEKS\n动物流—兽式支撑详解：BV15aCPYSEzb",
+      "url": "https://www.bilibili.com/video/BV1G4CaYoEhC",
+      "pic": "http://i2.hdslb.com/bfs/archive/a2f5cd2dd63a6b05a8400bcd8525e5ed0b7031c2.jpg",
+      "retrieved_at": "2026-11-12T02:33:34.012Z"
+    },
+    {
+      "bvid": "BV1m9CJYSEpF",
+      "title": "动物流—波浪释放详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1735292365,
+      "duration": 394,
+      "pages": [
+        {
+          "page": 1,
+          "part": "动物流—波浪释放详解"
+        }
+      ],
+      "desc": "本期为动物流—波浪释放详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n三分化背部计划-第三视角跟练：BV1MvkxYPEDR\n三分化腿+肩计划-第三视角跟练：BV1yCkqY4ERs\n三分化-练后怎么吃详解：BV1mnCGYFEUw\n泵感详解：BV1c2kdYMEKS\n动物流—兽式支撑详解：BV15aCPYSEzb\n动物流—蟹式支撑详解：BV1G4CaYoEhC",
+      "url": "https://www.bilibili.com/video/BV1m9CJYSEpF",
+      "pic": "http://i1.hdslb.com/bfs/archive/2661d9e94b718eb81de431e35f6854ed585944a7.jpg",
+      "retrieved_at": "2026-11-12T02:33:34.991Z"
+    },
+    {
+      "bvid": "BV1a56tYBEX9",
+      "title": "动物流—手腕活动详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1735466400,
+      "duration": 232,
+      "pages": [
+        {
+          "page": 1,
+          "part": "动物流—手腕活动详解"
+        }
+      ],
+      "desc": "本期为动物流—手腕活动详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n三分化腿+肩计划-第三视角跟练：BV1yCkqY4ERs\n三分化-练后怎么吃详解：BV1mnCGYFEUw\n泵感详解：BV1c2kdYMEKS\n动物流—兽式支撑详解：BV15aCPYSEzb\n动物流—蟹式支撑详解：BV1G4CaYoEhC\n动物流—波浪释放详解：BV1m9CJYSEpF",
+      "url": "https://www.bilibili.com/video/BV1a56tYBEX9",
+      "pic": "http://i1.hdslb.com/bfs/archive/5d5fd24948675de776e6e1d416db7c8a70ba5255.jpg",
+      "retrieved_at": "2026-11-12T02:33:36.382Z"
+    },
+    {
+      "bvid": "BV1VN6GY8EVw",
+      "title": "动物流—团身详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1735552800,
+      "duration": 166,
+      "pages": [
+        {
+          "page": 1,
+          "part": "动物流—团身详解"
+        }
+      ],
+      "desc": "本期为动物流—团身详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n三分化-练后怎么吃详解：BV1mnCGYFEUw\n泵感详解：BV1c2kdYMEKS\n动物流—兽式支撑详解：BV15aCPYSEzb\n动物流—蟹式支撑详解：BV1G4CaYoEhC\n动物流—波浪释放详解：BV1m9CJYSEpF\n动物流—手腕活动详解：BV1a56tYBEX9",
+      "url": "https://www.bilibili.com/video/BV1VN6GY8EVw",
+      "pic": "http://i1.hdslb.com/bfs/archive/f460f9ba091c6437eb60c8981a5b9965b46734fe.jpg",
+      "retrieved_at": "2026-11-12T02:33:37.422Z"
+    },
+    {
+      "bvid": "BV1xV6JYTEEB",
+      "title": "背+后束加强动作详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1735638267,
+      "duration": 435,
+      "pages": [
+        {
+          "page": 1,
+          "part": "背+后束加强动作详解"
+        }
+      ],
+      "desc": "本期为背+后束加强动作详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n泵感详解：BV1c2kdYMEKS\n动物流—兽式支撑详解：BV15aCPYSEzb\n动物流—蟹式支撑详解：BV1G4CaYoEhC\n动物流—波浪释放详解：BV1m9CJYSEpF\n动物流—手腕活动详解：BV1a56tYBEX9\n动物流—团身详解：BV1VN6GY8EVw",
+      "url": "https://www.bilibili.com/video/BV1xV6JYTEEB",
+      "pic": "http://i2.hdslb.com/bfs/archive/aa3f7c8f8c7befd3df5ce5ea2c347593f992130d.jpg",
+      "retrieved_at": "2026-11-12T02:33:38.497Z"
+    },
+    {
+      "bvid": "BV13VEXzFEFa",
+      "title": "髋外展不对称详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1747648800,
+      "duration": 474,
+      "pages": [
+        {
+          "page": 1,
+          "part": "髋外展不对称详解"
+        }
+      ],
+      "desc": "本期为髋外展不对称详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n蹭饭五—健美备赛脱水与营养科学详解：BV19eLAzDELv\n西安钢铁森林走起：BV1DCLtzDE6e\n西安拓得时代训练馆【这条路我走了15年，又怎么会冲动呢】：BV13fLizCETX\n蹭饭番外：BV1enjAzWEui\n补剂系列①——肌酸：BV13CJuzCEF9",
+      "url": "https://www.bilibili.com/video/BV13VEXzFEFa",
+      "pic": "http://i0.hdslb.com/bfs/archive/45b05620ee501525edfabef6b3cc5dbce74ec005.jpg",
+      "retrieved_at": "2026-11-12T02:33:40.029Z"
+    },
+    {
+      "bvid": "BV1AvJbzDENd",
+      "title": "补剂系列②——蛋白粉",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1747735200,
+      "duration": 1194,
+      "pages": [
+        {
+          "page": 1,
+          "part": "补剂系列②——蛋白粉"
+        }
+      ],
+      "desc": "本期为补剂系列②——蛋白粉\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n蹭饭五—健美备赛脱水与营养科学详解：BV19eLAzDELv\n西安钢铁森林走起：BV1DCLtzDE6e\n西安拓得时代训练馆【这条路我走了15年，又怎么会冲动呢】：BV13fLizCETX\n蹭饭番外：BV1enjAzWEui\n补剂系列①——肌酸：BV13CJuzCEF9\n髋外展不对称详解：BV13VEXzFEFa",
+      "url": "https://www.bilibili.com/video/BV1AvJbzDENd",
+      "pic": "http://i1.hdslb.com/bfs/archive/30256e19b391851aa236159deef4a3067eddf47f.jpg",
+      "retrieved_at": "2026-11-12T02:33:41.079Z"
+    },
+    {
+      "bvid": "BV1D9JizDEww",
+      "title": "补剂③——支链氨基酸详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1747821600,
+      "duration": 612,
+      "pages": [
+        {
+          "page": 1,
+          "part": "补剂③——支链氨基酸详解"
+        }
+      ],
+      "desc": "本期为补剂③——支链氨基酸详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n西安钢铁森林走起：BV1DCLtzDE6e\n西安拓得时代训练馆【这条路我走了15年，又怎么会冲动呢】：BV13fLizCETX\n蹭饭番外：BV1enjAzWEui\n补剂系列①——肌酸：BV13CJuzCEF9\n髋外展不对称详解：BV13VEXzFEFa\n补剂系列②——蛋白粉：BV1AvJbzDENd",
+      "url": "https://www.bilibili.com/video/BV1D9JizDEww",
+      "pic": "http://i0.hdslb.com/bfs/archive/a5aa811812baeb8f4d5fd4a43c6725dcd22bc2f2.jpg",
+      "retrieved_at": "2026-11-12T02:33:42.290Z"
+    },
+    {
+      "bvid": "BV1K3JnzNECV",
+      "title": "创业⑥——新馆装修进展",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1747908000,
+      "duration": 501,
+      "pages": [
+        {
+          "page": 1,
+          "part": "创业⑥——新馆装修进展"
+        }
+      ],
+      "desc": "本期为创业⑥——新馆装修进展\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n西安钢铁森林走起：BV1DCLtzDE6e\n西安拓得时代训练馆【这条路我走了15年，又怎么会冲动呢】：BV13fLizCETX\n补剂系列①——肌酸：BV13CJuzCEF9\n髋外展不对称详解：BV13VEXzFEFa\n补剂系列②——蛋白粉：BV1AvJbzDENd\n补剂③——支链氨基酸详解：BV1D9JizDEww",
+      "url": "https://www.bilibili.com/video/BV1K3JnzNECV",
+      "pic": "http://i2.hdslb.com/bfs/archive/1d761da7f2ace50b979949101c47735d6a6fbbff.jpg",
+      "retrieved_at": "2026-11-12T02:33:43.546Z"
+    },
+    {
+      "bvid": "BV1SHPYerENo",
+      "title": "T杆划船和麒麟爆拉",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1740477600,
+      "duration": 417,
+      "pages": [
+        {
+          "page": 1,
+          "part": "T杆划船和麒麟爆拉"
+        }
+      ],
+      "desc": "本期为T杆划船和麒麟爆拉\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n高碳减脂？碳水详解：BV1qvF3eUEuA\n卧推思路—肌间协调性详解：BV1jUNtekETF\n【练腿前健身房+居家热身详解】超长版本 建议先收藏：BV1mhNue3ExA\n【健身房+居家上肢功能性训练】超长版本 建议先收藏 ：BV111NmeLEPP\n如何减出更好状态：BV1YUAoe7EaX\n杠铃划船练背思路：BV1uaPNewEGe",
+      "url": "https://www.bilibili.com/video/BV1SHPYerENo",
+      "pic": "http://i1.hdslb.com/bfs/archive/33ce9cd3ca8fa7941ae21249704fe9a10196b7de.jpg",
+      "retrieved_at": "2026-11-12T02:33:45.064Z"
+    },
+    {
+      "bvid": "BV1WV9wYnELR",
+      "title": "哑铃划船-练背常见问题与发力技巧",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1740651000,
+      "duration": 374,
+      "pages": [
+        {
+          "page": 1,
+          "part": "哑铃划船-练背常见问题与发力技巧"
+        }
+      ],
+      "desc": "本期为哑铃划船-练背常见问题与发力技巧\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n高碳减脂？碳水详解：BV1qvF3eUEuA\n卧推思路—肌间协调性详解：BV1jUNtekETF\n【练腿前健身房+居家热身详解】超长版本 建议先收藏：BV1mhNue3ExA\n【健身房+居家上肢功能性训练】超长版本 建议先收藏 ：BV111NmeLEPP\n如何减出更好状态：BV1YUAoe7EaX\n杠铃划船练背思路：BV1uaPNewEGe\nT杆划船和麒麟爆拉：BV1SHPYerENo",
+      "url": "https://www.bilibili.com/video/BV1WV9wYnELR",
+      "pic": "http://i2.hdslb.com/bfs/archive/0c22c783e597a32736669e6cff72af6f92324dca.jpg",
+      "retrieved_at": "2026-11-12T02:33:46.580Z"
+    },
+    {
+      "bvid": "BV1mQQ2YLENn",
+      "title": "白石桥南新店——采购器械",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1742032800,
+      "duration": 448,
+      "pages": [
+        {
+          "page": 1,
+          "part": "白石桥南新店——采购器械"
+        }
+      ],
+      "desc": "本期为白石桥南新店——采购器械\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n如何减出更好状态：BV1YUAoe7EaX\n杠铃划船练背思路：BV1uaPNewEGe\nT杆划船和麒麟爆拉：BV1SHPYerENo\n哑铃划船-练背常见问题与发力技巧：BV1WV9wYnELR\n蹭饭第二集（本期蹭饭由康比特友情赞助）：BV1vzRGYTEPs",
+      "url": "https://www.bilibili.com/video/BV1mQQ2YLENn",
+      "pic": "http://i0.hdslb.com/bfs/archive/b45bcba568348ab669f5f9cd494e5910ffd5f57a.jpg",
+      "retrieved_at": "2026-11-12T02:33:47.923Z"
+    },
+    {
+      "bvid": "BV1eQQRY7EKH",
+      "title": "拆拆拆",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1742378400,
+      "duration": 430,
+      "pages": [
+        {
+          "page": 1,
+          "part": "拆拆拆"
+        }
+      ],
+      "desc": "本期为拆拆拆\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n如何减出更好状态：BV1YUAoe7EaX\n杠铃划船练背思路：BV1uaPNewEGe\nT杆划船和麒麟爆拉：BV1SHPYerENo\n哑铃划船-练背常见问题与发力技巧：BV1WV9wYnELR\n蹭饭第二集（本期蹭饭由康比特友情赞助）：BV1vzRGYTEPs\n白石桥南新店——采购器械：BV1mQQ2YLENn",
+      "url": "https://www.bilibili.com/video/BV1eQQRY7EKH",
+      "pic": "http://i1.hdslb.com/bfs/archive/b6cfbcfd1d88c6ab34fbff46d2a3ad391c08ff49.jpg",
+      "retrieved_at": "2026-11-12T02:33:48.862Z"
+    },
+    {
+      "bvid": "BV1gYXAYYEzj",
+      "title": "翼状肩胛调整详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1742465400,
+      "duration": 314,
+      "pages": [
+        {
+          "page": 1,
+          "part": "翼状肩胛调整详解"
+        }
+      ],
+      "desc": "本期为翼状肩胛调整详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n杠铃划船练背思路：BV1uaPNewEGe\nT杆划船和麒麟爆拉：BV1SHPYerENo\n哑铃划船-练背常见问题与发力技巧：BV1WV9wYnELR\n蹭饭第二集（本期蹭饭由康比特友情赞助）：BV1vzRGYTEPs\n白石桥南新店——采购器械：BV1mQQ2YLENn\n拆拆拆：BV1eQQRY7EKH",
+      "url": "https://www.bilibili.com/video/BV1gYXAYYEzj",
+      "pic": "http://i0.hdslb.com/bfs/archive/64118ce7c45c627522314daaec6e6dcf5fd3d312.jpg",
+      "retrieved_at": "2026-11-12T02:33:50.049Z"
+    },
+    {
+      "bvid": "BV111NmeLEPP",
+      "title": "【健身房+居家上肢功能性训练】超长版本 建议先收藏",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1739095200,
+      "duration": 3376,
+      "pages": [
+        {
+          "page": 1,
+          "part": "【健身房+居家上肢功能性训练】超长版本 建议先收藏"
+        }
+      ],
+      "desc": "本期为【健身房+居家上肢功能性训练】超长版本 建议先收藏 \n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n动物流—团身详解：BV1VN6GY8EVw\n背+后束加强动作详解：BV1xV6JYTEEB\n蹭饭系列：BV1tBcaecEdy\n高碳减脂？碳水详解：BV1qvF3eUEuA\n卧推思路—肌间协调性详解：BV1jUNtekETF\n【练腿前健身房+居家热身详解】超长版本 建议先收藏：BV1mhNue3ExA",
+      "url": "https://www.bilibili.com/video/BV111NmeLEPP",
+      "pic": "http://i1.hdslb.com/bfs/archive/429c1d048293df52d57a5463170ba723ca59320a.jpg",
+      "retrieved_at": "2026-11-12T02:33:51.391Z"
+    },
+    {
+      "bvid": "BV1uaPNewEGe",
+      "title": "杠铃划船练背思路",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1740218400,
+      "duration": 890,
+      "pages": [
+        {
+          "page": 1,
+          "part": "杠铃划船练背思路"
+        }
+      ],
+      "desc": "本期为杠铃划船练背思路\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n蹭饭系列：BV1tBcaecEdy\n高碳减脂？碳水详解：BV1qvF3eUEuA\n卧推思路—肌间协调性详解：BV1jUNtekETF\n【练腿前健身房+居家热身详解】超长版本 建议先收藏：BV1mhNue3ExA\n【健身房+居家上肢功能性训练】超长版本 建议先收藏 ：BV111NmeLEPP\n如何减出更好状态：BV1YUAoe7EaX",
+      "url": "https://www.bilibili.com/video/BV1uaPNewEGe",
+      "pic": "http://i2.hdslb.com/bfs/archive/2a0a180f4142078b1052530fbec1ffcefbba27a3.jpg",
+      "retrieved_at": "2026-11-12T02:33:52.966Z"
+    },
+    {
+      "bvid": "BV1GiBLBtE85",
+      "title": "大剪刀使用技巧详讲",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1766570400,
+      "duration": 708,
+      "pages": [
+        {
+          "page": 1,
+          "part": "大剪刀使用技巧详讲"
+        }
+      ],
+      "desc": "本期为大剪刀使用技巧详讲\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n卧推系列先导片：BV1urUVBkE9d\n卧推系列⑦——睡眠：BV1rRSKBCE5p\n创业⑲——为了西安大采购：BV1a92rBnEws\n卧推系列⑧——RPE RM代入：BV1VqqnBuETA\n卧推系列⑩——饮食：BV1RTq6B8ED7\n卧推系列⑫——卧推动作分享：BV1rvBWBcEZs\n创业⑳——拓得时代五周年碎碎念：BV1VZBNBYELf",
+      "url": "https://www.bilibili.com/video/BV1GiBLBtE85",
+      "pic": "http://i1.hdslb.com/bfs/archive/33139213441dae43b9471ee35c50a1abfd831810.jpg",
+      "retrieved_at": "2026-11-12T02:33:54.227Z"
+    },
+    {
+      "bvid": "BV1fUBDBKEYH",
+      "title": "卧推系列⑬——哑铃推肩",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1766656800,
+      "duration": 616,
+      "pages": [
+        {
+          "page": 1,
+          "part": "卧推系列⑬——哑铃推肩"
+        }
+      ],
+      "desc": "本期为卧推系列⑬——哑铃推肩\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n卧推系列先导片：BV1urUVBkE9d\n卧推系列⑦——睡眠：BV1rRSKBCE5p\n创业⑲——为了西安大采购：BV1a92rBnEws\n卧推系列⑧——RPE RM代入：BV1VqqnBuETA\n卧推系列⑩——饮食：BV1RTq6B8ED7\n卧推系列⑫——卧推动作分享：BV1rvBWBcEZs\n创业⑳——拓得时代五周年碎碎念：BV1VZBNBYELf\n大剪刀使用技巧详讲：BV1GiBLBtE85",
+      "url": "https://www.bilibili.com/video/BV1fUBDBKEYH",
+      "pic": "http://i0.hdslb.com/bfs/archive/7c9ff2e95542a4f39c421e2c821237094bea7ebc.jpg",
+      "retrieved_at": "2026-11-12T02:33:55.256Z"
+    },
+    {
+      "bvid": "BV1NAg3z7EkS",
+      "title": "全身功能性筛查与跟练①——肩关节",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1752832800,
+      "duration": 729,
+      "pages": [
+        {
+          "page": 1,
+          "part": "全身功能性筛查与跟练①——肩关节"
+        }
+      ],
+      "desc": "本期为全身功能性筛查与跟练①——肩关节\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）：BV1ZZTfzAEDy\nY字侧平举详解：BV17hNXz6Exv\n创业⑨——梦想照进现实：BV1RnKtzPEef\n创业⑩——场地介绍：BV1raKJz9E27\n创业⑪——教练考试：BV1u4KUzDE86",
+      "url": "https://www.bilibili.com/video/BV1NAg3z7EkS",
+      "pic": "http://i2.hdslb.com/bfs/archive/4013053a93eb2777decb152d67a03a00a764af63.jpg",
+      "retrieved_at": "2026-11-12T02:33:56.210Z"
+    },
+    {
+      "bvid": "BV1kkg8zaEMr",
+      "title": "补剂⑨——鱼油详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1753005600,
+      "duration": 481,
+      "pages": [
+        {
+          "page": 1,
+          "part": "补剂⑨——鱼油详解"
+        }
+      ],
+      "desc": "本期为补剂⑨——鱼油详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）：BV1ZZTfzAEDy\n创业⑨——梦想照进现实：BV1RnKtzPEef\n创业⑩——场地介绍：BV1raKJz9E27\n创业⑪——教练考试：BV1u4KUzDE86\n全身功能性筛查与跟练①——肩关节：BV1NAg3z7EkS\n蹭饭八——水果详解：BV12DuRzuEpX",
+      "url": "https://www.bilibili.com/video/BV1kkg8zaEMr",
+      "pic": "http://i1.hdslb.com/bfs/archive/8df962d6b9fd226c97767e3100565b27ebd8c987.jpg",
+      "retrieved_at": "2026-11-12T02:33:57.639Z"
+    },
+    {
+      "bvid": "BV1gRbDzSER1",
+      "title": "箭步蹲详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1753524300,
+      "duration": 277,
+      "pages": [
+        {
+          "page": 1,
+          "part": "箭步蹲详解"
+        }
+      ],
+      "desc": "本期为箭步蹲详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）：BV1ZZTfzAEDy\n创业⑪——教练考试：BV1u4KUzDE86\n全身功能性筛查与跟练①——肩关节：BV1NAg3z7EkS\n蹭饭八——水果详解：BV12DuRzuEpX\n补剂⑨——鱼油详解：BV1kkg8zaEMr",
+      "url": "https://www.bilibili.com/video/BV1gRbDzSER1",
+      "pic": "http://i2.hdslb.com/bfs/archive/58942b6c2a95936f2bd5ce8b88b08964a9c73a72.jpg",
+      "retrieved_at": "2026-11-12T02:33:58.664Z"
+    },
+    {
+      "bvid": "BV1eG4y1Q7cT",
+      "title": "【功能训练系列】开篇!什么是功能训练，为什么要开发身体功能",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1674993600,
+      "duration": 635,
+      "pages": [
+        {
+          "page": 1,
+          "part": "【功能训练系列】开篇!什么是功能训练，为什么要开发身体功能"
+        }
+      ],
+      "desc": "这将是一个系列视频，本视频为开篇。\n我们将为大家讲述功能性训练的重要性以及作用，并且详细的教大家动作细节以及提供训练计划。\n以下为往期内容：\n【肱骨前移、圆肩驼背的解决】：BV1ie4y1W7iZ\n【引体向上的解锁与加强】：BV1Ke4y1S7qc\n【小体重深蹲干货】：BV1BD4y1B7Z9\n【小体重卧推干货】：BV1gt4y1n7Ya\n【新手硬拉干货】：BV1Qe4y1C7Rp",
+      "url": "https://www.bilibili.com/video/BV1eG4y1Q7cT",
+      "pic": "http://i2.hdslb.com/bfs/archive/7c0dcf24459762b8dba9b4059f26c4a2f3c80b33.jpg",
+      "retrieved_at": "2026-11-12T02:33:59.560Z"
+    },
+    {
+      "bvid": "BV1xY411S747",
+      "title": "【功能训练系列②】 28个核心训练技能包！从零基础到进阶！收藏向！",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1675425600,
+      "duration": 3947,
+      "pages": [
+        {
+          "page": 1,
+          "part": "【功能训练系列②】 28个核心训练技能包！从零基础到进阶！收藏向！"
+        }
+      ],
+      "desc": "本视频为功能性训练系列的核心提高部分，大家要加油。\n以下为往期内容：\n【什么是功能性训练】BV1eG4y1Q7cT\n【肱骨前移、圆肩驼背的解决】：BV1ie4y1W7iZ\n【引体向上的解锁与加强】：BV1Ke4y1S7qc\n【小体重深蹲干货】：BV1BD4y1B7Z9\n【小体重卧推干货】：BV1gt4y1n7Ya",
+      "url": "https://www.bilibili.com/video/BV1xY411S747",
+      "pic": "http://i0.hdslb.com/bfs/archive/628bf11762dca981eafbb3ed6ca5c7c1b357f2dd.jpg",
+      "retrieved_at": "2026-11-12T02:34:00.735Z"
+    },
+    {
+      "bvid": "BV1qv4y1t7BE",
+      "title": "【功能训练系列③】25个技能包！别让胸椎肩胛成为你进步的绊脚石！！！",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1676030400,
+      "duration": 3547,
+      "pages": [
+        {
+          "page": 1,
+          "part": "【功能训练系列③】别让胸椎肩胛成为你进步的绊脚石！！！"
+        }
+      ],
+      "desc": "上肢训练的运动表现与胸椎、肩胛、肩关节的功能息息相关，大家一定不要忽视身体功能的开发\n往期干货分享\n功能训练系列①【开篇】BV1eG4y1Q7cT\n功能训练系列②【核心进阶训练】BV1xY411S747\n带新手训练系列⑥【弯举的细节】BV1uD4y1i78J\n新手入门计划【健身房一分化】BV14v4y1G7A3\n调理慢病 告别亚健康【轻断食】BV1PY411J7Un\n力量提升【5X5计划】BV1DZ4y1y77T\n减脂指南【6种饮食方式】BV1Ng41137qq",
+      "url": "https://www.bilibili.com/video/BV1qv4y1t7BE",
+      "pic": "http://i0.hdslb.com/bfs/archive/fe6bb827f81412303b321caa93d4f4eec0389bd8.jpg",
+      "retrieved_at": "2026-11-12T02:34:01.754Z"
+    },
+    {
+      "bvid": "BV1pY411e7Kb",
+      "title": "【功能性训练系列④】练完了等于换了个髋关节！蹲拉弹跳暴涨！20个技能包！",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1676635200,
+      "duration": 2614,
+      "pages": [
+        {
+          "page": 1,
+          "part": "【功能性训练系列④】练完了等于换了个髋关节！蹲拉弹跳暴涨！20个技能包！"
+        }
+      ],
+      "desc": "下肢训练的效果离不开髋关节的功能，灵活度、稳定性等等都是我们一定要去提升的。\n往期干货分享\n功能训练系列①【开篇】BV1eG4y1Q7cT\n功能训练系列②【核心进阶训练】BV1xY411S747\n功能训练系列③【胸椎肩胛训练】BV1qv4y1t7BE\n带新手训练系列⑥【弯举的细节】BV1uD4y1i78J\n新手入门计划【健身房一分化】BV14v4y1G7A3\n调理慢病 告别亚健康【轻断食】BV1PY411J7Un\n力量提升【5X5计划】BV1DZ4y1y77T",
+      "url": "https://www.bilibili.com/video/BV1pY411e7Kb",
+      "pic": "http://i2.hdslb.com/bfs/archive/71d699c4921203d13e2a42795bc5d5b2b901014c.jpg",
+      "retrieved_at": "2026-11-12T02:34:03.271Z"
+    },
+    {
+      "bvid": "BV1uD4y1i78J",
+      "title": "带新手训练系列⑥（看似简单的弯举）",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1663486762,
+      "duration": 1064,
+      "pages": [
+        {
+          "page": 1,
+          "part": "带新手训练系列⑥（看似简单的弯举）"
+        }
+      ],
+      "desc": "看似简单的一个二头弯举，也有很多的细节与技巧\n以下是新手训练及备赛系列分享，希望能给大家新的启发\n新手训练系列①【小体重卧推技巧】BV1gt4y1n7Ya\n新手训练系列②【RM和RPE的应用】BV15Y4y1u71f\n新手训练系列③【小体重深蹲干货】BV1BD4y1B7Z9\n新手训练系列④【背部发力感教学】BV15e411u7a9\n新手训练系列⑤【新手硬拉教学】BV1Qe4y1C7Rp\n备赛训练系列①【腿部训练】BV1Aa411H76y\n备赛训练系列②【背部训练】BV1534y1n7A2",
+      "url": "https://www.bilibili.com/video/BV1uD4y1i78J",
+      "pic": "http://i2.hdslb.com/bfs/archive/c39411b418260fbe13fdfbfa3f217aa88cfeb92d.jpg",
+      "retrieved_at": "2026-11-12T02:34:04.760Z"
+    },
+    {
+      "bvid": "BV1DZ4y1y77T",
+      "title": "【新手福利】5乘5训练计划，从理论到计划到实操！！帮你省点私教费",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1650190205,
+      "duration": 2319,
+      "pages": [
+        {
+          "page": 1,
+          "part": "去部分开头版本最终"
+        }
+      ],
+      "desc": "这次给大家填个坑，分享下大家期待已久的5X5训练计划！\n各位观众老爷觉得有用的话别忘了点个关注给个三连啊！\n以下是训练和饮食相关的分享，希望可以帮助到大家\n工欲善其器 必先利其器【热身理论+实操】 BV1Dg411N7qa\n训练的重要单位【RM】BV1XS4y1L7DZ\n自我感知训练强度【RPE】BV1tr4y1Y7uZ\n安全拿放哑铃【拒绝伤病】BV1234y1k7au\n影响你健身进步的重要因素【超量恢复】 BV1cu411z7GV\n调理慢病 告别亚健康【轻断食】BV1PY411J7Un",
+      "url": "https://www.bilibili.com/video/BV1DZ4y1y77T",
+      "pic": "http://i2.hdslb.com/bfs/archive/820b8fbfe5766700e8d3c5ec6a94e96d5decd36d.jpg",
+      "retrieved_at": "2026-11-12T02:34:07.227Z"
+    },
+    {
+      "bvid": "BV1XS4y1L7DZ",
+      "title": "【RM】所有训练计划都会用到的单位！不要总盯着公斤看了",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1643540407,
+      "duration": 513,
+      "pages": [
+        {
+          "page": 1,
+          "part": "什么是rm"
+        }
+      ],
+      "desc": "很多小伙伴迷茫训练重量应该用多重，不用去参考别人用多少公斤啦，训练的重量应该按自己的训练水平来\n可能在你眼里的小重量对别人来说已经非常有挑战了，本期视频详细介绍了训练的重量单位RM，觉得有帮助的小伙伴不要忘了给个三连哦!\n以下是训练和饮食相关的分享，希望可以帮助到大家\n最佳运动表现【PR】BV1R44y1p7KG\n自我感知强度【RPE】BV1tr4y1Y7uZ\n给自己定制四分化训练【四分化】BV1Cq4y1D7b1\n减脂饮食技巧【碳水后置】BV18N411f7gp",
+      "url": "https://www.bilibili.com/video/BV1XS4y1L7DZ",
+      "pic": "http://i0.hdslb.com/bfs/archive/85135ab043c97642b6d61a4aa777a20bc0a715f0.jpg",
+      "retrieved_at": "2026-11-12T02:34:08.395Z"
+    },
+    {
+      "bvid": "BV1cu411z7GV",
+      "title": "就离谱，我怎么越练越不行了？！【超量恢复】",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1647434968,
+      "duration": 466,
+      "pages": [
+        {
+          "page": 1,
+          "part": "最终版"
+        }
+      ],
+      "desc": "这期咱们就说一说超量恢复吧\n以下是训练和减脂饮食相关的分享，希望能帮到大家\n减脂小白指南【新手减脂大全】BV1WB4y1K7DQ\n6种饮食计划分析【饮食计划分析大全】BV1Ng41137qq\n减脂饮食技巧【碳水后置】BV18N411f7gp\n摄入与消耗【能量平衡】：BV1jS4y1G74h\n减脂期大杀器【碳水循环】：BV1Gh411479A",
+      "url": "https://www.bilibili.com/video/BV1cu411z7GV",
+      "pic": "http://i1.hdslb.com/bfs/archive/d709664fc658faf277793cafc21cf34c5ce1a0ca.jpg",
+      "retrieved_at": "2026-11-12T02:34:09.934Z"
+    },
+    {
+      "bvid": "BV1Ng41137qq",
+      "title": "【减脂饮食指南】【6种饮食方式如何选择】",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1624541269,
+      "duration": 2461,
+      "pages": [
+        {
+          "page": 1,
+          "part": "【减脂饮食指南】【6种饮食方式如何选择】"
+        }
+      ],
+      "desc": "减脂饮食思路\n【热量、能量平衡】\n【碳蛋脂比例】\n【时间参数】【体脂、bmi、有无训练】\n【碳水循环、生酮饮食、轻断食、地中海饮食、常规分餐、低碳高蛋白 如何选择】",
+      "url": "https://www.bilibili.com/video/BV1Ng41137qq",
+      "pic": "http://i0.hdslb.com/bfs/archive/08be6a6b887a14b0eca549b66c6377018b438528.jpg",
+      "retrieved_at": "2026-11-12T02:34:11.087Z"
+    },
+    {
+      "bvid": "BV18N411f7gp",
+      "title": "减脂第十天/碳水在身体内的去向/碳水前置后置的区别/碳水循环计划的简聊/训练前什么时间吃碳水",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1620304449,
+      "duration": 1299,
+      "pages": [
+        {
+          "page": 1,
+          "part": "减脂第十天/碳水在身体内的去向/碳水前置后置的区别/碳水循环计划的简聊/训练前什么时间吃碳水"
+        }
+      ],
+      "desc": "-",
+      "url": "https://www.bilibili.com/video/BV18N411f7gp",
+      "pic": "http://i1.hdslb.com/bfs/archive/f00d28362a1c42d53bd116ed6468559abf2c9b57.jpg",
+      "retrieved_at": "2026-11-12T02:34:12.378Z"
+    },
+    {
+      "bvid": "BV1qz421R7rG",
+      "title": "实力举详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1709208000,
+      "duration": 679,
+      "pages": [
+        {
+          "page": 1,
+          "part": "实力举详解"
+        }
+      ],
+      "desc": "本期为实力举详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n水平外展详解：BV1KC411p7ag\n悬垂举腿详解：BV1nJ4m1e7bj\n箭步蹲详解：BV1Et42187nB\n前锯肌训练详解：BV1Vx42127ZE\n肩袖肌群训练详解：BV1yW421A7rn",
+      "url": "https://www.bilibili.com/video/BV1qz421R7rG",
+      "pic": "http://i2.hdslb.com/bfs/archive/a1efe7154aa76be7be7bbf0a32632bbbf53c0029.jpg",
+      "retrieved_at": "2026-11-12T02:34:13.731Z"
+    },
+    {
+      "bvid": "BV18J4m1878Q",
+      "title": "深蹲热身详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1710763200,
+      "duration": 764,
+      "pages": [
+        {
+          "page": 1,
+          "part": "深蹲热身详解"
+        }
+      ],
+      "desc": "本期为深蹲热身详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n悬垂举腿详解：BV1nJ4m1e7bj\n箭步蹲详解：BV1Et42187nB\n前锯肌训练详解：BV1Vx42127ZE\n肩袖肌群训练详解：BV1yW421A7rn\n实力举详解：BV1qz421R7rG",
+      "url": "https://www.bilibili.com/video/BV18J4m1878Q",
+      "pic": "http://i1.hdslb.com/bfs/archive/8b5b140a7c320687984dde339296913d866fef08.jpg",
+      "retrieved_at": "2026-11-12T02:34:14.782Z"
+    },
+    {
+      "bvid": "BV1pr421n7Wq",
+      "title": "核心训练详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1710849600,
+      "duration": 874,
+      "pages": [
+        {
+          "page": 1,
+          "part": "核心训练详解"
+        }
+      ],
+      "desc": "本期为核心训练详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n箭步蹲详解：BV1Et42187nB\n前锯肌训练详解：BV1Vx42127ZE\n肩袖肌群训练详解：BV1yW421A7rn\n实力举详解：BV1qz421R7rG\n深蹲热身详解：BV18J4m1878Q",
+      "url": "https://www.bilibili.com/video/BV1pr421n7Wq",
+      "pic": "http://i1.hdslb.com/bfs/archive/c1770e7f7cefaeaef0473a46e2004447caaf1e65.jpg",
+      "retrieved_at": "2026-11-12T02:34:16.265Z"
+    },
+    {
+      "bvid": "BV1i2421P7cE",
+      "title": "卧推前热身详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1711108800,
+      "duration": 1013,
+      "pages": [
+        {
+          "page": 1,
+          "part": "卧推前热身详解"
+        }
+      ],
+      "desc": "本期为卧推前热身详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n肩袖肌群训练详解：BV1yW421A7rn\n实力举详解：BV1qz421R7rG\n深蹲热身详解：BV18J4m1878Q\n核心训练详解：BV1pr421n7Wq\n减脂的重要思路：BV1iF4m1F7JQ",
+      "url": "https://www.bilibili.com/video/BV1i2421P7cE",
+      "pic": "http://i0.hdslb.com/bfs/archive/37bb8d845fd8b4a5c2050941b1ac27435fda5b5d.jpg",
+      "retrieved_at": "2026-11-12T02:34:17.474Z"
+    },
+    {
+      "bvid": "BV1XNUkBfERC",
+      "title": "卧推系列④——RPE",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1763978400,
+      "duration": 711,
+      "pages": [
+        {
+          "page": 1,
+          "part": "卧推系列④——RPE"
+        }
+      ],
+      "desc": "本期为卧推系列④——RPE\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）：BV1ZZTfzAEDy\nFMS七项运动筛查详讲：BV1A1s3zUEN6\n增肌饮食误区：BV1aLyhBUEpP\n卧推系列先导片：BV1urUVBkE9d\n卧推系列②——RM至关重要：BV1oxUpBCEwc\n卧推系列③——训练计划前两周：BV1fyUABfERd",
+      "url": "https://www.bilibili.com/video/BV1XNUkBfERC",
+      "pic": "http://i2.hdslb.com/bfs/archive/e86e88b7f0c3aa2bd661795753a28875e01ba4f7.jpg",
+      "retrieved_at": "2026-11-12T02:34:19.014Z"
+    },
+    {
+      "bvid": "BV1yyU8ByEgS",
+      "title": "卧推系列⑤——组间休息",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1764152700,
+      "duration": 554,
+      "pages": [
+        {
+          "page": 1,
+          "part": "卧推系列⑤——组间休息"
+        }
+      ],
+      "desc": "本期为卧推系列⑤——组间休息\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）：BV1ZZTfzAEDy\nFMS七项运动筛查详讲：BV1A1s3zUEN6\n增肌饮食误区：BV1aLyhBUEpP\n卧推系列先导片：BV1urUVBkE9d\n卧推系列②——RM至关重要：BV1oxUpBCEwc\n卧推系列③——训练计划前两周：BV1fyUABfERd\n卧推系列④——RPE：BV1XNUkBfERC",
+      "url": "https://www.bilibili.com/video/BV1yyU8ByEgS",
+      "pic": "http://i1.hdslb.com/bfs/archive/a5ede73aef05286a9bfa23186086c83025c920ee.jpg",
+      "retrieved_at": "2026-11-12T02:34:20.103Z"
+    },
+    {
+      "bvid": "BV1rRSKBCE5p",
+      "title": "卧推系列⑦——睡眠",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1764497400,
+      "duration": 909,
+      "pages": [
+        {
+          "page": 1,
+          "part": "卧推系列⑦——睡眠"
+        }
+      ],
+      "desc": "本期为卧推系列⑦——睡眠\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n增肌饮食误区：BV1aLyhBUEpP\n卧推系列先导片：BV1urUVBkE9d\n卧推系列②——RM至关重要：BV1oxUpBCEwc\n卧推系列③——训练计划前两周：BV1fyUABfERd\n卧推系列④——RPE：BV1XNUkBfERC\n卧推系列⑤——组间休息：BV1yyU8ByEgS\n卧推系列⑥——热身跟练：BV1LjUzBREQ1",
+      "url": "https://www.bilibili.com/video/BV1rRSKBCE5p",
+      "pic": "http://i0.hdslb.com/bfs/archive/68afd0d58779c1d9e3f7d56c789f2400f110989e.jpg",
+      "retrieved_at": "2026-11-12T02:34:21.427Z"
+    },
+    {
+      "bvid": "BV1a92rBnEws",
+      "title": "创业⑲——为了西安大采购",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1765274400,
+      "duration": 269,
+      "pages": [
+        {
+          "page": 1,
+          "part": "创业⑲——为了西安大采购"
+        }
+      ],
+      "desc": "本期为创业⑲——为了西安大采购\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n增肌饮食误区：BV1aLyhBUEpP\n卧推系列先导片：BV1urUVBkE9d\n卧推系列②——RM至关重要：BV1oxUpBCEwc\n卧推系列③——训练计划前两周：BV1fyUABfERd\n卧推系列④——RPE：BV1XNUkBfERC\n卧推系列⑤——组间休息：BV1yyU8ByEgS\n卧推系列⑥——热身跟练：BV1LjUzBREQ1\n卧推系列⑦——睡眠：BV1rRSKBCE5p",
+      "url": "https://www.bilibili.com/video/BV1a92rBnEws",
+      "pic": "http://i0.hdslb.com/bfs/archive/2e5fa7b6be9b037c3f3af36ce864e87c1e652057.jpg",
+      "retrieved_at": "2026-11-12T02:34:22.529Z"
+    },
+    {
+      "bvid": "BV1JW42197YG",
+      "title": "坐姿杠铃推肩详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1721995200,
+      "duration": 699,
+      "pages": [
+        {
+          "page": 1,
+          "part": "坐姿杠铃推肩详解"
+        }
+      ],
+      "desc": "本期为坐姿杠铃推肩详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n动物流腕关节训练详解：BV12T42167aM\n史密斯深蹲详解：BV14x4y147Jw\n肩胛功能对比详解：BV1K14218728\n腹横肌激活（真空腹）详解：BV1Nx4y147dj\n对握哑铃仰卧臂屈伸详解：BV1Cz421i79n",
+      "url": "https://www.bilibili.com/video/BV1JW42197YG",
+      "pic": "http://i1.hdslb.com/bfs/archive/44b55f3196638c6e23e6cf6b18cd2a7d37088384.jpg",
+      "retrieved_at": "2026-11-12T02:34:23.775Z"
+    },
+    {
+      "bvid": "BV1Uf421v7Rf",
+      "title": "侧平举变式详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1723982400,
+      "duration": 479,
+      "pages": [
+        {
+          "page": 1,
+          "part": "侧平举变式详解"
+        }
+      ],
+      "desc": "本期为侧平举变式详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n肩胛功能对比详解：BV1K14218728\n腹横肌激活（真空腹）详解：BV1Nx4y147dj\n对握哑铃仰卧臂屈伸详解：BV1Cz421i79n\n坐姿杠铃推肩详解：BV1JW42197YG\n全身拉伸详解：BV1qM4m117VH",
+      "url": "https://www.bilibili.com/video/BV1Uf421v7Rf",
+      "pic": "http://i2.hdslb.com/bfs/archive/c013e122a1e5e08accb281db6db8c43711c7ffc2.jpg",
+      "retrieved_at": "2026-11-12T02:34:25.088Z"
+    },
+    {
+      "bvid": "BV1My411v7Gf",
+      "title": "哥本哈根支撑详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1724068800,
+      "duration": 376,
+      "pages": [
+        {
+          "page": 1,
+          "part": "哥本哈根支撑详解"
+        }
+      ],
+      "desc": "本期为哥本哈根支撑详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n腹横肌激活（真空腹）详解：BV1Nx4y147dj\n对握哑铃仰卧臂屈伸详解：BV1Cz421i79n\n坐姿杠铃推肩详解：BV1JW42197YG\n全身拉伸详解：BV1qM4m117VH\n侧平举变式详解：BV1Uf421v7Rf",
+      "url": "https://www.bilibili.com/video/BV1My411v7Gf",
+      "pic": "http://i1.hdslb.com/bfs/archive/89c5af661f5c981f2ae2cc495d2bc3097046b0c5.jpg",
+      "retrieved_at": "2026-11-12T02:34:26.138Z"
+    },
+    {
+      "bvid": "BV1gy411q7hs",
+      "title": "骨盆眨眼纠正详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1724155200,
+      "duration": 445,
+      "pages": [
+        {
+          "page": 1,
+          "part": "骨盆眨眼纠正详解"
+        }
+      ],
+      "desc": "本期为骨盆眨眼纠正详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n腹横肌激活（真空腹）详解：BV1Nx4y147dj\n对握哑铃仰卧臂屈伸详解：BV1Cz421i79n\n坐姿杠铃推肩详解：BV1JW42197YG\n全身拉伸详解：BV1qM4m117VH\n侧平举变式详解：BV1Uf421v7Rf\n哥本哈根支撑详解：BV1My411v7Gf",
+      "url": "https://www.bilibili.com/video/BV1gy411q7hs",
+      "pic": "http://i2.hdslb.com/bfs/archive/9ca9aad24eb6a59e6e4937bc6b9aaa24a215b301.jpg",
+      "retrieved_at": "2026-11-12T02:34:27.568Z"
+    },
+    {
+      "bvid": "BV1u1421D7jk",
+      "title": "上斜杠铃卧推详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1711713600,
+      "duration": 551,
+      "pages": [
+        {
+          "page": 1,
+          "part": "上斜杠铃卧推详解"
+        }
+      ],
+      "desc": "本期为上斜杠铃卧推详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n减脂的重要思路：BV1iF4m1F7JQ\n卧推前热身详解：BV1i2421P7cE\n罗马尼亚硬拉详解：BV1Zt421g7p5\n深蹲功能性筛查+解决方法详解：BV1bA4m1A7oG",
+      "url": "https://www.bilibili.com/video/BV1u1421D7jk",
+      "pic": "http://i1.hdslb.com/bfs/archive/f09fcc6bb045d308ba7bcacd507d0abb0937df36.jpg",
+      "retrieved_at": "2026-11-12T02:34:28.779Z"
+    },
+    {
+      "bvid": "BV14m421E71T",
+      "title": "窄距卧推详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1711800000,
+      "duration": 589,
+      "pages": [
+        {
+          "page": 1,
+          "part": "窄距卧推详解"
+        }
+      ],
+      "desc": "本期为窄距卧推详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n减脂的重要思路：BV1iF4m1F7JQ\n卧推前热身详解：BV1i2421P7cE\n深蹲功能性筛查+解决方法详解：BV1bA4m1A7oG\n上斜杠铃卧推详解：BV1u1421D7jk",
+      "url": "https://www.bilibili.com/video/BV14m421E71T",
+      "pic": "http://i0.hdslb.com/bfs/archive/f3adc2c30afa17dfe126933b257c121bcf8cabb3.jpg",
+      "retrieved_at": "2026-11-12T02:34:30.139Z"
+    },
+    {
+      "bvid": "BV1pD421H7zw",
+      "title": "仰卧臂屈伸详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1713528000,
+      "duration": 626,
+      "pages": [
+        {
+          "page": 1,
+          "part": "仰卧臂屈伸详解"
+        }
+      ],
+      "desc": "本期为仰卧臂屈伸详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n减脂的重要思路：BV1iF4m1F7JQ\n卧推前热身详解：BV1i2421P7cE\n上斜杠铃卧推详解：BV1u1421D7jk\n窄距卧推详解：BV14m421E71T",
+      "url": "https://www.bilibili.com/video/BV1pD421H7zw",
+      "pic": "http://i0.hdslb.com/bfs/archive/6cfc45274619b7d956e34504520f4416c69b9667.jpg",
+      "retrieved_at": "2026-11-12T02:34:31.322Z"
+    },
+    {
+      "bvid": "BV1Zt421L7JB",
+      "title": "硬拉热身详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1713614400,
+      "duration": 1035,
+      "pages": [
+        {
+          "page": 1,
+          "part": "硬拉热身详解"
+        }
+      ],
+      "desc": "本期为硬拉热身详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n减脂的重要思路：BV1iF4m1F7JQ\n卧推前热身详解：BV1i2421P7cE\n上斜杠铃卧推详解：BV1u1421D7jk\n窄距卧推详解：BV14m421E71T\n仰卧臂屈伸详解：BV1pD421H7zw",
+      "url": "https://www.bilibili.com/video/BV1Zt421L7JB",
+      "pic": "http://i0.hdslb.com/bfs/archive/50b6935703f487f7d48df6e42bc985ba09f7a0d4.jpg",
+      "retrieved_at": "2026-11-12T02:34:32.300Z"
+    },
+    {
+      "bvid": "BV1wZ421e7K2",
+      "title": "绳索面拉详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1713787200,
+      "duration": 406,
+      "pages": [
+        {
+          "page": 1,
+          "part": "绳索面拉详解"
+        }
+      ],
+      "desc": "本期为绳索面拉详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n卧推前热身详解：BV1i2421P7cE\n上斜杠铃卧推详解：BV1u1421D7jk\n窄距卧推详解：BV14m421E71T\n仰卧臂屈伸详解：BV1pD421H7zw\n硬拉热身详解：BV1Zt421L7JB",
+      "url": "https://www.bilibili.com/video/BV1wZ421e7K2",
+      "pic": "http://i0.hdslb.com/bfs/archive/5f74ac26069c1f2fba3caa8d2487c103349f7075.jpg",
+      "retrieved_at": "2026-11-12T02:34:33.727Z"
+    },
+    {
+      "bvid": "BV1ba411P77r",
+      "title": "带小朋友备赛系列⑦（胸看着容易练着难）",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1659959934,
+      "duration": 1866,
+      "pages": [
+        {
+          "page": 1,
+          "part": "带小朋友备赛系列⑦（胸看着容易练着难）"
+        }
+      ],
+      "desc": "兄弟们久等的胸部训练来了，看看有什么新的启发吧\n以下是本次备赛系列其它内容及饮食分享\n备赛训练系列①【腿部训练】BV1Aa411H76y\n备赛训练系列②【背部训练】BV1534y1n7A2\n备赛训练系列③【肩部训练】BV1oF411P7oL\n备赛训练系列④【腹部训练】BV1ka411U72J\n备赛训练系列⑤【手臂训练】BV1he4y1X7uY\n备赛训练系列⑥【肩胛训练】BV13t4y1G7Nx\n﻿调理慢病 告别亚健康【轻断食】BV1PY411J7Un",
+      "url": "https://www.bilibili.com/video/BV1ba411P77r",
+      "pic": "http://i1.hdslb.com/bfs/archive/b638bba913e60149c4f62d10e0375d8e00e89d2a.jpg",
+      "retrieved_at": "2026-11-12T02:34:35.229Z"
+    },
+    {
+      "bvid": "BV1af421Q7kq",
+      "title": "交替哑铃前平举详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1719057600,
+      "duration": 389,
+      "pages": [
+        {
+          "page": 1,
+          "part": "交替哑铃前平举详解"
+        }
+      ],
+      "desc": "本期为交替哑铃前平举详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n哑铃上斜对握推详解：BV1XJ4m1w7tn\n泡沫轴下肢放松详解：BV1My411Y7yg\n展背自拍详解：BV1Uy411q7S9\n直臂下压详解:BV1Mz421z7Nc\n腹肌训练详解：BV1uT421Y7Lr\n地雷杆深蹲详解：BV1LS421o7VM",
+      "url": "https://www.bilibili.com/video/BV1af421Q7kq",
+      "pic": "http://i2.hdslb.com/bfs/archive/2edccdf9143cdcea983ee4e9c598a9ba9650cc0e.jpg",
+      "retrieved_at": "2026-11-12T02:34:36.834Z"
+    },
+    {
+      "bvid": "BV1q4421Q76J",
+      "title": "通过动作速度来了解RPE",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1719144000,
+      "duration": 445,
+      "pages": [
+        {
+          "page": 1,
+          "part": "通过动作速度来了解RPE"
+        }
+      ],
+      "desc": "本期为通过动作速度来了解RPE\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n泡沫轴下肢放松详解：BV1My411Y7yg\n展背自拍详解：BV1Uy411q7S9\n直臂下压详解:BV1Mz421z7Nc\n腹肌训练详解：BV1uT421Y7Lr\n地雷杆深蹲详解：BV1LS421o7VM\n交替哑铃前平举详解：BV1af421Q7kq",
+      "url": "https://www.bilibili.com/video/BV1q4421Q76J",
+      "pic": "http://i2.hdslb.com/bfs/archive/dd0cacde38929453cd6d9f8d03899de014e9c1ba.jpg",
+      "retrieved_at": "2026-11-12T02:34:37.995Z"
+    },
+    {
+      "bvid": "BV1tf421Q7th",
+      "title": "引体向上详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1719230400,
+      "duration": 769,
+      "pages": [
+        {
+          "page": 1,
+          "part": "引体向上详解"
+        }
+      ],
+      "desc": "本期为引体向上详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n展背自拍详解：BV1Uy411q7S9\n直臂下压详解:BV1Mz421z7Nc\n腹肌训练详解：BV1uT421Y7Lr\n地雷杆深蹲详解：BV1LS421o7VM\n交替哑铃前平举详解：BV1af421Q7kq\n通过动作速度来了解RPE：BV1q4421Q76J",
+      "url": "https://www.bilibili.com/video/BV1tf421Q7th",
+      "pic": "http://i1.hdslb.com/bfs/archive/1a28af77534a41ead3fcf6e61640e199ffe42a6b.jpg",
+      "retrieved_at": "2026-11-12T02:34:38.935Z"
+    },
+    {
+      "bvid": "BV1GE421A7xi",
+      "title": "史密斯平板卧推详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1719316800,
+      "duration": 726,
+      "pages": [
+        {
+          "page": 1,
+          "part": "7  6.17史密斯成片"
+        }
+      ],
+      "desc": "本期为史密斯平板卧推详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n直臂下压详解:BV1Mz421z7Nc\n腹肌训练详解：BV1uT421Y7Lr\n地雷杆深蹲详解：BV1LS421o7VM\n交替哑铃前平举详解：BV1af421Q7kq\n通过动作速度来了解RPE：BV1q4421Q76J\n引体向上详解：BV1tf421Q7th",
+      "url": "https://www.bilibili.com/video/BV1GE421A7xi",
+      "pic": "http://i2.hdslb.com/bfs/archive/1c5312724b8add266e7956190fc4c0384f638e69.jpg",
+      "retrieved_at": "2026-11-12T02:34:40.057Z"
+    },
+    {
+      "bvid": "BV1aLyhBUEpP",
+      "title": "增肌饮食误区",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1761819300,
+      "duration": 445,
+      "pages": [
+        {
+          "page": 1,
+          "part": "增肌饮食误区"
+        }
+      ],
+      "desc": "本期为增肌饮食误区\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）：BV1ZZTfzAEDy\n蹭饭十——备赛最后两周：BV1D1WszwEJT\n蹭饭⑪——素食主义：BV1ujsAziEPq\nFMS七项运动筛查详讲：BV1A1s3zUEN6\n皮质醇详讲：BV14ys4zeEVJ\n自由与器械：BV1ARsBz4ENu\n碳水化合物详解：BV1kSsozkEEJ",
+      "url": "https://www.bilibili.com/video/BV1aLyhBUEpP",
+      "pic": "http://i2.hdslb.com/bfs/archive/9d8a3cde0803f43bd68eab6678197afc7ab7dc85.jpg",
+      "retrieved_at": "2026-11-12T02:34:41.357Z"
+    },
+    {
+      "bvid": "BV1oxUpBCEwc",
+      "title": "卧推系列②——RM至关重要",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1763807400,
+      "duration": 1039,
+      "pages": [
+        {
+          "page": 1,
+          "part": "卧推系列②——RM至关重要"
+        }
+      ],
+      "desc": "本期为卧推系列②——RM至关重要\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）：BV1ZZTfzAEDy\nFMS七项运动筛查详讲：BV1A1s3zUEN6\n增肌饮食误区：BV1aLyhBUEpP\n戒烟过程分享：BV1cvCeBzEKb\n生活化减脂分享：BV1A9yEBNEgE\n卧推系列先导片：BV1urUVBkE9d",
+      "url": "https://www.bilibili.com/video/BV1oxUpBCEwc",
+      "pic": "http://i0.hdslb.com/bfs/archive/0705b0c965ecd25fcf254f7f369ce00ab5a90ef1.jpg",
+      "retrieved_at": "2026-11-12T02:34:42.763Z"
+    },
+    {
+      "bvid": "BV1fyUABfERd",
+      "title": "卧推系列③——训练计划前两周",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1763897400,
+      "duration": 716,
+      "pages": [
+        {
+          "page": 1,
+          "part": "卧推系列③——训练计划前两周"
+        }
+      ],
+      "desc": "本期为卧推系列③——训练计划前两周\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）：BV1ZZTfzAEDy\nFMS七项运动筛查详讲：BV1A1s3zUEN6\n增肌饮食误区：BV1aLyhBUEpP\n戒烟过程分享：BV1cvCeBzEKb\n生活化减脂分享：BV1A9yEBNEgE\n卧推系列先导片：BV1urUVBkE9d\n卧推系列②——RM至关重要：BV1oxUpBCEwc",
+      "url": "https://www.bilibili.com/video/BV1fyUABfERd",
+      "pic": "http://i0.hdslb.com/bfs/archive/c2bc9ed09423e2efab4e8b93efca770e240ca456.jpg",
+      "retrieved_at": "2026-11-12T02:34:44.016Z"
+    },
+    {
+      "bvid": "BV1kr4y147CM",
+      "title": "【居家练胸】俯卧撑保姆级教学/附带线性计划",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1653210853,
+      "duration": 177,
+      "pages": [
+        {
+          "page": 1,
+          "part": "4K带冰箱贴"
+        }
+      ],
+      "desc": "很多在健身房训练的同学忽视了远固定动作的价值，标准的俯卧撑不仅可以提高上肢力量和身体整体的运动表现，也可以带来不错的肌肉增长，居家训练的同学可以尝试这套俯卧撑线性计划，期待你们一个月后的反馈\n以下是训练和饮食相关的分享，希望能帮到大家\n力量训练积累与转化【5X5训练计划】BV1DZ4y1y77T\n调理慢病 告别亚健康【轻断食】BV1PY411J7Un\n减脂小白指南【新手减脂大全】BV1WB4y1K7DQ\n6种饮食计划分析【饮食计划分析大全】BV1WB4y1K7DQ",
+      "url": "https://www.bilibili.com/video/BV1kr4y147CM",
+      "pic": "http://i2.hdslb.com/bfs/archive/1d805da4bc8c2fdcaa7483277b0f5a629955f13a.jpg",
+      "retrieved_at": "2026-11-12T02:34:45.565Z"
+    },
+    {
+      "bvid": "BV1PY411J7Un",
+      "title": "【轻断食】轻松减脂！告别亚健康！底层逻辑",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1648465362,
+      "duration": 1188,
+      "pages": [
+        {
+          "page": 1,
+          "part": "轻断食终极版"
+        }
+      ],
+      "desc": "轻断食的应用范围非常多！希望底层逻辑可以帮助大家找到自己的饮食思路！\r\n以下是训练和减脂饮食相关的分享，别忘了给个三连哦！\r\n热身【理论】+【实操】BV1Dg411N7qa\r\n安全拿放哑铃【拒绝伤病】BV1234y1k7au\r\n减脂小白指南【新手减脂大全】BV1WB4y1K7DQ\r\n6种饮食计划分析【饮食计划分析大全】BV1Ng41137qq\r\n膳食纤维上【减脂核武器上集】BV1L64y1d7U8\r\n膳食纤维下【减脂核武器下集】BV1VQ4y197Bx",
+      "url": "https://www.bilibili.com/video/BV1PY411J7Un",
+      "pic": "http://i0.hdslb.com/bfs/archive/faa64066bf85082494e1edc685ef0b0ff616f7ce.jpg",
+      "retrieved_at": "2026-11-12T02:34:46.824Z"
+    },
+    {
+      "bvid": "BV1k4YXznErX",
+      "title": "全身功能性筛查与跟练③——胸椎灵活度",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1755770400,
+      "duration": 531,
+      "pages": [
+        {
+          "page": 1,
+          "part": "全身功能性筛查与跟练③——胸椎灵活度"
+        }
+      ],
+      "desc": "本期为全身功能性筛查与跟练③——胸椎灵活度\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）：BV1ZZTfzAEDy\n全身功能性筛查与跟练②——肱骨前移：BV1ExYxzTEWy\n蹭饭九——睾酮详解：BV1wPeczgE7v\n创业12——西安拓得时代训练馆筹备中：BV1kveMzcEnb",
+      "url": "https://www.bilibili.com/video/BV1k4YXznErX",
+      "pic": "http://i0.hdslb.com/bfs/archive/16292f0d3419a43d89462889a6407c35fdab6f98.jpg",
+      "retrieved_at": "2026-11-12T02:34:48.150Z"
+    },
+    {
+      "bvid": "BV1KCetz4EbY",
+      "title": "反手高位下拉详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1755856800,
+      "duration": 874,
+      "pages": [
+        {
+          "page": 1,
+          "part": "反手高位下拉详解"
+        }
+      ],
+      "desc": "本期为反手高位下拉详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n创业8——开业（北京市海淀区甘家口街道国际传播科技文化园12B健身房 拓得时代训练馆）：BV1ZZTfzAEDy\n全身功能性筛查与跟练②——肱骨前移：BV1ExYxzTEWy\n蹭饭九——睾酮详解：BV1wPeczgE7v\n创业12——西安拓得时代训练馆筹备中：BV1kveMzcEnb\n全身功能性筛查与跟练③——胸椎灵活度：BV1k4YXznErX",
+      "url": "https://www.bilibili.com/video/BV1KCetz4EbY",
+      "pic": "http://i2.hdslb.com/bfs/archive/99b3ef1b3bfcf41f89abb8079b07a3ff66adfe11.jpg",
+      "retrieved_at": "2026-11-12T02:34:49.188Z"
+    },
+    {
+      "bvid": "BV1s34y1k7VS",
+      "title": "【线上训练营】脂肪/金字塔训练法——回馈福利",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1646221012,
+      "duration": 1753,
+      "pages": [
+        {
+          "page": 1,
+          "part": "2022_03_02_13_30_IMG_0310"
+        }
+      ],
+      "desc": "回馈给大家一节三年级课程，希望对训练思路能有帮助\n以下是训练和减脂饮食相关的分享，希望可以帮助到大家\n减脂小白指南【新手减脂大全】BV1WB4y1K7DQ\n6种饮食计划分析【饮食计划分析大全】BV1Ng41137qq\n膳食纤维上【减脂核武器上集】BV1L64y1d7U8\n膳食纤维下【减脂核武器下集】BV1VQ4y197Bx\n减脂饮食技巧【碳水后置】BV18N411f7gp\n摄入与消耗【能量平衡】：BV1jS4y1G74h",
+      "url": "https://www.bilibili.com/video/BV1s34y1k7VS",
+      "pic": "http://i0.hdslb.com/bfs/archive/6c88179c60209aa7ad6ed6d56498da73a1394c2d.jpg",
+      "retrieved_at": "2026-11-12T02:34:50.194Z"
+    },
+    {
+      "bvid": "BV1234y1k7au",
+      "title": "【拒绝伤病】正确拿放哑铃",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1646314030,
+      "duration": 314,
+      "pages": [
+        {
+          "page": 1,
+          "part": "2022_03_03_18_11_IMG_0311"
+        }
+      ],
+      "desc": "拿放哑铃是很多人都忽略的小技巧，因为拿放带来的伤病属于阴沟翻船 多闹心对不对！花5分钟来看看怎么合理的拿放哑铃吧！觉得有用处的话，别忘了给个三连啊！\n最佳运动表现【PR】BV1R44y1p7KG\n自我感知强度【RPE】BV1tr4y1Y7uZ\n训练的重要单位【RM】BV1XS4y1L7DZ\n给自己定制四分化训练【四分化】BV1Cq4y1D7b1\n减脂饮食技巧【碳水前置与后置】BV18N411f7gp\n6种饮食计划分析【饮食计划分析大全】BV1WB4y1K7DQ",
+      "url": "https://www.bilibili.com/video/BV1234y1k7au",
+      "pic": "http://i2.hdslb.com/bfs/archive/cb440178adb90b84e044f0203bce2352c2c887f1.jpg",
+      "retrieved_at": "2026-11-12T02:34:51.215Z"
+    },
+    {
+      "bvid": "BV1Dg411N7qa",
+      "title": "【收藏向】热身理论+实操 训练前给自己加个buff",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1637673319,
+      "duration": 1550,
+      "pages": [
+        {
+          "page": 1,
+          "part": "热身理论"
+        },
+        {
+          "page": 2,
+          "part": "胸部热身"
+        },
+        {
+          "page": 3,
+          "part": "背部热身"
+        },
+        {
+          "page": 4,
+          "part": "肩部热身"
+        },
+        {
+          "page": 5,
+          "part": "手臂热身"
+        }
+      ],
+      "desc": "热身是训练的一部分，充分的热身可以有效提高运动中表现，大大降低受伤风险\n力量训练前的热身分为  （体温）（紧张放松）（稳定激活）（关节活动度）等",
+      "url": "https://www.bilibili.com/video/BV1Dg411N7qa",
+      "pic": "http://i1.hdslb.com/bfs/archive/ad8a29dad17bbf5be95d935f805a9fde19a9df5a.jpg",
+      "retrieved_at": "2026-11-12T02:34:52.365Z"
+    },
+    {
+      "bvid": "BV1phy8YgEGY",
+      "title": "推类中护腕和握法详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1729425600,
+      "duration": 163,
+      "pages": [
+        {
+          "page": 1,
+          "part": "推类中护腕和握法详解"
+        }
+      ],
+      "desc": "本期为推类中护腕和握法详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n生活化练核心：BV1DixFezEpP\n弹力带练背前激活详解：BV1hQxMehEKi\n健身房练臀常用动作与代偿问题：BV1Zb2mYHEWv\n单手侧平举详解：BV1RGy3YzEz9\n跪姿健腹轮详解：BV1FGCRYiEyj",
+      "url": "https://www.bilibili.com/video/BV1phy8YgEGY",
+      "pic": "http://i1.hdslb.com/bfs/archive/03178b74c380d6a2195bc14524da0d3f5ffcb1c5.jpg",
+      "retrieved_at": "2026-11-12T02:34:53.417Z"
+    },
+    {
+      "bvid": "BV1fTyVYDE1j",
+      "title": "蝴蝶机夹胸详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1729512000,
+      "duration": 502,
+      "pages": [
+        {
+          "page": 1,
+          "part": "蝴蝶机夹胸详解"
+        }
+      ],
+      "desc": "本期为蝴蝶机夹胸详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n弹力带练背前激活详解：BV1hQxMehEKi\n健身房练臀常用动作与代偿问题：BV1Zb2mYHEWv\n单手侧平举详解：BV1RGy3YzEz9\n跪姿健腹轮详解：BV1FGCRYiEyj\n推类中护腕和握法详解：BV1phy8YgEGY",
+      "url": "https://www.bilibili.com/video/BV1fTyVYDE1j",
+      "pic": "http://i2.hdslb.com/bfs/archive/f6a2b0e9034217e24fae1bf6cec30dff4571c690.jpg",
+      "retrieved_at": "2026-11-12T02:34:54.511Z"
+    },
+    {
+      "bvid": "BV1S31FYvErH",
+      "title": "训练组数与增肌详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1729684800,
+      "duration": 391,
+      "pages": [
+        {
+          "page": 1,
+          "part": "训练组数与增肌详解"
+        }
+      ],
+      "desc": "本期为训练组数与增肌详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n健身房练臀常用动作与代偿问题：BV1Zb2mYHEWv\n单手侧平举详解：BV1RGy3YzEz9\n跪姿健腹轮详解：BV1FGCRYiEyj\n推类中护腕和握法详解：BV1phy8YgEGY\n蝴蝶机夹胸详解：BV1fTyVYDE1j",
+      "url": "https://www.bilibili.com/video/BV1S31FYvErH",
+      "pic": "http://i0.hdslb.com/bfs/archive/982ce4c2b22d4ba64986e5fad85726103f7ab393.jpg",
+      "retrieved_at": "2026-11-12T02:34:56.103Z"
+    },
+    {
+      "bvid": "BV1Ne1MYQEyh",
+      "title": "三分化开篇",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1730022125,
+      "duration": 226,
+      "pages": [
+        {
+          "page": 1,
+          "part": "三分化开篇"
+        }
+      ],
+      "desc": "本期为三分化开篇\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n单手侧平举详解：BV1RGy3YzEz9\n跪姿健腹轮详解：BV1FGCRYiEyj\n推类中护腕和握法详解：BV1phy8YgEGY\n蝴蝶机夹胸详解：BV1fTyVYDE1j\n训练组数与增肌详解：BV1S31FYvErH",
+      "url": "https://www.bilibili.com/video/BV1Ne1MYQEyh",
+      "pic": "http://i0.hdslb.com/bfs/archive/55b478d9596551a417a8467922c8a55d7cdaafe5.jpg",
+      "retrieved_at": "2026-11-12T02:34:57.332Z"
+    },
+    {
+      "bvid": "BV1S4421Q74s",
+      "title": "护具详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1719403200,
+      "duration": 1212,
+      "pages": [
+        {
+          "page": 1,
+          "part": "护具详解"
+        }
+      ],
+      "desc": "本期为护具详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n直臂下压详解:BV1Mz421z7Nc\n腹肌训练详解：BV1uT421Y7Lr\n地雷杆深蹲详解：BV1LS421o7VM\n交替哑铃前平举详解：BV1af421Q7kq\n通过动作速度来了解RPE：BV1q4421Q76J\n引体向上详解：BV1tf421Q7th\n史密斯平板卧推详解：BV1GE421A7xi",
+      "url": "https://www.bilibili.com/video/BV1S4421Q74s",
+      "pic": "http://i2.hdslb.com/bfs/archive/45704556b4c728b2cee1879760f0bc7dc01bb6ca.jpg",
+      "retrieved_at": "2026-11-12T02:34:58.694Z"
+    },
+    {
+      "bvid": "BV1DT421a7Lq",
+      "title": "坐姿腿屈伸详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1719489600,
+      "duration": 462,
+      "pages": [
+        {
+          "page": 1,
+          "part": "坐姿腿屈伸详解"
+        }
+      ],
+      "desc": "本期为坐姿腿屈伸详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n地雷杆深蹲详解：BV1LS421o7VM\n交替哑铃前平举详解：BV1af421Q7kq\n通过动作速度来了解RPE：BV1q4421Q76J\n引体向上详解：BV1tf421Q7th\n史密斯平板卧推详解：BV1GE421A7xi\n护具详解：BV1S4421Q74s",
+      "url": "https://www.bilibili.com/video/BV1DT421a7Lq",
+      "pic": "http://i2.hdslb.com/bfs/archive/0dc8701eaa76a58a48945dd218143adc2cdfaf8b.jpg",
+      "retrieved_at": "2026-11-12T02:35:00.289Z"
+    },
+    {
+      "bvid": "BV1UX4y1S7oh",
+      "title": "【体态康复系列①】高低肩深度解析，自我手法调整！！",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1678449600,
+      "duration": 977,
+      "pages": [
+        {
+          "page": 1,
+          "part": "【体态康复系列①】高低肩深度解析，自我手法调整！！"
+        }
+      ],
+      "desc": "本期是体态康复系列第一个视频，希望能够帮助到大家。\n调整体态的同时不要忘记加强功能性哦，以下为往期功能性视频：\n功能训练系列①【开篇】BV1eG4y1Q7cT\n功能训练系列②【核心进阶训练】BV1xY411S747\n功能训练系列③【胸椎肩胛训练】BV1qv4y1t7BE\n功能训练系列④【髋关节训练】BV1pY411e7Kb\n功能训练系列⑤【膝关节训练】BV1Bo4y1Y7Fi\n功能训练系列⑥【踝关节训练】BV1E84y1K7k7",
+      "url": "https://www.bilibili.com/video/BV1UX4y1S7oh",
+      "pic": "http://i2.hdslb.com/bfs/archive/707fe47f0577acb1f7195842716ff142924bee01.jpg",
+      "retrieved_at": "2026-11-12T02:35:01.694Z"
+    },
+    {
+      "bvid": "BV1Vx42127ZE",
+      "title": "前锯肌训练详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1709035200,
+      "duration": 485,
+      "pages": [
+        {
+          "page": 1,
+          "part": "前锯肌训练详解"
+        }
+      ],
+      "desc": "本期为前锯肌训练详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n坐姿杠铃弯举详解：BV1eu4m1A7Bm\n龙门臂屈伸详解：BV1NF4m1E7nv\n水平外展详解：BV1KC411p7ag\n悬垂举腿详解：BV1nJ4m1e7bj\n箭步蹲详解：BV1Et42187nB",
+      "url": "https://www.bilibili.com/video/BV1Vx42127ZE",
+      "pic": "http://i2.hdslb.com/bfs/archive/c96b2a71e439d52a4df5811bea364e188dc8b552.jpg",
+      "retrieved_at": "2026-11-12T02:35:02.813Z"
+    },
+    {
+      "bvid": "BV1yW421A7rn",
+      "title": "肩袖肌群训练详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1709121600,
+      "duration": 570,
+      "pages": [
+        {
+          "page": 1,
+          "part": "肩袖肌群训练详解"
+        }
+      ],
+      "desc": "本期为肩袖肌群训练详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n龙门臂屈伸详解：BV1NF4m1E7nv\n水平外展详解：BV1KC411p7ag\n悬垂举腿详解：BV1nJ4m1e7bj\n箭步蹲详解：BV1Et42187nB\n前锯肌训练详解：BV1Vx42127ZE",
+      "url": "https://www.bilibili.com/video/BV1yW421A7rn",
+      "pic": "http://i2.hdslb.com/bfs/archive/f17fbedf987aee6952fef6d54a2a383ac6da4f28.jpg",
+      "retrieved_at": "2026-11-12T02:35:04.434Z"
+    },
+    {
+      "bvid": "BV1jUNtekETF",
+      "title": "卧推思路—肌间协调性详解",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1738922400,
+      "duration": 422,
+      "pages": [
+        {
+          "page": 1,
+          "part": "卧推思路—肌间协调性详解"
+        }
+      ],
+      "desc": "本期为卧推思路—肌间协调性详解\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n动物流—波浪释放详解：BV1m9CJYSEpF\n动物流—手腕活动详解：BV1a56tYBEX9\n动物流—团身详解：BV1VN6GY8EVw\n背+后束加强动作详解：BV1xV6JYTEEB\n蹭饭系列：BV1tBcaecEdy\n高碳减脂？碳水详解：BV1qvF3eUEuA",
+      "url": "https://www.bilibili.com/video/BV1jUNtekETF",
+      "pic": "http://i1.hdslb.com/bfs/archive/2753ace753c11e190c8a7bfe038652b86dc028a9.jpg",
+      "retrieved_at": "2026-11-12T02:35:05.874Z"
+    },
+    {
+      "bvid": "BV1mhNue3ExA",
+      "title": "【练腿前健身房+居家热身详解】超长版本 建议先收藏",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1739008800,
+      "duration": 2998,
+      "pages": [
+        {
+          "page": 1,
+          "part": "【练腿前健身房+居家热身详解】超长版本 建议先收藏"
+        }
+      ],
+      "desc": "本期为【练腿前健身房+居家热身详解】超长版本 建议先收藏\n以下为往期内容：\n第三视角私教课【练背】BV1Bh4y1V7ea\n第三视角私教课【练肩】BV1RX4y1j7P6\n第三视角私教课【练腹】BV1oX4y177YM\n第三视角私教课【练胸】BV1t94y1k7Ed\n动物流—手腕活动详解：BV1a56tYBEX9\n动物流—团身详解：BV1VN6GY8EVw\n背+后束加强动作详解：BV1xV6JYTEEB\n蹭饭系列：BV1tBcaecEdy\n高碳减脂？碳水详解：BV1qvF3eUEuA\n卧推思路—肌间协调性详解：BV1jUNtekETF",
+      "url": "https://www.bilibili.com/video/BV1mhNue3ExA",
+      "pic": "http://i0.hdslb.com/bfs/archive/b2a85e7c77747f233b15abd851ea306343270b14.jpg",
+      "retrieved_at": "2026-11-12T02:35:07.284Z"
+    },
+    {
+      "bvid": "BV1qx4y1R78k",
+      "title": "【训练单位】重量/容量/时长/RPE/RM/PR/超详解析/收藏向",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1689597000,
+      "duration": 5064,
+      "pages": [
+        {
+          "page": 1,
+          "part": "【新手增肌系列】训练单位大全超详解/消除训练迷茫/收藏向"
+        }
+      ],
+      "desc": "本条长视频是由三连的兄弟们赞助播出，感谢大家的支持\n以下为往期内容，大家要多学习哈！\n新手增肌系列开篇：BV1Qd4y1Z75J\n新手增肌系列①【二分化躯干】BV1Nc411P7nc\n新手增肌系列②【二分化四肢】BV1YL411q7HR\n新手增肌系列③【家庭作业跟练】BV1sc411V7Bm\n新手增肌系列④【语文课】BV1eh411K7Aa\n新手增肌系列⑤【躯干拉伸】BV1Eu41187oU\n备赛训练系列①【腿部训练】BV1Aa411H76y\n备赛训练系列②【背部训练】BV1534y1n7A2",
+      "url": "https://www.bilibili.com/video/BV1qx4y1R78k",
+      "pic": "http://i0.hdslb.com/bfs/archive/7b4f4febf5be57d0c09dec5024e32d6f23052b20.jpg",
+      "retrieved_at": "2026-11-12T02:35:08.195Z"
+    },
+    {
+      "bvid": "BV1eq4y1a7Te",
+      "title": "【碳水的去向】减脂的饮食的重要思路！！",
+      "author": "凯圣王",
+      "mid": 2100737396,
+      "pubdate": 1649392292,
+      "duration": 489,
+      "pages": [
+        {
+          "page": 1,
+          "part": "修改版"
+        }
+      ],
+      "desc": "学习了实操性最强的碳水相关知识后不要忘了一键三连加关注哦，\r\n往期减脂相关也在此奉上：\r\n轻断食的底层逻辑【轻松减脂，告别亚健康】BV1PY411J7Un\r\n最实用的饮食方法【传统分餐】BV12g411T7F2\r\n减脂小白指南【新手减脂大全】BV1WB4y1K7DQ\r\n6种饮食计划分析【饮食计划分析大全】BV1Ng41137qq\r\n膳食纤维上【减脂核武器上集】BV1L64y1d7U8\r\n膳食纤维下【减脂核武器下集】BV1VQ4y197Bx",
+      "url": "https://www.bilibili.com/video/BV1eq4y1a7Te",
+      "pic": "http://i2.hdslb.com/bfs/archive/04d14900d1cf304ada3538b375bfce82e4d49d6f.jpg",
+      "retrieved_at": "2026-11-12T02:35:09.568Z"
+    }
+  ]
+}

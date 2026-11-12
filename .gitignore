@@ -1,0 +1,35 @@
+# 依赖
+node_modules/
+**/node_modules/
+
+# 构建产物（由源码生成，不入库）
+dist/
+**/dist/
+
+# 本地临时目录
+.tmp-f-smoke/
+**/.tmp-f-smoke/
+*.log
+
+# 便携版 Node 运行时（94MB，按需自行下载）
+tools/node-v24.22.1-win-x64/
+tools/node.zip
+
+# 抓取过程的原始缓存与临时页面（数据成品在 kepu-verify/src/data/）
+tools/scratch/
+
+# 验收截图（本地生成，体积大）
+artifacts/
+**/artifacts/
+
+# Qoder 本地站点绑定（含本机绝对路径与站点 ID）
+*.qoder.site
+
+# 环境变量与密钥
+.env
+.env.*
+!.env.example
+
+# 操作系统
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4057 @@
+{
+  "generated_at": "2026-11-11T14:11:43.318Z",
+  "captured_at": "2026-11-11",
+  "capture_method": "browser-use MCP 驱动本机真实浏览器读取抖音公开页面 DOM；未登录；未下载任何视频文件",
+  "provenance": {
+    "verbatim_subtitle_status": "missing_requires_login",
+    "verbatim_subtitle_reason": "抖音字幕接口需登录，未获取逐字字幕。任何 claim 的 startSec/endSec 若来自 chapters，只能标注为章节定位，不能声称是逐字原话时间轴。",
+    "blogger_authored_fields": [
+      "title",
+      "desc"
+    ],
+    "platform_ai_fields": [
+      "platform_summary",
+      "chapters[].title",
+      "chapters[].summary"
+    ],
+    "rule": "layer1.quote（博主原话）只能取 title / desc 的逐字连续子串，且 ≤60 字。chapters 与 platform_summary 是抖音平台自动生成的 AI 摘要，必须放在独立字段并标注「平台AI章节摘要」，不得当作博主原话。",
+    "copyright": "不下载、不存储、不转载任何完整视频。页面仅展示来源信息、短引用与跳转原平台的链接。"
+  },
+  "bloggers": [
+    {
+      "platform": "douyin",
+      "name": "谭成义",
+      "unique_id": "nishitiantan",
+      "sec_uid": "MS4wLjABAAAArfpAmbNNdODGpzfznrZAXrt2JgCGFWxE25eFkQDGXOY",
+      "url": "https://www.douyin.com/user/MS4wLjABAAAArfpAmbNNdODGpzfznrZAXrt2JgCGFWxE25eFkQDGXOY",
+      "followers_text": "423.9万",
+      "likes_text": "2038.5万",
+      "work_count": 165,
+      "signature": "好好吃饭，好好睡觉，好好训练，好好生活！！ @谭谭成义",
+      "ip_location": "美国",
+      "age_text": "29岁"
+    }
+  ],
+  "videos": [
+    {
+      "platform": "douyin",
+      "aweme_id": "7551639294982851900",
+      "title": "第1集 | 不用思考直接偷偷背着小伙伴偷偷练起来就完了，一周以后你会回来感谢我的#手臂训练",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-09-19 11:37",
+      "duration_text": "02:56",
+      "duration_sec": 176,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7551639294982851900",
+      "desc": null,
+      "platform_summary": "如何塑造完美手臂，强调肌肉完整性、刻度、维度和柔韧性的重要性。详细讲解了二头肌训练的两个动作：俯卧位杠铃弯举和正手杠铃弯举。同时，强调了肱肌训练的重要性，建议在每次手臂训练中加入肱肌训练。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:16",
+          "startSec": 16,
+          "title": "手臂训练的要点",
+          "summary": "手臂训练需关注肌肉完整性、刻度、维度和柔韧性，本视频主要讲解二头肌训练。",
+          "endSec": null
+        },
+        {
+          "start": "00:35",
+          "startSec": 35,
+          "title": "展示动作",
+          "summary": "展示动作需从侧面和背面观察手臂，关注二头肌饱满度、三头肌长头和肱肌、外侧头、长头。",
+          "endSec": null
+        },
+        {
+          "start": "01:13",
+          "startSec": 73,
+          "title": "俯卧位杠铃弯举",
+          "summary": "俯卧位杠铃弯举需保持肩屈位，降低重量，以增强二头肌收缩。",
+          "endSec": null
+        },
+        {
+          "start": "01:46",
+          "startSec": 106,
+          "title": "肱肌训练",
+          "summary": "肱肌训练采用正手杠铃弯举，肩前屈，多次数，控制重量。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7553189442762542393",
+      "title": "第3集 | 肩部教学来喽，偷偷练起来吧#南瓜肩",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-09-23 15:52",
+      "duration_text": "05:25",
+      "duration_sec": 325,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7553189442762542393",
+      "desc": null,
+      "platform_summary": "肩部训练教学，包括侧平举和哑铃推肩两个动作。侧平举需注意呼吸、核心稳定、手臂抬高和下落距离；哑铃推肩需调整凳子角度，保持腰贴紧，对握哑铃，下落至眼睛和鼻子位置，主动控制三角肌前束收缩。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:11",
+          "startSec": 11,
+          "title": "侧平举",
+          "summary": "选择合适重量，深吸一口气，保持核心稳定，手臂外展，尽量抬高，下落时留一点距离，不要屈肘。",
+          "endSec": null
+        },
+        {
+          "start": "02:50",
+          "startSec": 170,
+          "title": "哑铃推肩",
+          "summary": "调整凳子至垂直位置，保持腰贴紧凳子，对握哑铃，下落至眼睛和鼻子位置，主动控制三角肌前束收缩。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7553897305108204860",
+      "title": "第5集 | 肩部中后教学视频来啦，希望大家认真观看，谢谢大家的支持#健身教学",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-09-25 13:39",
+      "duration_text": "06:28",
+      "duration_sec": 388,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7553897305108204860",
+      "desc": null,
+      "platform_summary": "肩部中后束训练教学，包括绳索面拉和俯身哑铃飞鸟两个动作。强调在训练过程中要注意结构稳定，避免受伤，以保证长期有效的肌肉发展。",
+      "chapters": [
+        {
+          "start": "00:02",
+          "startSec": 2,
+          "title": "侧平举疼痛或弹响的改善",
+          "summary": "侧平举肩膀疼或弹响可外旋一点，少下一点，动作要标准，同时考虑结构稳定。",
+          "endSec": null
+        },
+        {
+          "start": "00:55",
+          "startSec": 55,
+          "title": "绳索面拉",
+          "summary": "绳索面拉，调整滑轮位置，保持腰背贴紧凳子，肋骨收住，头稳定，拉到2/3位置。",
+          "endSec": null
+        },
+        {
+          "start": "02:49",
+          "startSec": 169,
+          "title": "俯身哑铃飞鸟",
+          "summary": "俯身哑铃飞鸟，对握哑铃，从外展位开始，胸口抵住凳子，大臂往前，不要放到底。",
+          "endSec": null
+        },
+        {
+          "start": "05:51",
+          "startSec": 351,
+          "title": "训练建议",
+          "summary": "训练时保证结构稳定，避免受伤，走得久比走得快更重要。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7554608696765697340",
+      "title": "第4集 | 最推荐的两个腹肌动作#腹肌 #训练教学",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-09-27 11:40",
+      "duration_text": "07:52",
+      "duration_sec": 472,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7554608696765697340",
+      "desc": null,
+      "platform_summary": "两个推荐的腹肌训练动作：悬垂举腿和反向山羊挺身。强调腹肌训练的重要性，建议每周进行4-5次。训练前先进行腹肌拉伸，以提高训练效果。同时，注意动作的细节和呼吸，以避免受伤。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": "腹肌训练重要，需刻意练习，一周4-5次，多练可使腹肌明显。",
+          "endSec": null
+        },
+        {
+          "start": "01:08",
+          "startSec": 68,
+          "title": "拉伸",
+          "summary": "训练前进行腹肌拉伸，做海豹式拉伸，注意呼吸对抗，连续做四组，每组20秒。",
+          "endSec": null
+        },
+        {
+          "start": "03:26",
+          "startSec": 206,
+          "title": "悬垂举腿",
+          "summary": "悬垂举腿，注意肩膀下沉，腹肌预先收缩，保持持续发力，不要下到底，可加旋转。",
+          "endSec": null
+        },
+        {
+          "start": "04:30",
+          "startSec": 270,
+          "title": "反向山羊挺身",
+          "summary": "反向山羊挺身，注意大腿后侧对抗垫子，保持骨盆稳定，不要卷腹，可加旋转。",
+          "endSec": null
+        },
+        {
+          "start": "07:43",
+          "startSec": 463,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7556797220788702522",
+      "title": "第6集 | 呼吸是什么，姿势又是什么，传入与传出神经是什么，不知道大家愿不愿意多看看，我要带小孩去了哈哈",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-10-03 09:12",
+      "duration_text": "07:30",
+      "duration_sec": 450,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7556797220788702522",
+      "desc": null,
+      "platform_summary": "如何在训练中恢复和提高呼吸能力。恢复包括营养、睡眠和训练，呼吸能力与姿势控制密切相关，保持姿势稳定可以提高呼吸能力和训练效果。此外，通过触觉、温觉和视觉传导等方法可以提高传入神经，从而让目标肌肉发力更明显。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:23",
+          "startSec": 23,
+          "title": "恢复",
+          "summary": "恢复包括营养、睡眠和训练，营养方面多吃发芽类食物、带骨头的肉和内脏，睡眠要早睡早起，训练要做不疲劳的训练。",
+          "endSec": null
+        },
+        {
+          "start": "01:58",
+          "startSec": 118,
+          "title": "呼吸",
+          "summary": "呼吸能力就是控制姿势的能力，保持姿势稳定可以提高呼吸能力，从而提高训练效果。",
+          "endSec": null
+        },
+        {
+          "start": "03:49",
+          "startSec": 229,
+          "title": "姿势的重要性",
+          "summary": "姿势稳定可以提高传入神经，让目标肌肉发力更好，提高训练效率，降低受伤风险。",
+          "endSec": null
+        },
+        {
+          "start": "05:50",
+          "startSec": 350,
+          "title": "其他提高传入神经的方法",
+          "summary": "提高传入神经的方法包括触觉、温觉和视觉传导。",
+          "endSec": null
+        },
+        {
+          "start": "06:54",
+          "startSec": 414,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7558332217837161786",
+      "title": "第8集 | 胸部教学继续更新，希望大家能明确你到底想要什么样的形体#胸部训练",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-10-07 12:29",
+      "duration_text": "09:35",
+      "duration_sec": 575,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7558332217837161786",
+      "desc": null,
+      "platform_summary": "胸部训练的重要性，强调了核心力量、肩伸能力和三角肌前束的重要性。推荐了俯卧撑、哑铃上斜卧推和坐姿夹胸三个动作，并详细讲解了每个动作的要领和注意事项，以帮助大家更好地进行胸部训练。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": "肩痛原因是核心不够好，肩伸能力不够强，三角肌前束紧张。",
+          "endSec": null
+        },
+        {
+          "start": "00:34",
+          "startSec": 34,
+          "title": "俯卧撑",
+          "summary": "俯卧撑能有效保护身体结构，训练胸和上肢力量，建议从远端训练开始，注意手指发力和肩胛骨控制。",
+          "endSec": null
+        },
+        {
+          "start": "03:37",
+          "startSec": 217,
+          "title": "哑铃上斜卧推",
+          "summary": "哑铃上斜卧推，注意起哑铃的方式，保持手腕倒扣，肋骨收紧，头不要前倾，可使用泡沫轴辅助。",
+          "endSec": null
+        },
+        {
+          "start": "06:50",
+          "startSec": 410,
+          "title": "坐姿夹胸",
+          "summary": "坐姿夹胸，注意躯干与地面夹角，屁股向后坐，胸向前挺，保持头和肘的位置。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7559027745180159290",
+      "title": "第9集 | 背部教学先从激活开始#背部训练",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-10-09 09:28",
+      "duration_text": "08:10",
+      "duration_sec": 490,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7559027745180159290",
+      "desc": null,
+      "platform_summary": "背部训练的热身和正式训练方法，包括肩袖热身、肩胛下肌激活和高位下拉。强调背部训练前要充分激活背肌功能，提高训练效率。同时，注意动作细节和呼吸，以达到最佳训练效果。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:21",
+          "startSec": 21,
+          "title": "肩袖热身",
+          "summary": "肩袖热身，跪在地上，肘搭在凳子上，保持手指、手腕、手肘和肩在一条平面上，身体重心往后推，重复动作。",
+          "endSec": null
+        },
+        {
+          "start": "02:18",
+          "startSec": 138,
+          "title": "肩胛下肌激活",
+          "summary": "肩胛下肌激活，选择合适重量，手腕扣起，大臂微微外展，保持外展位，做内旋训练，注意呼吸和背部收缩。",
+          "endSec": null
+        },
+        {
+          "start": "04:57",
+          "startSec": 297,
+          "title": "高位下拉",
+          "summary": "高位下拉，宽距，注意腰向后推，胸向前，下拉到眼睛位置，放的时候微曲，不要拉太多。",
+          "endSec": null
+        },
+        {
+          "start": "07:54",
+          "startSec": 474,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7559796443725778236",
+      "title": "第10集 | 背部最重要的是控制能力，还有就是体态和大小脑的关系 #体态纠正 #背部塑形",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-10-11 11:11",
+      "duration_text": "05:56",
+      "duration_sec": 356,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7559796443725778236",
+      "desc": null,
+      "platform_summary": "背部训练的关键在于打开背的功能，而非收紧。体态问题与大脑额叶和小脑发育有关，提高额叶能力可改善体态。训练时，动作标准和发力感比组数和次数更重要。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:23",
+          "startSec": 23,
+          "title": "背部训练的关键",
+          "summary": "背部训练需打开背的功能，肩胛骨上回旋，胸椎向前推，背部造型比训练更重要。",
+          "endSec": null
+        },
+        {
+          "start": "01:16",
+          "startSec": 76,
+          "title": "体态问题的原因",
+          "summary": "体态问题与胚胎学有关，大脑额叶负责抑制屈肌，小脑负责生肌，两者结合很重要。",
+          "endSec": null
+        },
+        {
+          "start": "02:10",
+          "startSec": 130,
+          "title": "改善体态的方法",
+          "summary": "提高大脑额叶能力，抑制屈肌，对抗地心引力，改善体态，同时训练小脑功能。",
+          "endSec": null
+        },
+        {
+          "start": "04:39",
+          "startSec": 279,
+          "title": "训练组数和次数的选择",
+          "summary": "训练组数和次数选择不重要，关键是动作标准，保证训练发力感好。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7561380411924041017",
+      "title": "第11集 | 背部焚决教学来啦，希望大家多多练习#背部训练",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-10-15 17:37",
+      "duration_text": "09:27",
+      "duration_sec": 567,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7561380411924041017",
+      "desc": null,
+      "platform_summary": "背部训练的重要性，强调提高关节功能和运动能力对肌肉完整性的影响。详细讲解了直臂下压和高位下拉两个动作，包括握把选择、手腕和手肘角度、下拉幅度等方面的技巧。同时，强调了腹肌收紧在背部训练中的重要性，以及避免沉肩的观念。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:09",
+          "startSec": 9,
+          "title": "训练前的理念",
+          "summary": "提高关节功能和运动能力，自然获得完整肌肉形态和刻度。",
+          "endSec": null
+        },
+        {
+          "start": "01:07",
+          "startSec": 67,
+          "title": "热身动作",
+          "summary": "肱三头肌拉伸和肩胛提肌拉伸，手撑平板凳，肩顶起，做肘屈肘伸。",
+          "endSec": null
+        },
+        {
+          "start": "03:06",
+          "startSec": 186,
+          "title": "直臂下压",
+          "summary": "直臂下压，宽握把，2/3行程，收紧腹肌，注意手腕和手肘角度。",
+          "endSec": null
+        },
+        {
+          "start": "06:19",
+          "startSec": 379,
+          "title": "高位下拉",
+          "summary": "高位下拉，宽握把，下拉至眼睛位置，桡侧发力，避免沉肩。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7563519602224385337",
+      "title": "第13集 | 焚决背部教学最实用的训练模式#背部训练",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-10-21 11:59",
+      "duration_text": "09:08",
+      "duration_sec": 548,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7563519602224385337",
+      "desc": null,
+      "platform_summary": "焚决背部训练教学的最后一个视频，强调了胸腔扩张、肩关节活动能力和背阔肌拉伸的重要性。三个训练动作：健腹轮、直臂下压和高位下拉，分别从不同角度锻炼背部肌肉和关节功能。同时，注意保持正确的姿势和呼吸，以提高训练效果并减少受伤风险。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:16",
+          "startSec": 16,
+          "title": "胸腔扩张",
+          "summary": "保持胸腔扩张，避免改变身体结构，维持中立位吸气，减轻关节压力。",
+          "endSec": null
+        },
+        {
+          "start": "01:41",
+          "startSec": 101,
+          "title": "健腹轮",
+          "summary": "健腹轮可用于背部训练，注意手腕、肘、肩、背、腹的正确姿势，提高肩关节活动能力。",
+          "endSec": null
+        },
+        {
+          "start": "03:53",
+          "startSec": 233,
+          "title": "直臂下压",
+          "summary": "直臂下压动作，注意髋部、呼吸、肩屈能力的训练，提高背阔肌拉伸感。",
+          "endSec": null
+        },
+        {
+          "start": "06:30",
+          "startSec": 390,
+          "title": "高位下拉",
+          "summary": "高位下拉动作，注意桡侧发力、肘关节主动伸直，提高肩关节压力，稳定筋膜链。",
+          "endSec": null
+        },
+        {
+          "start": "08:58",
+          "startSec": 538,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7565387028940492090",
+      "title": "第15集 | 腿部焚决之腿屈伸的三种模式教学#腿部训练",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-10-26 12:45",
+      "duration_text": "08:02",
+      "duration_sec": 482,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7565387028940492090",
+      "desc": null,
+      "platform_summary": "坐姿腿屈伸的三种模式教学，强调训练时观察腿部肌肉收缩，提高训练效率。三种模式包括常规模式、针对股中间肌和股直肌的屈髋模式以及固定远端练近端模式。建议在训练时多尝试不同模式，以达到更好的训练效果。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "01:37",
+          "startSec": 97,
+          "title": "腿部训练小技巧",
+          "summary": "训练时多观察腿部，通过视觉神经传导提高训练效率。",
+          "endSec": null
+        },
+        {
+          "start": "03:16",
+          "startSec": 196,
+          "title": "腿屈伸的三种模式",
+          "summary": "腿屈伸的三种模式：常规模式、针对股中间肌和股直肌的屈髋模式、固定远端练近端模式。",
+          "endSec": null
+        },
+        {
+          "start": "07:29",
+          "startSec": 449,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7568344357516073082",
+      "title": "第16集 | 背部焚决之坐姿绳索划船，以及很重要的两个上肢热身动作，希望大家都能把训练融会贯通#背部训练",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-11-03 12:01",
+      "duration_text": "09:57",
+      "duration_sec": 597,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7568344357516073082",
+      "desc": null,
+      "platform_summary": "背部训练的重要动作坐姿绳索划船，强调了热身的重要性，介绍了两个上肢热身动作：蜘蛛式和手肘搭平板凳。详细讲解了坐姿绳索划船的两种方法：挺胸和含胸，并强调了肩胛后缩的重要性。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:10",
+          "startSec": 10,
+          "title": "热身的重要性",
+          "summary": "热身动作可以提高关节活动度，让肌肉更完整，提高柔韧性和关节健康度。",
+          "endSec": null
+        },
+        {
+          "start": "01:12",
+          "startSec": 72,
+          "title": "蜘蛛式",
+          "summary": "蜘蛛式可以打开肩伸，提高肩的活动度，还可以做单侧热身，增加旋转动作模式。",
+          "endSec": null
+        },
+        {
+          "start": "04:26",
+          "startSec": 266,
+          "title": "手肘搭平板凳",
+          "summary": "手肘搭平板凳可以提高背部发力，增加背部紧张感，还可以做重心后移的变式。",
+          "endSec": null
+        },
+        {
+          "start": "06:22",
+          "startSec": 382,
+          "title": "坐姿绳索划船",
+          "summary": "坐姿绳索划船有两种方法，一种是挺胸，一种是含胸，都需要注意肩胛后缩。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7569788930779558053",
+      "title": "第17集 | 焚决之肩后束训练秘诀以及热身动作教学#肩部训练",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-11-07 09:27",
+      "duration_text": "09:56",
+      "duration_sec": 596,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7569788930779558053",
+      "desc": null,
+      "platform_summary": "肩部训练的秘诀包括热身动作和三角肌后束训练。热身动作强调外旋功能的激活，以及脊柱核心能力的训练。三角肌后束训练动作强调正确的姿势和感受，通过拉伸对抗和辅助训练提高训练效果。",
+      "chapters": [
+        {
+          "start": "00:03",
+          "startSec": 3,
+          "title": "热身动作",
+          "summary": "推荐了三个肩部热身动作，包括外旋位推肩、头枕地对抗地面、泡沫轴支撑。强调了肩痛问题可能源于骨盆和颈椎，应先从这两个部位开始考虑。",
+          "endSec": null
+        },
+        {
+          "start": "04:25",
+          "startSec": 265,
+          "title": "三角肌后束训练",
+          "summary": "三角肌后束训练动作，强调保持身体挺直，大腿后侧发力，大臂内旋向前，下少抬多。",
+          "endSec": null
+        },
+        {
+          "start": "08:30",
+          "startSec": 510,
+          "title": "拉伸对抗",
+          "summary": "拉伸对抗，提高感受神经，确保训练效果。",
+          "endSec": null
+        },
+        {
+          "start": "09:12",
+          "startSec": 552,
+          "title": "辅助训练",
+          "summary": "辅助训练，通过触感感受目标肌肉，提高感受神经。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7571651212694007013",
+      "title": "第18集 | 个人认为高位下拉最高效的一种模式，一定要作为主项训练#背部训练",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-11-12 09:53",
+      "duration_text": "07:23",
+      "duration_sec": 443,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7571651212694007013",
+      "desc": null,
+      "platform_summary": "背部训练教学，包括两个热身动作和一个训练动作。热身动作包括内旋肌激活和肘屈伸，训练动作是中距离对握高位下拉。强调关节能力、动作标准性和肌肉收紧的重要性，建议将中距离对握高位下拉作为主项训练。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:29",
+          "startSec": 29,
+          "title": "内旋肌激活",
+          "summary": "手握住绳索尾端，手腕抬高，用食指虎口发力，保持手腕位置，伸直手臂，注意呼吸。",
+          "endSec": null
+        },
+        {
+          "start": "02:34",
+          "startSec": 154,
+          "title": "肘屈伸",
+          "summary": "手放在凳子上，手腕伸直，重心向后推，肩胛骨撑起，做肘屈肘伸，注意肩胛骨不要塌下去。",
+          "endSec": null
+        },
+        {
+          "start": "03:54",
+          "startSec": 234,
+          "title": "中距离对握高位下拉",
+          "summary": "中距离对握高位下拉，选择合适重量，身体保持中立位，收紧腹肌，向心收缩到底，注意呼吸。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7574247205529647205",
+      "title": "第20集 | 形体训练动作质量大于一切，也是保证尽量不受伤并且能走的更久的诀窍#肩部训练",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-11-19 09:47",
+      "duration_text": "04:29",
+      "duration_sec": 269,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7574247205529647205",
+      "desc": null,
+      "platform_summary": "肩部训练的重要性，推荐了两个肩部训练动作：仰卧面拉和实力推。强调了训练质量和动作细节的重要性，如核心收紧、呼吸控制和正确的姿势。同时，提醒大家在训练前一定要进行肩袖激活，以减少受伤风险。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:14",
+          "startSec": 14,
+          "title": "热身",
+          "summary": "训练前一定要进行肩袖激活，即使时间不够也要保证训练质量。",
+          "endSec": null
+        },
+        {
+          "start": "01:10",
+          "startSec": 70,
+          "title": "仰卧面拉",
+          "summary": "仰卧面拉，保持腰贴紧核心收紧，注意幅度和外旋。",
+          "endSec": null
+        },
+        {
+          "start": "02:30",
+          "startSec": 150,
+          "title": "实力推",
+          "summary": "实力推，建议使用史密斯，注意收肋、握距、呼吸和腰部动作。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7575186300258749798",
+      "title": "第1集 | 焚诀跟练系列开启 这么长的视频还有人能好好看完吗#胸部训练",
+      "author": "谭成义",
+      "collection": "焚决之跟练系列",
+      "published_text": "2025-11-22 09:20",
+      "duration_text": "23:39",
+      "duration_sec": 1419,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7575186300258749798",
+      "desc": null,
+      "platform_summary": "焚诀跟练系列之胸部训练的完整过程，包括热身、正式训练和训练容量的选择。训练动作包括飞鸟击夹下胸、双杠臂屈伸、上斜史密斯、上斜推胸、坐姿夹胸和单臂哑铃侧平举。强调了训练容量的重要性，以及如何根据个人情况选择组数和次数。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:25",
+          "startSec": 25,
+          "title": "热身",
+          "summary": "使用泡沫轴、呼吸、俯卧撑、海豹拉伸等方法进行热身，激活身体各部位。",
+          "endSec": null
+        },
+        {
+          "start": "06:42",
+          "startSec": 402,
+          "title": "正式训练",
+          "summary": "飞鸟击夹下胸、双杠臂屈伸、上斜史密斯、上斜推胸、坐姿夹胸、单臂哑铃侧平举等动作进行正式训练。",
+          "endSec": null
+        },
+        {
+          "start": "20:01",
+          "startSec": 1201,
+          "title": "训练容量",
+          "summary": "提高训练容量的方法包括增加训练时间、缩短组间休息、延长每组训练时间。训练容量的提高有助于恢复能力、肌肉质量和减脂。",
+          "endSec": null
+        },
+        {
+          "start": "22:34",
+          "startSec": 1354,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7576101176707364537",
+      "title": "第21集 | 十个健身九个疼，还有一个特别疼，肩峰撞击，肩部不适弹响的背后原因以及改善动作教学，大家收藏练起来吧#肩部训练 #肩部疼痛",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-11-24 09:41",
+      "duration_text": "08:45",
+      "duration_sec": 525,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7576101176707364537",
+      "desc": null,
+      "platform_summary": "肩峰撞击和肩部不适的原因是肩胛骨和盂肱关节空间不足。两个改善动作：跪姿死虫和弹力带训练。建议先放松杠下小圆肌，再进行训练，以提高效果。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:21",
+          "startSec": 21,
+          "title": "疼痛原因",
+          "summary": "肱骨前移和肩峰撞击是因为肩胛骨和盂肱关节空间不够，导致撞击和位移。解决方法是加强肩胛骨稳定性。",
+          "endSec": null
+        },
+        {
+          "start": "01:55",
+          "startSec": 115,
+          "title": "跪姿死虫",
+          "summary": "锻炼肩胛下肌离心段能力，改善肩膀问题，注意手腕位置、大臂外旋和胸口撑开。",
+          "endSec": null
+        },
+        {
+          "start": "05:17",
+          "startSec": 317,
+          "title": "弹力带训练",
+          "summary": "锻炼肩胛骨后倾能力，注意关节位置和身体稳定。",
+          "endSec": null
+        },
+        {
+          "start": "07:10",
+          "startSec": 430,
+          "title": "放松与训练建议",
+          "summary": "先放松杠下小圆肌，再进行训练，提高训练效果。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7577618867309183589",
+      "title": "第22集 | 增肌减脂同时进行需要做到四点 热量不等于营养，饮食是为了服务于训练，根据训练安排调整饮食，以及如何选择更好的饮食结构和补剂来帮助我们进步#增肌 #减脂",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-11-28 14:08",
+      "duration_text": "15:17",
+      "duration_sec": 917,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7577618867309183589",
+      "desc": null,
+      "platform_summary": null,
+      "chapters": []
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7580303222796310449",
+      "title": "第2集 | 肩部跟练系列来啦，赶紧练起来吧#肩部训练 #南瓜肩",
+      "author": "谭成义",
+      "collection": "焚决之跟练系列",
+      "published_text": "2025-12-05 17:28",
+      "duration_text": "21:48",
+      "duration_sec": 1308,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7580303222796310449",
+      "desc": null,
+      "platform_summary": "肩部训练的跟练系列，包括热身、正式训练和拉伸。训练动作涵盖了肩部的前束、中束和后束，强调了正确的姿势、呼吸和肌肉发力。训练计划包括六组每个动作，以帮助提高肩部肌肉的力量和稳定性。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:09",
+          "startSec": 9,
+          "title": "热身",
+          "summary": "颈伸肌训练、d天使、肩胛骨向上顶、负重头顶推。",
+          "endSec": null
+        },
+        {
+          "start": "04:32",
+          "startSec": 272,
+          "title": "正式训练",
+          "summary": "哑铃侧平举（正手和反手）、坐姿史密斯推肩、侧平举、绳索面拉、哑铃前平举。",
+          "endSec": null
+        },
+        {
+          "start": "20:51",
+          "startSec": 1251,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7582048702325181745",
+      "title": "背部训练需要明确训练目标，审视自己的形体哪里薄弱就多去加强哪里，这才是训练真正的计划，希望大家好好加油训练，做好大家的电子教练！！#背部训练 #增肌",
+      "author": "谭成义",
+      "collection": null,
+      "published_text": "2025-12-10 10:21",
+      "duration_text": "26:37",
+      "duration_sec": 1597,
+      "likes_text": "71.5万",
+      "url": "https://www.douyin.com/video/7582048702325181745",
+      "desc": "背部训练需要明确训练目标，审视自己的形体哪里薄弱就多去加强哪里，这才是训练真正的计划，希望大家好好加油训练，做好大家的电子教练！！#背部训练 #增肌",
+      "platform_summary": "背部训练的方法，包括热身动作和五个正式训练动作，强调不要过分追求重量和幅度，注重动作标准和肌肉收缩。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:15",
+          "startSec": 15,
+          "title": "热身动作",
+          "summary": "三个热身动作：跪姿肘屈伸、凳子肘屈伸、坐姿颈后三头肌屈伸。",
+          "endSec": null
+        },
+        {
+          "start": "04:59",
+          "startSec": 299,
+          "title": "反手高位下拉",
+          "summary": "锻炼下背部，建议做5-6组。",
+          "endSec": null
+        },
+        {
+          "start": "07:33",
+          "startSec": 453,
+          "title": "坐姿绳索划船",
+          "summary": "锻炼下背阔肌，注意动作细节。",
+          "endSec": null
+        },
+        {
+          "start": "13:32",
+          "startSec": 812,
+          "title": "中距离对握高位下拉",
+          "summary": "锻炼肩胛骨上回旋，注意找到拉伸感。",
+          "endSec": null
+        },
+        {
+          "start": "16:37",
+          "startSec": 997,
+          "title": "中距离对握开肘划船",
+          "summary": "锻炼中背部和上背部，注意肩胛后缩。",
+          "endSec": null
+        },
+        {
+          "start": "19:13",
+          "startSec": 1153,
+          "title": "直臂下压",
+          "summary": "锻炼上下背部，注意动作细节和重量选择。",
+          "endSec": null
+        },
+        {
+          "start": "24:05",
+          "startSec": 1445,
+          "title": "训练建议",
+          "summary": "不要局限于动作，要关注训练方向和目标。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7583147740042120485",
+      "title": "第26集 | 给大家看看我的饮食是如何安排的，具体怎么操作还有一些零碎碎哈哈#增肌 #减脂饮食",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-12-13 09:26",
+      "duration_text": "20:41",
+      "duration_sec": 1241,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7583147740042120485",
+      "desc": null,
+      "platform_summary": "一天的饮食安排分享，包括早餐、练前餐、练后餐和晚餐。详细介绍了每餐的食物种类、重量和营养成分。强调了根据体重、形体对比图、训练状态和精神状态调整碳水、蛋白质和脂肪摄入量的重要性，以及保持微微饥饿感的必要性。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:53",
+          "startSec": 53,
+          "title": "早餐",
+          "summary": "早餐为130克生米、3个鸡蛋、10克猪油，额外加了丹东草莓和酸奶。",
+          "endSec": null
+        },
+        {
+          "start": "08:37",
+          "startSec": 517,
+          "title": "购买麦克风",
+          "summary": "花费500元购买麦克风，介绍了麦克风的功能和使用方法。",
+          "endSec": null
+        },
+        {
+          "start": "10:14",
+          "startSec": 614,
+          "title": "练前餐",
+          "summary": "练前餐为500克红薯、200克牛肉、1个西红柿，加了辣椒和调料。",
+          "endSec": null
+        },
+        {
+          "start": "15:03",
+          "startSec": 903,
+          "title": "训练",
+          "summary": "训练时注意正握、开肘、对握、夹肘的区别，以及拉和放时的注意事项。",
+          "endSec": null
+        },
+        {
+          "start": "16:47",
+          "startSec": 1007,
+          "title": "练后餐",
+          "summary": "练后餐为130克生米、200克牛肉、5克猪油。",
+          "endSec": null
+        },
+        {
+          "start": "17:39",
+          "startSec": 1059,
+          "title": "晚餐",
+          "summary": "晚餐为700克玉米、200克鸡胸肉、1个西红柿。",
+          "endSec": null
+        },
+        {
+          "start": "18:17",
+          "startSec": 1097,
+          "title": "总结",
+          "summary": "总结了一天的饮食，包括碳水、蛋白质和脂肪的摄入量，强调了保持微微饥饿感的重要性，建议根据体重、形体对比图、训练状态和精神状态调整饮食。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7584327773767306545",
+      "title": "第23集 | 训练质量，训练质量，训练质量，重要的事情说三遍！！！好了我要去吃烧饼了#增肌 #体态纠正",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-12-16 13:45",
+      "duration_text": "03:21",
+      "duration_sec": 201,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7584327773767306545",
+      "desc": null,
+      "platform_summary": "训练质量比组数和次数更重要，要关注每一组的完成质量。递减组可提高肌肉质量和活动度，适用于需要提高这些方面的需求。增肌的目的是让形体好看，需关注肌肉质量、完整度、体脂、维度和造型。背部训练要精细化，关注关节幅度和身体稳定性。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:41",
+          "startSec": 41,
+          "title": "训练的重点",
+          "summary": "训练时不要纠结组数和次数，重要的是做好每一组，提高训练质量。",
+          "endSec": null
+        },
+        {
+          "start": "01:27",
+          "startSec": 87,
+          "title": "递减组的作用",
+          "summary": "递减组可提高肌肉完整度、活动度和质量，适用于需要提高这些方面的需求。",
+          "endSec": null
+        },
+        {
+          "start": "02:23",
+          "startSec": 143,
+          "title": "增肌的目的",
+          "summary": "增肌的目的是让形体好看，需要关注肌肉质量、完整度、体脂、维度和造型。",
+          "endSec": null
+        },
+        {
+          "start": "02:53",
+          "startSec": 173,
+          "title": "背部训练逻辑",
+          "summary": "背部训练要精细化，关注关节幅度和身体稳定性，再进行肌肉收缩。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7585131280636923193",
+      "title": "第4集 | 不管从任何角度任何目的第一个腹部训练。就是我个人最推荐的腹部核心动作，希望大家一定要认真的去练这个动作，希望大家走的远而不是走的快！#核心力量训练 #腹肌",
+      "author": "谭成义",
+      "collection": "焚决之跟练系列",
+      "published_text": "2025-12-18 17:43",
+      "duration_text": "10:35",
+      "duration_sec": 635,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7585131280636923193",
+      "desc": null,
+      "platform_summary": "三个推荐的腹部训练动作：反向山羊挺身卷腹、悬垂举腿和跪姿龙门架磕头。这些动作涵盖了腹肌的不同部位和功能训练，适用于不同目标的人群。强调核心稳定性和四肢灵活性的重要性，建议根据个人情况选择合适的动作进行训练。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:26",
+          "startSec": 26,
+          "title": "反向山羊挺身卷腹",
+          "summary": "锻炼腹肌等长等张训练和腹内外斜肌，提高核心稳定性和四肢灵活性。",
+          "endSec": null
+        },
+        {
+          "start": "05:08",
+          "startSec": 308,
+          "title": "悬垂举腿",
+          "summary": "锻炼腹直肌和腹内外斜肌，注意保持正确姿势。",
+          "endSec": null
+        },
+        {
+          "start": "07:03",
+          "startSec": 423,
+          "title": "跪姿龙门架磕头",
+          "summary": "锻炼腹直肌，适合想让腹直肌饱满的男生，女生不太建议。",
+          "endSec": null
+        },
+        {
+          "start": "09:54",
+          "startSec": 594,
+          "title": "总结",
+          "summary": "推荐三个腹部训练动作，涵盖腹部各方面训练，更推荐前两个动作。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7586112210008362277",
+      "title": "第5集 | 大家一直要的手臂训练跟练来啦，赶紧练起来！！冲冲冲！！#手臂训练 #二头肌",
+      "author": "谭成义",
+      "collection": "焚决之跟练系列",
+      "published_text": "2025-12-21 09:10",
+      "duration_text": "18:50",
+      "duration_sec": 1130,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7586112210008362277",
+      "desc": null,
+      "platform_summary": "手臂训练的跟练教程，包括6个动作：三头肌的单手臂屈伸、仰卧杠铃臂屈伸和直杆直臂下压，以及二头肌的锤式弯举、俯卧位杠铃弯举和龙门架直杆弯举。同时，提供了两种训练模式：一天只练手臂或一周练两次，每次30-40分钟，可选择超级组训练。",
+      "chapters": [
+        {
+          "start": "00:14",
+          "startSec": 14,
+          "title": "第一个动作单臂绳索臂屈伸",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "03:18",
+          "startSec": 198,
+          "title": "第二个三头动作杠铃臂屈伸",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "06:32",
+          "startSec": 392,
+          "title": "第三个三头动作直杆臂屈伸",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "08:58",
+          "startSec": 538,
+          "title": "第一个二头绳索锤式变式弯",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "12:02",
+          "startSec": 722,
+          "title": "第二个动作俯身杠铃弯举",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7586889620748225841",
+      "title": "第25集：休息日饮食和疲劳管理的方法，保持开心愉悦才是最重要滴，要开心奥大家！！#增肌 #减脂食谱",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-12-23 11:27",
+      "duration_text": "23:41",
+      "duration_sec": 1421,
+      "likes_text": "3.3万",
+      "url": "https://www.douyin.com/video/7586889620748225841",
+      "desc": "第25集：休息日饮食和疲劳管理的方法，保持开心愉悦才是最重要滴，要开心奥大家！！#增肌 #减脂食谱",
+      "platform_summary": "休息日的饮食安排、补剂选择、备餐做法与疲劳管理，强调休息日要刻意安排、保持愉悦。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:08",
+          "startSec": 8,
+          "title": "饮食安排",
+          "summary": "休息日根据饥饿程度调整碳水摄入量，减少脂肪摄入，早餐吃蛋炒饭，喝0脂酸奶。",
+          "endSec": null
+        },
+        {
+          "start": "02:32",
+          "startSec": 152,
+          "title": "补剂选择",
+          "summary": "休息日补剂减少，如肌酸，多吃钙镁d片、鱼油、VC、维生素，谷氨酰胺。",
+          "endSec": null
+        },
+        {
+          "start": "03:13",
+          "startSec": 193,
+          "title": "备餐制作",
+          "summary": "鸡胸肉和蔬菜，炒肉时可加肉桂、胡椒粉，老抽上色。",
+          "endSec": null
+        },
+        {
+          "start": "06:05",
+          "startSec": 365,
+          "title": "书籍推荐",
+          "summary": "《迷走神经的疗愈力》《深度营养》《中国膳食居民指南13版》《大脑的机制能力》",
+          "endSec": null
+        },
+        {
+          "start": "09:06",
+          "startSec": 546,
+          "title": "散步的好处",
+          "summary": "激活血清素，让大脑放松，避免长时间躺着。",
+          "endSec": null
+        },
+        {
+          "start": "10:07",
+          "startSec": 607,
+          "title": "拍视频的重要性",
+          "summary": "多拍视频，观察自己的形体，针对性训练。",
+          "endSec": null
+        },
+        {
+          "start": "12:04",
+          "startSec": 724,
+          "title": "肋骨形状与训练",
+          "summary": "窄肋骨人群吸气模式下段腹腔容易扩张；宽肋骨人群胸腔段更容易扩张。",
+          "endSec": null
+        },
+        {
+          "start": "13:42",
+          "startSec": 822,
+          "title": "拉伸与训练建议",
+          "summary": "拉伸时压住筋膜；训练时注意挺胸不顶肋。",
+          "endSec": null
+        },
+        {
+          "start": "21:32",
+          "startSec": 1292,
+          "title": "睡前补剂与晚餐",
+          "summary": "钙镁d片、维生素、鱼油、南非醉前；晚餐红薯、鸡胸肉丸子、西红柿、巧克力。",
+          "endSec": null
+        },
+        {
+          "start": "22:26",
+          "startSec": 1346,
+          "title": "休息日的重要性",
+          "summary": "要刻意安排，做自己喜欢的事情。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7587970862046973425",
+      "title": "第24集 | 哪种有氧对力量训练帮助更大？以及有氧的强度和时间具体如何安排！！#有氧运动 #增肌",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2025-12-26 09:22",
+      "duration_text": "03:42",
+      "duration_sec": 222,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7587970862046973425",
+      "desc": null,
+      "platform_summary": "增肌和减脂期有氧的选择建议，推荐时间短、强度大的有氧，如间歇跑、坡跑和负重跑。这些有氧方式能提高呼吸能力、力量训练强度和心肺功能，帮助获得更强的糖原合成能力。训练时要有目的性，逐渐提高强度。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:11",
+          "startSec": 11,
+          "title": "有氧选择的建议",
+          "summary": "推荐时间短、强度大的有氧，因为它消耗更大，对呼吸要求更高，能提高力量训练强度，帮助获得更强的心肺功能和糖原合成能力。",
+          "endSec": null
+        },
+        {
+          "start": "01:13",
+          "startSec": 73,
+          "title": "间歇跑",
+          "summary": "推荐间歇跑，20分钟分成四个循环，每个循环5分钟，走两分钟，跑两分钟，走三分钟，跑两分钟，目标是尽可能跑快，逐渐提高强度。",
+          "endSec": null
+        },
+        {
+          "start": "02:14",
+          "startSec": 134,
+          "title": "其他有氧方式",
+          "summary": "还可以尝试坡跑和负重跑，提高代谢和呼吸能力，从而提升力量。",
+          "endSec": null
+        },
+        {
+          "start": "02:41",
+          "startSec": 161,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7589198819998692081",
+      "title": "第7集 | 大家要的臀部训练来啦，真的用心的几个动作，希望大家好好练习！！#臀部训练 #臀部两侧凹陷",
+      "author": "谭成义",
+      "collection": "焚决之跟练系列",
+      "published_text": "2025-12-29 16:47",
+      "duration_text": "17:57",
+      "duration_sec": 1077,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7589198819998692081",
+      "desc": null,
+      "platform_summary": "一套下肢训练方法，包括拉伸、深层臀中肌和臀小肌激活、正式训练等环节。训练强调臀部的功能和健康，适合男女练习。训练动作包括青蛙趴、哥本哈根支撑、侧向移动弹力带、龙门架旋转、保加利亚蹲和宽身功能训练。这些动作有助于改善下肢问题，如腰痛、膝关节痛和屁股练不起来等。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:35",
+          "startSec": 35,
+          "title": "拉伸",
+          "summary": "青蛙趴拉伸，感受内收肌群拉伸，做5-6个，2-3组。",
+          "endSec": null
+        },
+        {
+          "start": "01:35",
+          "startSec": 95,
+          "title": "深层臀中肌和臀小肌激活",
+          "summary": "深层臀中肌和臀小肌激活，静态训练，感受臀部发力，做2-3组。",
+          "endSec": null
+        },
+        {
+          "start": "04:21",
+          "startSec": 261,
+          "title": "哥本哈根支撑",
+          "summary": "哥本哈根支撑，改善下肢问题，做2-3组。",
+          "endSec": null
+        },
+        {
+          "start": "06:40",
+          "startSec": 400,
+          "title": "侧向移动弹力带",
+          "summary": "侧向移动弹力带，锻炼臀部，做2-3组。",
+          "endSec": null
+        },
+        {
+          "start": "09:18",
+          "startSec": 558,
+          "title": "龙门架旋转",
+          "summary": "龙门架旋转，锻炼整个臀部，做5-6组。",
+          "endSec": null
+        },
+        {
+          "start": "11:49",
+          "startSec": 709,
+          "title": "保加利亚蹲",
+          "summary": "保加利亚蹲，锻炼臀部，做2-3组。",
+          "endSec": null
+        },
+        {
+          "start": "13:38",
+          "startSec": 818,
+          "title": "宽身功能训练",
+          "summary": "宽身功能训练，锻炼上臀，做2-3组。",
+          "endSec": null
+        },
+        {
+          "start": "16:11",
+          "startSec": 971,
+          "title": "总结",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7590030572307680549",
+      "title": "第6集 | 能开花的腿是咋练出来的，这么多人要腿部训练，我看看这期有多少人收藏！！#增肌 #腿部训练",
+      "author": "谭成义",
+      "collection": "焚决之跟练系列",
+      "published_text": "2026-01-01 09:00",
+      "duration_text": "17:45",
+      "duration_sec": 1065,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7590030572307680549",
+      "desc": null,
+      "platform_summary": "如何塑造饱满开花的大腿，包括训练前的准备、热身与激活、正式训练动作（俯身腿弯举、犀牛蹲、保加利亚蹲、坐姿腿屈伸）以及训练建议。强调了肌肉的完整性、刻度和功能的重要性，而非仅仅关注腿部围度。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:24",
+          "startSec": 24,
+          "title": "训练前的准备",
+          "summary": "训练前多感受腿部线条，多做造型。",
+          "endSec": null
+        },
+        {
+          "start": "01:21",
+          "startSec": 81,
+          "title": "热身与激活",
+          "summary": "青蛙趴、泡沫轴转髋、跪姿内收肌训练。",
+          "endSec": null
+        },
+        {
+          "start": "05:02",
+          "startSec": 302,
+          "title": "正式训练",
+          "summary": "俯身腿弯举、犀牛蹲、保加利亚蹲、坐姿腿屈伸。",
+          "endSec": null
+        },
+        {
+          "start": "17:32",
+          "startSec": 1052,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7594285071629030769",
+      "title": "第10集 | 三分化循环系列之拉日来啦，希望对大家有所帮助，谢谢大家的喜欢和支持！！#背部训练 #三分化训练",
+      "author": "谭成义",
+      "collection": "焚决之跟练系列",
+      "published_text": "2026-01-12 09:44",
+      "duration_text": "26:11",
+      "duration_sec": 1571,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7594285071629030769",
+      "desc": null,
+      "platform_summary": "蹲推拉三分化训练中的拉日训练安排，包括四个热身动作、四个背部训练动作、两个三角肌后束训练动作和两个三头肌训练动作。强调了训练时间、次数和重量的选择，以及正确的动作技巧和姿势。建议大家保持良好的心态，逐步提高训练水平。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:41",
+          "startSec": 41,
+          "title": "热身",
+          "summary": "四个热身动作，包括靠墙向后推、跪姿肘屈伸、手腕撑凳肘屈伸、肩胛下肌激活。",
+          "endSec": null
+        },
+        {
+          "start": "07:56",
+          "startSec": 476,
+          "title": "背部训练",
+          "summary": "四个背部训练动作，包括对卧高位下拉、反手高位下拉、窄距对卧坐姿划船、正卧坐姿划船。",
+          "endSec": null
+        },
+        {
+          "start": "17:44",
+          "startSec": 1064,
+          "title": "三角肌后束训练",
+          "summary": "两个三角肌后束训练动作，包括坐姿反飞鸟、对握坐姿反飞鸟。",
+          "endSec": null
+        },
+        {
+          "start": "20:19",
+          "startSec": 1219,
+          "title": "三头肌训练",
+          "summary": "两个三头肌训练动作，包括凳上反屈伸、仰卧杠铃臂屈伸。",
+          "endSec": null
+        },
+        {
+          "start": "24:53",
+          "startSec": 1493,
+          "title": "训练建议",
+          "summary": "建议每个动作做3-4组，训练时间80分钟，次数12-15次。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7595410750903198075",
+      "title": "第9集 | 三分化最后一期来啦，希望能对大家有所帮助，谢谢大家的喜欢！！#肩部训练 #腿部训练",
+      "author": "谭成义",
+      "collection": "焚决之跟练系列",
+      "published_text": "2026-01-15 10:32",
+      "duration_text": "24:15",
+      "duration_sec": 1455,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7595410750903198075",
+      "desc": null,
+      "platform_summary": "肩部和腿部训练的方法，包括热身、激活动作和正式训练。强调了正确的姿势、肌肉发力和训练细节，以提高训练效果并避免受伤。建议根据个人目标和能力调整训练计划。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:48",
+          "startSec": 48,
+          "title": "热身",
+          "summary": "肩弹力带热身，包括前平举、水平外展、绕肩、墙天使或地天使。",
+          "endSec": null
+        },
+        {
+          "start": "03:22",
+          "startSec": 202,
+          "title": "肩膀激活",
+          "summary": "肩膀激活动作，使用哑铃，注意保持躯干垂直微微前倾，做3-4组，每组力竭。",
+          "endSec": null
+        },
+        {
+          "start": "05:22",
+          "startSec": 322,
+          "title": "实力推",
+          "summary": "实力推，推荐固定器械史密斯，注意握距、核心和腰的位置，根据能力调整幅度。",
+          "endSec": null
+        },
+        {
+          "start": "08:49",
+          "startSec": 529,
+          "title": "俯身杠铃提拉",
+          "summary": "俯身杠铃提拉，注意肘往外瘪住，向上提，不要下到底，做3-4组，每组力竭。",
+          "endSec": null
+        },
+        {
+          "start": "12:13",
+          "startSec": 733,
+          "title": "侧平举",
+          "summary": "侧平举，注意手腕位置、肩膀持续发力和胸廓稳定，做3-4组，每组15个左右。",
+          "endSec": null
+        },
+        {
+          "start": "14:47",
+          "startSec": 887,
+          "title": "俯身腿弯举",
+          "summary": "俯身腿弯举，注意股骨内旋位收紧，做4组，每组15个左右。",
+          "endSec": null
+        },
+        {
+          "start": "16:49",
+          "startSec": 1009,
+          "title": "犀牛蹲",
+          "summary": "犀牛蹲，注意髋部运动，做4组，每组12-16个。",
+          "endSec": null
+        },
+        {
+          "start": "19:24",
+          "startSec": 1164,
+          "title": "保加利亚蹲",
+          "summary": "保加利亚蹲，注意大腿根部前侧拉伸感，做4组，每组12-16个。",
+          "endSec": null
+        },
+        {
+          "start": "23:11",
+          "startSec": 1391,
+          "title": "训练建议",
+          "summary": "肩膀训练每个动作做4组，腿部训练每个动作做4组，根据目标调整重量和次数。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7596620584764655537",
+      "title": "第27集 | 推肩，卧推，直臂下压，划船肩部不舒服都可以通过这两个动作改善，希望对大家有所帮助！！#肩部训练 #运动损伤",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2026-01-18 16:47",
+      "duration_text": "08:21",
+      "duration_sec": 501,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7596620584764655537",
+      "desc": null,
+      "platform_summary": "两个改善肩部疼痛的动作：1. 冈上肌激活训练，适用于外展痛或推肩疼；2. 肩胛下肌激活训练，适用于肱骨前移或肩峰撞击。建议在训练前先做这两个动作，以预防和改善肩部问题。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:14",
+          "startSec": 14,
+          "title": "外展痛或推肩疼",
+          "summary": "外展痛或推肩疼可通过冈上肌激活训练改善，选择龙门架或哑铃，头侧屈，0-20度外展，30个一组，做4组。",
+          "endSec": null
+        },
+        {
+          "start": "02:55",
+          "startSec": 175,
+          "title": "肱骨前移或肩峰撞击",
+          "summary": "肱骨前移或肩峰撞击可通过肩胛下肌激活训练改善，选择弹力带，保持肩胛骨顶高，内旋，30个一组，做4组。",
+          "endSec": null
+        },
+        {
+          "start": "07:09",
+          "startSec": 429,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7599135033329384443",
+      "title": "第11集 | 优化过后的胸部跟练2.0版本，里面添加的不少细节，希望对大家有所帮助！！#胸部训练 #增肌",
+      "author": "谭成义",
+      "collection": "焚决之跟练系列",
+      "published_text": "2026-01-25 11:25",
+      "duration_text": "30:51",
+      "duration_sec": 1851,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7599135033329384443",
+      "desc": null,
+      "platform_summary": "胸部训练的2.0版本，强调了热身、拉伸和激活的重要性。详细讲解了上胸、下胸和中缝的训练方法，包括器械选择、动作要领和注意事项。建议根据个人需求和目标进行有针对性的训练，关注训练细节，以提高训练效果。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "01:10",
+          "startSec": 70,
+          "title": "热身",
+          "summary": "泡沫轴热身，激活胸廓本体感受；手撑墙，肩胛骨后推，拉伸菱形肌和前锯肌；撑地，拉伸腹肌，感受腹外斜肌拉伸。",
+          "endSec": null
+        },
+        {
+          "start": "07:44",
+          "startSec": 464,
+          "title": "正式训练",
+          "summary": "上斜固定夹胸器，激活上胸；上斜哑铃卧推，注意细节，感受上胸发力；双杠，注意动作要领，感受下胸收紧；平板夹胸，注意中缝发力；龙门架夹下胸，注意外延收紧。",
+          "endSec": null
+        },
+        {
+          "start": "27:45",
+          "startSec": 1665,
+          "title": "训练总结",
+          "summary": "训练前拉伸，激活胸大肌，选择合适的重量和次数，关注训练细节。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7604123900088481009",
+      "title": "第1集 | 肌酸的作用？用量？以及啥时候吃更适合，视频给大家介绍一下，不过最关键的还是进步还是训练饮食睡眠，希望大家都能安全高效的进步，都能中奖！！#训练怪兽 #训练怪兽一水肌酸",
+      "author": "谭成义",
+      "collection": "补剂系列",
+      "published_text": "2026-02-08 09:30",
+      "duration_text": "03:18",
+      "duration_sec": 198,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7604123900088481009",
+      "desc": null,
+      "platform_summary": "肌酸的作用、用量和使用方法。建议每天补充3-5克，与碳水一起吃，可提高运动表现、耐力和力量。肌酸对大脑也有一定作用，可提高专注力和神经信号传输。减脂期间也可使用肌酸，每天3-5克，长效补充，有助于糖原合成和储存。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:10",
+          "startSec": 10,
+          "title": "用量",
+          "summary": "每天3-5克，与碳水一起吃，利用率更高。",
+          "endSec": null
+        },
+        {
+          "start": "00:56",
+          "startSec": 56,
+          "title": "脸胖的原因",
+          "summary": "脸胖可能与压力、盐钠摄入或长期低钠有关。",
+          "endSec": null
+        },
+        {
+          "start": "01:12",
+          "startSec": 72,
+          "title": "作用",
+          "summary": "提高运动表现、耐力和力量。",
+          "endSec": null
+        },
+        {
+          "start": "01:18",
+          "startSec": 78,
+          "title": "减脂是否需要吃",
+          "summary": "减脂也需要吃，每天3-5克，长效补充，促进糖原合成和储存。",
+          "endSec": null
+        },
+        {
+          "start": "02:14",
+          "startSec": 134,
+          "title": "对大脑的作用",
+          "summary": "提高大脑专注力、神经信号传输和感觉。",
+          "endSec": null
+        },
+        {
+          "start": "02:48",
+          "startSec": 168,
+          "title": "产品推荐",
+          "summary": "推荐训练怪兽肌酸，有原味和其他味道。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7610712695184852603",
+      "title": "第12集 | 这是一套很棒的基础训练，对形体刻画，肌肉量以及功能性提升效率都很高的训练计划！！希望能对大家#有所帮助！！#训练计划 #跟练系列",
+      "author": "谭成义",
+      "collection": "焚决之跟练系列",
+      "published_text": "2026-02-25 16:12",
+      "duration_text": "19:15",
+      "duration_sec": 1155,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7610712695184852603",
+      "desc": null,
+      "platform_summary": "一套适合新手和普通爱好者的基础训练计划，包括胸、肩、三头肌的训练。训练动作精简，注重形体刻画、肌肉量提升和功能性。训练计划分为四期，本期主要针对胸、肩、三头肌，共五个动作，每个动作都有详细的讲解和示范。",
+      "chapters": [
+        {
+          "start": "00:01",
+          "startSec": 1,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:30",
+          "startSec": 30,
+          "title": "热身",
+          "summary": "弹力带热身，肩膀活动，倒立俯卧撑或折刀式俯卧撑。",
+          "endSec": null
+        },
+        {
+          "start": "03:05",
+          "startSec": 185,
+          "title": "龙门架绳索夹胸",
+          "summary": "龙门架绳索夹胸，1组适应组，3组正式组，12个/组。",
+          "endSec": null
+        },
+        {
+          "start": "05:05",
+          "startSec": 305,
+          "title": "杠铃卧推",
+          "summary": "杠铃卧推，1组热身组，5组正式组，10个/组。",
+          "endSec": null
+        },
+        {
+          "start": "12:39",
+          "startSec": 759,
+          "title": "上斜器械卧推",
+          "summary": "上斜器械卧推，1组适应组，3组正式组，10-12个/组。",
+          "endSec": null
+        },
+        {
+          "start": "14:25",
+          "startSec": 865,
+          "title": "杠铃实力推",
+          "summary": "杠铃实力推，1组适应组，3组正式组，10-12个/组。",
+          "endSec": null
+        },
+        {
+          "start": "17:30",
+          "startSec": 1050,
+          "title": "颈后绳索臂屈伸",
+          "summary": "颈后绳索臂屈伸，1组适应组，3组正式组，10-12个/组。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7612270623104450533",
+      "title": "第14集 | 下肢训练来啦，希望对大家有所帮助！！#力量训练#下肢功能 #力量训练",
+      "author": "谭成义",
+      "collection": "焚决之跟练系列",
+      "published_text": "2026-03-02 09:30",
+      "duration_text": "15:36",
+      "duration_sec": 936,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7612270623104450533",
+      "desc": null,
+      "platform_summary": "下肢训练的跟练教程，包括热身、内收、单腿哑铃硬拉、弓步蹲、旋转弓步蹲和站姿提踵等动作。强调功能性训练，关注下肢的稳定性、力量和灵活性，以提高整体身体状态。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:35",
+          "startSec": 35,
+          "title": "热身",
+          "summary": "包括伟大的伸展、拉伸前侧、拉伸内收等，注意呼吸和动作幅度。",
+          "endSec": null
+        },
+        {
+          "start": "02:30",
+          "startSec": 150,
+          "title": "仰卧位内收",
+          "summary": "锻炼内收肌群，可选择器械或哥本哈根支撑，注意骨盆稳定和呼吸。",
+          "endSec": null
+        },
+        {
+          "start": "06:59",
+          "startSec": 419,
+          "title": "单腿哑铃硬拉",
+          "summary": "锻炼大腿后侧肌肉和髋关节能力，注意颈椎位置和呼吸。",
+          "endSec": null
+        },
+        {
+          "start": "08:22",
+          "startSec": 502,
+          "title": "弓步蹲",
+          "summary": "锻炼下肢传达能力，注意后腿发力和膝盖伸直。",
+          "endSec": null
+        },
+        {
+          "start": "10:59",
+          "startSec": 659,
+          "title": "旋转弓步蹲",
+          "summary": "锻炼旋转功能和全身螺旋力，注意速度和呼吸。",
+          "endSec": null
+        },
+        {
+          "start": "13:00",
+          "startSec": 780,
+          "title": "站姿提踵",
+          "summary": "锻炼小腿，注意前脚掌踩住和重心稳定。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7612569129154079461",
+      "title": "第3集 | 给大家讲解一下谷氨酰胺的作用和效果，以及补充时间，有需要的小伙伴可以试一试，希望对大家有所帮助！！#训练怪兽 #训练怪兽谷氨酰胺",
+      "author": "谭成义",
+      "collection": "补剂系列",
+      "published_text": "2026-03-03 09:30",
+      "duration_text": "00:59",
+      "duration_sec": 59,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7612569129154079461",
+      "desc": null,
+      "platform_summary": null,
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "谷氨酰胺作用以及补充时间",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:42",
+          "startSec": 42,
+          "title": "50份抽奖活动",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7613586950141907450",
+      "title": "第15集 | 最后一期来喽，肩加手臂的训练，希望对大家有所帮助！！下一期居家训练的具体计划#健身教学 #肩部训练",
+      "author": "谭成义",
+      "collection": "焚决之跟练系列",
+      "published_text": "2026-03-05 10:05",
+      "duration_text": "25:53",
+      "duration_sec": 1553,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7613586950141907450",
+      "desc": null,
+      "platform_summary": "肩部和手臂训练的方法，包括热身、坐姿反飞鸟、实力推、绳索面拉、前平举等动作，以及训练时的注意事项。同时，强调了休息日的重要性，建议进行腹肌训练和低强度有氧运动。最后，推荐了家庭训练动作和四分化训练思路。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:05",
+          "startSec": 5,
+          "title": "上一期问题解答",
+          "summary": "解决单腿硬拉腰酸问题，通过增强大腿后侧离心能力，先做静态训练，再做动态训练。",
+          "endSec": null
+        },
+        {
+          "start": "02:39",
+          "startSec": 159,
+          "title": "肩膀热身",
+          "summary": "肩膀热身，包括前后拉、折叠式俯卧撑、下斜方肌激活。",
+          "endSec": null
+        },
+        {
+          "start": "06:51",
+          "startSec": 411,
+          "title": "坐姿反飞鸟",
+          "summary": "坐姿反飞鸟，锻炼三角肌后束，注意手肩齐平、肘不要掉下去、往外延展发力。",
+          "endSec": null
+        },
+        {
+          "start": "10:05",
+          "startSec": 605,
+          "title": "实力推",
+          "summary": "实力推，锻炼核心和上肢综合发展，注意保持躯干稳定，避免反弓腰。",
+          "endSec": null
+        },
+        {
+          "start": "12:17",
+          "startSec": 737,
+          "title": "绳索面拉",
+          "summary": "绳索面拉，锻炼三角肌前中束，注意手腕摆正、肘往上走、中段行程。",
+          "endSec": null
+        },
+        {
+          "start": "16:28",
+          "startSec": 988,
+          "title": "前平举",
+          "summary": "前平举，锻炼三角肌前束，注意挺胸、保持胸廓扩张、连贯流畅。",
+          "endSec": null
+        },
+        {
+          "start": "20:07",
+          "startSec": 1207,
+          "title": "三头和二头训练",
+          "summary": "颈后的绳索臂屈伸和绳索二头弯曲，锻炼三头和二头，注意细节和外旋发力。",
+          "endSec": null
+        },
+        {
+          "start": "23:48",
+          "startSec": 1428,
+          "title": "休息日建议",
+          "summary": "休息日建议练腹肌和低强度有氧，避免完全休息。",
+          "endSec": null
+        },
+        {
+          "start": "24:23",
+          "startSec": 1463,
+          "title": "家庭训练推荐",
+          "summary": "推荐家庭训练动作，包括俯卧撑、引体、双杠臂屈伸、倒立、卷腹。",
+          "endSec": null
+        },
+        {
+          "start": "25:13",
+          "startSec": 1513,
+          "title": "四分化训练思路",
+          "summary": "四分化训练思路，自由训练和负荷动作多，适合增肌和提高功能性。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7615846680018354609",
+      "title": "第16集 | 居家训练之背部跟练来啦，希望对大家有所帮助！！#居家锻炼 #力量训练",
+      "author": "谭成义",
+      "collection": "焚决之跟练系列",
+      "published_text": "2026-03-11 12:14",
+      "duration_text": "25:53",
+      "duration_sec": 1553,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7615846680018354609",
+      "desc": null,
+      "platform_summary": "一套适合居家进行的背部和手臂训练，包括背部热身、健腹轮、哑铃单手划船、引体向上、双手哑铃划船和手臂训练。训练动作强调正确的姿势、呼吸和肌肉发力，以提高训练效果。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:05",
+          "startSec": 5,
+          "title": "上一期问题解答",
+          "summary": "解决单腿硬拉腰酸问题，通过增强大腿后侧离心能力，先做静态训练，再做动态训练。",
+          "endSec": null
+        },
+        {
+          "start": "02:39",
+          "startSec": 159,
+          "title": "肩膀热身",
+          "summary": "肩膀热身，包括前后拉、折叠式俯卧撑、下斜方肌激活。",
+          "endSec": null
+        },
+        {
+          "start": "06:51",
+          "startSec": 411,
+          "title": "坐姿反飞鸟",
+          "summary": "坐姿反飞鸟，锻炼三角肌后束，注意手肩齐平、肘不要掉下去、往外延展发力。",
+          "endSec": null
+        },
+        {
+          "start": "10:05",
+          "startSec": 605,
+          "title": "实力推",
+          "summary": "实力推，锻炼核心和上肢综合发展，注意保持躯干稳定，避免反弓腰。",
+          "endSec": null
+        },
+        {
+          "start": "12:17",
+          "startSec": 737,
+          "title": "绳索面拉",
+          "summary": "绳索面拉，锻炼三角肌前中束，注意手腕摆正、肘往上走、中段行程。",
+          "endSec": null
+        },
+        {
+          "start": "16:28",
+          "startSec": 988,
+          "title": "前平举",
+          "summary": "前平举，锻炼三角肌前束，注意挺胸、保持胸廓扩张、连贯流畅。",
+          "endSec": null
+        },
+        {
+          "start": "20:07",
+          "startSec": 1207,
+          "title": "三头和二头训练",
+          "summary": "颈后的绳索臂屈伸和绳索二头弯曲，锻炼三头和二头，注意细节和外旋发力。",
+          "endSec": null
+        },
+        {
+          "start": "23:48",
+          "startSec": 1428,
+          "title": "休息日建议",
+          "summary": "休息日建议练腹肌和低强度有氧，避免完全休息。",
+          "endSec": null
+        },
+        {
+          "start": "24:23",
+          "startSec": 1463,
+          "title": "家庭训练推荐",
+          "summary": "推荐家庭训练动作，包括俯卧撑、引体、双杠臂屈伸、倒立、卷腹。",
+          "endSec": null
+        },
+        {
+          "start": "25:13",
+          "startSec": 1513,
+          "title": "四分化训练思路",
+          "summary": "四分化训练思路，自由训练和负荷动作多，适合增肌和提高功能性。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7617450016814465785",
+      "title": "第17集 | 居家训练最后一期，肩部和手臂的超级组，希望对大家有所帮助！！#居家锻炼 #力量训练",
+      "author": "谭成义",
+      "collection": "焚决之跟练系列",
+      "published_text": "2026-03-16 09:30",
+      "duration_text": "11:42",
+      "duration_sec": 702,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7617450016814465785",
+      "desc": null,
+      "platform_summary": "居家肩部和手臂训练的方法，包括热身、肩部训练和手臂超级组。肩部训练包括后束、前束和中束的训练，手臂超级组则是二头和三头的组合训练。同时，建议在训练后或休息日进行腹肌训练。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:09",
+          "startSec": 9,
+          "title": "热身",
+          "summary": "肩部上肢热身，包括弹力带环绕和俯卧Y字。",
+          "endSec": null
+        },
+        {
+          "start": "02:03",
+          "startSec": 123,
+          "title": "肩部训练",
+          "summary": "肩部训练，包括哑铃俯身飞鸟、哑铃前平举和哑铃侧平举。",
+          "endSec": null
+        },
+        {
+          "start": "09:00",
+          "startSec": 540,
+          "title": "手臂超级组",
+          "summary": "手臂超级组，包括哑铃交替弯举和颈后的哑铃臂屈伸。",
+          "endSec": null
+        },
+        {
+          "start": "10:56",
+          "startSec": 656,
+          "title": "腹肌训练建议",
+          "summary": "腹肌训练建议，可在训练后或休息日进行。",
+          "endSec": null
+        },
+        {
+          "start": "11:19",
+          "startSec": 679,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7618962209967965617",
+      "title": "非常完整的减脂计划视频，教会你了解食物以及吃多少？吃什么？如何调整？视频较长，希望对大家有所帮助！！ #减脂饮食 #减脂期",
+      "author": "谭成义",
+      "collection": null,
+      "published_text": "2026-03-20 09:30",
+      "duration_text": "15:50",
+      "duration_sec": 950,
+      "likes_text": "59.6万",
+      "url": "https://www.douyin.com/video/7618962209967965617",
+      "desc": "非常完整的减脂计划视频，教会你了解食物以及吃多少？吃什么？如何调整？视频较长，希望对大家有所帮助！！ #减脂饮食 #减脂期",
+      "platform_summary": "三个月减脂计划的具体安排，包括如何根据运动量和体重计算碳水、蛋白质和脂肪的摄入量，以及如何调整饮食结构。强调了生活化减脂的重要性，建议大家认真执行计划，了解食物成分和自己的身体状况，以达到理想的减脂效果。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "01:28",
+          "startSec": 88,
+          "title": "减脂计划的基础",
+          "summary": "介绍了身体的三大营养元素，根据运动量和体重计算出碳水、蛋白质和脂肪的摄入量。",
+          "endSec": null
+        },
+        {
+          "start": "06:03",
+          "startSec": 363,
+          "title": "饮食计划的调整",
+          "summary": "通过记录体重变化和对比图，调整碳水摄入量，以达到理想的减脂效果。",
+          "endSec": null
+        },
+        {
+          "start": "07:49",
+          "startSec": 469,
+          "title": "饮食结构的介绍",
+          "summary": "介绍了饮食结构，包括早餐、午餐和晚餐的食物选择，强调了营养均衡的重要性。",
+          "endSec": null
+        },
+        {
+          "start": "12:19",
+          "startSec": 739,
+          "title": "饮食计划的换算",
+          "summary": "以85公斤为例，计算了一天的饮食摄入量，包括燕麦、鸡蛋、蓝莓、米饭、肉类、蔬菜、红薯、紫薯、土豆、贝贝南瓜、坚果等食物的具体摄入量。",
+          "endSec": null
+        },
+        {
+          "start": "14:52",
+          "startSec": 892,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7620313918720746673",
+      "title": "第2集 | 今天是一期蛋白质的讲解，给大家说一下作用，推荐使用量以及什么时候补充更好#训练怪兽 #训练怪兽乳清蛋白粉",
+      "author": "谭成义",
+      "collection": "补剂系列",
+      "published_text": "2026-03-24 09:30",
+      "duration_text": "01:26",
+      "duration_sec": 86,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7620313918720746673",
+      "desc": null,
+      "platform_summary": null,
+      "chapters": [
+        {
+          "start": "00:04",
+          "startSec": 4,
+          "title": "蛋白质怎么吃？吃多少？",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:53",
+          "startSec": 53,
+          "title": "乳清蛋白粉",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7622584923861727601",
+      "title": "第28集 | 如何用泡沫轴放松全身，一个视频搞定，希望对大家有所帮助！！#肌肉放松 #泡沫轴放松",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2026-03-29 16:02",
+      "duration_text": "10:58",
+      "duration_sec": 658,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7622584923861727601",
+      "desc": null,
+      "platform_summary": "如何用泡沫轴放松全身，包括小腿、大腿、臀部、上肢等部位的肌肉。强调在放松过程中要找到酸痛点，保持正确的姿势和幅度，适当增加对抗，以提高放松效果。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:08",
+          "startSec": 8,
+          "title": "小腿",
+          "summary": "泡沫轴放在小腿骨头中间，手撑地，另一只腿搭上，在最痛的地方滚，30秒左右。",
+          "endSec": null
+        },
+        {
+          "start": "01:15",
+          "startSec": 75,
+          "title": "大腿",
+          "summary": "泡沫轴放在大腿后侧，腿架在上面，重心前倾，勾脚尖，在最酸的地方滚，30秒左右。",
+          "endSec": null
+        },
+        {
+          "start": "04:24",
+          "startSec": 264,
+          "title": "臀部",
+          "summary": "泡沫轴放在臀部，腿翘起来，在最酸的地方滚，30秒左右。",
+          "endSec": null
+        },
+        {
+          "start": "04:50",
+          "startSec": 290,
+          "title": "上肢",
+          "summary": "泡沫轴放在上肢，放松菱形肌、大圆岗下、三角肌、胸大肌、二头肌、三头肌，每个部位30秒左右。",
+          "endSec": null
+        },
+        {
+          "start": "10:15",
+          "startSec": 615,
+          "title": "颈椎",
+          "summary": "泡沫轴放在脖子后面，放松颈椎。",
+          "endSec": null
+        },
+        {
+          "start": "10:33",
+          "startSec": 633,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7627845492777962865",
+      "title": "第4集 | 电解质的作用讲解，出汗多以及喝水少都比较适合，最后想说渗透压和酸碱平衡很重要！#训练怪兽 #训练怪兽电解质",
+      "author": "谭成义",
+      "collection": "补剂系列",
+      "published_text": "2026-04-13 09:30",
+      "duration_text": "01:16",
+      "duration_sec": 76,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7627845492777962865",
+      "desc": null,
+      "platform_summary": null,
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "电解质的作用讲解",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:47",
+          "startSec": 47,
+          "title": "训练怪兽电解质",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:58",
+          "startSec": 58,
+          "title": "水1-1.5升比较合适",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7639553118070415077",
+      "title": "第29集 | 这个视频涵盖很多大家容易出现的上肢关节问题，可以参考参考，希望对大家有所帮助！！#功能性训练 #肩关节",
+      "author": "谭成义",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "published_text": "2026-05-14 09:27",
+      "duration_text": "20:51",
+      "duration_sec": 1251,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7639553118070415077",
+      "desc": null,
+      "platform_summary": "上肢关节问题的解决方法，包括三头肌、二头肌、手腕、手肘和肩关节。强调了动作压力的重要性，以及如何通过训练和调整来改善关节不适。建议大家根据自己的情况选择合适的训练方法，提高上肢关节的稳定性和功能。",
+      "chapters": [
+        {
+          "start": "00:01",
+          "startSec": 1,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:30",
+          "startSec": 30,
+          "title": "动作压力与损伤",
+          "summary": "动作压力合适则改善，过大则损伤。",
+          "endSec": null
+        },
+        {
+          "start": "00:49",
+          "startSec": 49,
+          "title": "三头肌",
+          "summary": "三头肌不适可通过训练改善，注意动作标准和压力调整。",
+          "endSec": null
+        },
+        {
+          "start": "05:09",
+          "startSec": 309,
+          "title": "二头肌",
+          "summary": "二头肌问题可通过训练改善，增强二头肌肌力有助于肩胛骨稳定。",
+          "endSec": null
+        },
+        {
+          "start": "11:46",
+          "startSec": 706,
+          "title": "手腕",
+          "summary": "手腕问题可通过手指训练和小臂训练改善，注意训练幅度和静态训练。",
+          "endSec": null
+        },
+        {
+          "start": "13:51",
+          "startSec": 831,
+          "title": "手肘",
+          "summary": "手肘问题可通过评估和训练改善，注意旋前和旋后的平衡。",
+          "endSec": null
+        },
+        {
+          "start": "17:05",
+          "startSec": 1025,
+          "title": "肩关节",
+          "summary": "肩关节问题可通过训练改善，注意内旋肌的加强和肩胛骨的稳定。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7640030849136819377",
+      "title": "第5集 | 增肌力量训练的组数安排，组间休息的时长参考，肌酸对于力量训练的作用，用法和休息事项，希望对大家有所帮助！！#增肌 #肌酸 #训练怪兽一水肌酸",
+      "author": "谭成义",
+      "collection": "补剂系列",
+      "published_text": "2026-05-15 18:00",
+      "duration_text": "02:34",
+      "duration_sec": 154,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7640030849136819377",
+      "desc": null,
+      "platform_summary": "肌酸是一种广泛使用的健身补剂，能提高磷酸肌酸储备，帮助更快合成ATP，从而提高增肌和力量训练效果。ATP主要供能时间在6-10秒，恢复时间约3-5分钟，推荐训练时间80-90分钟。推荐训练怪兽的一水肌酸，纯度高，利用率和安全性有保证。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "肌酸的作用",
+          "summary": "肌酸是一种普遍使用的补剂，有大量研究证明其效果显著，属于A类补剂。",
+          "endSec": null
+        },
+        {
+          "start": "00:26",
+          "startSec": 26,
+          "title": "ATP系统",
+          "summary": "ATP系统是身体的重要供能系统，提高磷酸肌酸储备有助于更快合成ATP，ATP主要供能时间在6-10秒，符合增肌计划安排，恢复时间约3-5分钟，推荐训练时间80-90分钟。",
+          "endSec": null
+        },
+        {
+          "start": "02:06",
+          "startSec": 126,
+          "title": "推荐产品",
+          "summary": "推荐训练怪兽的一水肌酸，纯度99.9%，利用率和安全性有保证，口味丰富。",
+          "endSec": null
+        },
+        {
+          "start": "02:28",
+          "startSec": 148,
+          "title": "结语",
+          "summary": "希望大家生活愉快，保持开心，认真对待每一次训练，获得理想的形体！！",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7647176615788911793",
+      "title": "第1集 | 私教跟练系列来喽！！ 保姆级私教系列，视频非常长，希望对大家有所帮助！！#背部训练 #力量训练",
+      "author": "谭成义",
+      "collection": "私教跟练系列！！",
+      "published_text": "2026-06-04 09:30",
+      "duration_text": "49:11",
+      "duration_sec": 2951,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7647176615788911793",
+      "desc": null,
+      "platform_summary": "背部训练的方法和技巧，强调了脊柱和肩胛骨的稳定在训练中的重要性。通过健腹轮、泡沫轴、直臂下压、单手绳索划船、对握高位下拉、坐姿绳索划船、绳索曲臂下压和龙门架反向飞鸟等动作，详细讲解了每个动作的要领和注意事项。同时，提醒大家在训练过程中要关注动作质量，根据自己的能力调整训练计划。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:31",
+          "startSec": 31,
+          "title": "训练前的准备",
+          "summary": "训练前先放松，以背阔肌为主，提高肩胛骨能力，注意躯干和肩胛骨的稳定。",
+          "endSec": null
+        },
+        {
+          "start": "01:56",
+          "startSec": 116,
+          "title": "健腹轮与泡沫轴",
+          "summary": "健腹轮和泡沫轴训练，注意手腕和小臂的参与，保持肩胛骨外展和核心发力。",
+          "endSec": null
+        },
+        {
+          "start": "07:08",
+          "startSec": 428,
+          "title": "跪姿肘屈伸",
+          "summary": "跪姿肘屈伸，注意肩胛外展，保持核心稳定，可根据能力调整难度。",
+          "endSec": null
+        },
+        {
+          "start": "08:14",
+          "startSec": 494,
+          "title": "直臂下压",
+          "summary": "直臂下压，注意手腕扣紧，保持肩胛稳定，向下发力，注意呼吸。",
+          "endSec": null
+        },
+        {
+          "start": "11:28",
+          "startSec": 688,
+          "title": "单手绳索划船",
+          "summary": "单手绳索划船，注意腿蹬住，手肘撑住，保持躯干稳定，注意抗侧屈。",
+          "endSec": null
+        },
+        {
+          "start": "18:52",
+          "startSec": 1132,
+          "title": "对握高位下拉",
+          "summary": "对握高位下拉，注意中立位微微前倾，避免后仰，注意肩胛骨控制。",
+          "endSec": null
+        },
+        {
+          "start": "29:13",
+          "startSec": 1753,
+          "title": "坐姿绳索划船",
+          "summary": "坐姿绳索划船，注意脚蹬住，后侧发力，保持背预先发力，注意肩胛骨位置。",
+          "endSec": null
+        },
+        {
+          "start": "35:01",
+          "startSec": 2101,
+          "title": "绳索曲臂下压",
+          "summary": "绳索曲臂下压，注意手偏外旋，保持手腕稳定，注意对抗侧屈。",
+          "endSec": null
+        },
+        {
+          "start": "42:39",
+          "startSec": 2559,
+          "title": "龙门架反向飞鸟",
+          "summary": "龙门架反向飞鸟，注意脊柱稳定，肩胛后缩，避免顶肋。",
+          "endSec": null
+        },
+        {
+          "start": "47:40",
+          "startSec": 2860,
+          "title": "训练总结",
+          "summary": "练背关键在于脊柱和肩胛稳定，根据训练部位调整关节活动，关注动作质量。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7648931004442846193",
+      "title": "第2集 | 私教系列之手臂教学 第二期手臂教学来喽，视频依旧很长，希望对大家有所帮助…！视频无剪辑，所以有些小问题希望大家不要太在意！加油干！#手臂训练 #力量训练",
+      "author": "谭成义",
+      "collection": "私教跟练系列！！",
+      "published_text": "2026-06-08 15:58",
+      "duration_text": "38:44",
+      "duration_sec": 2324,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7648931004442846193",
+      "desc": null,
+      "platform_summary": null,
+      "chapters": [
+        {
+          "start": "00:10",
+          "startSec": 10,
+          "title": "展示教资！",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "02:13",
+          "startSec": 133,
+          "title": "单手绳索臂屈伸做法讲解",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "09:25",
+          "startSec": 565,
+          "title": "仰卧杠铃臂屈伸动作讲解",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "14:21",
+          "startSec": 861,
+          "title": "坐姿绳索二头弯举动作讲解",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "21:33",
+          "startSec": 1293,
+          "title": "仰卧哑铃肩伸位弯举讲解",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "27:57",
+          "startSec": 1677,
+          "title": "单手绳索肩屈位臂屈伸讲解",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "35:00",
+          "startSec": 2100,
+          "title": "坐姿绳索内旋位弯举讲解",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7650309381392785073",
+      "title": "第3集 | 私教系列之胸部教学 第三期私教系列来喽，依旧长视频希望对大家有所帮助！！#胸部训练 #增肌",
+      "author": "谭成义",
+      "collection": "私教跟练系列！！",
+      "published_text": "2026-06-12 09:07",
+      "duration_text": "38:24",
+      "duration_sec": 2304,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7650309381392785073",
+      "desc": null,
+      "platform_summary": "胸部训练的方法和技巧，包括热身、双杠臂屈伸、坐姿平推、上斜推胸、绳索夹上胸等动作，强调了挺胸、含胸、开肋、收紧等细节，以及在训练过程中保持躯干稳定的重要性。同时，提到了肩部训练的方法，以帮助塑造理想的形体。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:10",
+          "startSec": 10,
+          "title": "热身",
+          "summary": "泡沫轴热身，Y字伸展，Y字推举，弹力带绕肩。",
+          "endSec": null
+        },
+        {
+          "start": "07:13",
+          "startSec": 433,
+          "title": "双杠臂屈伸",
+          "summary": "双杠臂屈伸，注意挺胸、屈髋，重心前倾，保持持续张力。",
+          "endSec": null
+        },
+        {
+          "start": "14:44",
+          "startSec": 884,
+          "title": "坐姿平推",
+          "summary": "坐姿平推，半握，注意开肋、收紧，保持胸腔扩张。",
+          "endSec": null
+        },
+        {
+          "start": "21:25",
+          "startSec": 1285,
+          "title": "上斜推胸",
+          "summary": "上斜推胸，注意肘抬高，避免下胸发力，保持胸腔扩张。",
+          "endSec": null
+        },
+        {
+          "start": "28:30",
+          "startSec": 1710,
+          "title": "绳索夹上胸",
+          "summary": "绳索夹上胸，注意腰贴住、收肋，避免放太多，保持收紧。",
+          "endSec": null
+        },
+        {
+          "start": "33:08",
+          "startSec": 1988,
+          "title": "肩部训练",
+          "summary": "肩部训练，注意躯干稳定，保持大臂外旋位。",
+          "endSec": null
+        },
+        {
+          "start": "38:05",
+          "startSec": 2285,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7651943506576442225",
+      "title": "第4集 | 私教系列之肩部教学 紧赶慢赶终于把肩部教学出来了，依旧长视频无剪辑，希望大家有所帮助！！#肩部训练 #力量训练",
+      "author": "谭成义",
+      "collection": "私教跟练系列！！",
+      "published_text": "2026-06-16 18:48",
+      "duration_text": "39:47",
+      "duration_sec": 2387,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7651943506576442225",
+      "desc": null,
+      "platform_summary": "肩部训练的方法，包括热身、三角肌后束、坐姿反飞鸟、哑铃推肩、侧平举和前平举等动作。强调了肩部肌张力、肩胛稳定、动作幅度和呼吸等方面的重要性，以及如何根据个人情况选择合适的训练方法和重量。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:08",
+          "startSec": 8,
+          "title": "肩部热身",
+          "summary": "肩部热身用弹力带，选择合适的弹力带，保持张力，从肩膀正前方到正后方环绕，一组20次。",
+          "endSec": null
+        },
+        {
+          "start": "03:11",
+          "startSec": 191,
+          "title": "Trx激活",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "06:49",
+          "startSec": 409,
+          "title": "俯身哑铃肩伸（后束训练）",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "14:01",
+          "startSec": 841,
+          "title": "坐姿反飞鸟（后束训练）",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "21:32",
+          "startSec": 1292,
+          "title": "哑铃推肩详细讲解",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "31:18",
+          "startSec": 1878,
+          "title": "哑铃侧平举（中束训练）",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "34:32",
+          "startSec": 2072,
+          "title": "哑铃前平举（前束训练）",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "39:06",
+          "startSec": 2346,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7655982129109198321",
+      "title": "第5集 | 私教系列之腿部训练 依旧长视频，希望对大家下肢训练有所帮助！！#下肢力量 #腿部训练",
+      "author": "谭成义",
+      "collection": "私教跟练系列！！",
+      "published_text": "2026-06-27 16:00",
+      "duration_text": "52:57",
+      "duration_sec": 3177,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7655982129109198321",
+      "desc": null,
+      "platform_summary": "腿部训练的私教系列分享，强调频率高、强度低的训练原则。训练内容包括热身、小腿训练、内收肌训练、保加利亚深蹲、哑铃硬拉、屈髋抬腿和俯身腿弯举等动作。同时，强调了正确的动作姿势、细节和训练强度的重要性，以及如何根据个人情况调整训练计划。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": "腿部训练建议频率高、强度低，避免过度训练影响恢复。",
+          "endSec": null
+        },
+        {
+          "start": "00:44",
+          "startSec": 44,
+          "title": "热身",
+          "summary": "青蛙式、内旋、抬腿、伟大者伸展等热身动作，提高髋关节灵活性。",
+          "endSec": null
+        },
+        {
+          "start": "11:31",
+          "startSec": 691,
+          "title": "小腿训练",
+          "summary": "站姿点脚，注意脚趾抓地，避免前脚掌翘起，逐渐增加训练强度。",
+          "endSec": null
+        },
+        {
+          "start": "17:26",
+          "startSec": 1046,
+          "title": "内收肌训练",
+          "summary": "内收肌训练，注意重量、幅度和细节，提高内收肌肌力。",
+          "endSec": null
+        },
+        {
+          "start": "24:33",
+          "startSec": 1473,
+          "title": "保加利亚深蹲",
+          "summary": "保加利亚深蹲，注意姿势、重心和行程，挑战更难的位置。",
+          "endSec": null
+        },
+        {
+          "start": "34:42",
+          "startSec": 2082,
+          "title": "哑铃硬拉",
+          "summary": "哑铃硬拉，注意脚的位置、膝盖方向和幅度，量力而行。",
+          "endSec": null
+        },
+        {
+          "start": "43:58",
+          "startSec": 2638,
+          "title": "屈髋抬腿",
+          "summary": "屈髋抬腿，注意脚的位置、躯干稳定和核心收紧。",
+          "endSec": null
+        },
+        {
+          "start": "48:29",
+          "startSec": 2909,
+          "title": "俯身腿弯举",
+          "summary": "俯身腿弯举，注意脚的位置、勾脚和内八，收紧核心。",
+          "endSec": null
+        },
+        {
+          "start": "52:17",
+          "startSec": 3137,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7657365167379023973",
+      "title": "第6集 | 私教系列之腹肌教学 希望大家对于腹肌有新的认识，对大家有所帮助！！#腹肌 #核心",
+      "author": "谭成义",
+      "collection": "私教跟练系列！！",
+      "published_text": "2026-07-01 09:30",
+      "duration_text": "16:48",
+      "duration_sec": 1008,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7657365167379023973",
+      "desc": null,
+      "platform_summary": null,
+      "chapters": [
+        {
+          "start": "01:10",
+          "startSec": 70,
+          "title": "悬垂举腿动作细节教学",
+          "summary": "进退阶关系讲解，吐气和吸气的区别",
+          "endSec": null
+        },
+        {
+          "start": "06:53",
+          "startSec": 413,
+          "title": "仰卧卷腹动作讲解",
+          "summary": "下斜凳卷腹更难哈",
+          "endSec": null
+        },
+        {
+          "start": "12:08",
+          "startSec": 728,
+          "title": "健腹轮动作细节教学",
+          "summary": "推荐指数:夯爆了！！",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7658495365934683493",
+      "title": "第7集 | 私教系列之手臂训练（二） 可作为手臂二练的训练内容，也可以当成一练内容，大家可以参考一下，希望对大家有所帮助？！#手臂训练 #力量训练",
+      "author": "谭成义",
+      "collection": "私教跟练系列！！",
+      "published_text": "2026-07-04 10:33",
+      "duration_text": "13:35",
+      "duration_sec": 815,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7658495365934683493",
+      "desc": null,
+      "platform_summary": "一套适合手臂二练的训练计划，包括绳索臂屈伸、坐姿绳索弯曲、仰卧杠铃臂伸和站姿杠铃弯曲四个动作。训练时间约30分钟，分为两个超级组，共8组。强调在训练过程中要注意收紧目标肌肉，提高训练质量，而不是追求数量。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:15",
+          "startSec": 15,
+          "title": "训练思路",
+          "summary": "一周练4-5次手臂，每次30分钟，分为两个超级组，共8组。",
+          "endSec": null
+        },
+        {
+          "start": "00:51",
+          "startSec": 51,
+          "title": "绳索臂屈伸",
+          "summary": "注意肩身位，完全伸直，根据个人情况调整动作。",
+          "endSec": null
+        },
+        {
+          "start": "02:22",
+          "startSec": 142,
+          "title": "坐姿绳索弯曲",
+          "summary": "注意收紧目标肌肉，重量选择10个左右，提高质量。",
+          "endSec": null
+        },
+        {
+          "start": "08:38",
+          "startSec": 518,
+          "title": "仰卧杠铃臂伸与站姿杠铃弯...",
+          "summary": "注意大臂位置，保持张力，重量选择10-12个。",
+          "endSec": null
+        },
+        {
+          "start": "13:28",
+          "startSec": 808,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7661923214516256369",
+      "title": "第4集 | 健身房器械讲解系列 给大家把坐姿夹胸，反飞鸟一体机这个器械的使用方法，动作变式，容易出现的问题给大家讲清楚，对大家有所帮助！！#力量训练 #胸肌训练 #肩部训练",
+      "author": "谭成义",
+      "collection": "健身房器械和动作详解",
+      "published_text": "2026-07-13 16:15",
+      "duration_text": "19:43",
+      "duration_sec": 1183,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7661923214516256369",
+      "desc": null,
+      "platform_summary": "坐姿夹胸反飞鸟一体机的使用方法、动作变式和常见问题。详细讲解了如何调整器械高度、手位和呼吸，以及如何根据目标肌肉选择合适的动作。同时，还介绍了一些特殊的训练方法，如内旋位、单手训练等，以提高训练效果。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:33",
+          "startSec": 33,
+          "title": "器械介绍",
+          "summary": "坐姿夹胸反飞鸟一体机，可调节高度，适合练胸和后束。",
+          "endSec": null
+        },
+        {
+          "start": "01:55",
+          "startSec": 115,
+          "title": "夹胸",
+          "summary": "夹胸动作讲解，包括手腕、肘窝、收紧、呼吸等要点，以及不同高度和手位的变化。",
+          "endSec": null
+        },
+        {
+          "start": "11:47",
+          "startSec": 707,
+          "title": "反飞鸟",
+          "summary": "反飞鸟动作讲解，包括高度、手位、呼吸等要点，以及不同手位和姿势的变化。",
+          "endSec": null
+        },
+        {
+          "start": "18:25",
+          "startSec": 1105,
+          "title": "器械使用方法",
+          "summary": "器械使用方法多样，可作为热身和功能训练。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7662562022056718449",
+      "title": "第3集 | 高位下拉动作讲解，希望对大家有所帮助！！#背部训练 #高位下拉",
+      "author": "谭成义",
+      "collection": "健身房器械和动作详解",
+      "published_text": "2026-07-15 09:34",
+      "duration_text": "17:02",
+      "duration_sec": 1022,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7662562022056718449",
+      "desc": null,
+      "platform_summary": "高位下拉的正确动作讲解，包括宽距正手、反手和对握三种握法的区别，以及如何避免常见错误。强调了正确的身体姿势、肌肉收紧和发力点的重要性。同时，提到了高阶技巧，如提高肩胛骨回旋能力和避免骨盆后倾。最后，提醒大家在训练中要关注目标肌肉的优先发力，合理选择动作。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:11",
+          "startSec": 11,
+          "title": "反飞鸟注意事项",
+          "summary": "做反飞鸟时，避免头往前伸或抬头，保持颈椎稳定。",
+          "endSec": null
+        },
+        {
+          "start": "00:59",
+          "startSec": 59,
+          "title": "握法与锻炼部位",
+          "summary": "宽距正手练背阔肌上段，反手练下背部，对握综合两者，推荐对握。",
+          "endSec": null
+        },
+        {
+          "start": "02:09",
+          "startSec": 129,
+          "title": "宽距正手",
+          "summary": "宽距正手下拉注意握距、下拉幅度、身体姿势和发力点。",
+          "endSec": null
+        },
+        {
+          "start": "08:55",
+          "startSec": 535,
+          "title": "反手",
+          "summary": "反手下拉注意肩屈幅度、身体姿势和肌肉收紧。",
+          "endSec": null
+        },
+        {
+          "start": "11:05",
+          "startSec": 665,
+          "title": "对握",
+          "summary": "对握下拉注意动作效率，选择合适的动作，关注目标肌肉发力。",
+          "endSec": null
+        },
+        {
+          "start": "14:14",
+          "startSec": 854,
+          "title": "高阶技巧",
+          "summary": "高阶技巧包括提高肩胛骨回旋能力、避免骨盆后倾和合理联动。",
+          "endSec": null
+        },
+        {
+          "start": "16:45",
+          "startSec": 1005,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7666644718105452666",
+      "title": "第1集 | 哑铃侧平举动作教学 保持动作流畅，胸腔充盈，姿势稳定！！希望对大家有所帮助！！#肩部训练 #侧平举 #力量训练",
+      "author": "谭成义",
+      "collection": "健身房器械和动作详解",
+      "published_text": "2026-07-26 09:37",
+      "duration_text": "07:58",
+      "duration_sec": 478,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7666644718105452666",
+      "desc": null,
+      "platform_summary": "哑铃侧平举动作教学，强调正确的站距、屈膝程度、呼吸方法、手腕和头的位置以及身体重心。通过保持胸腔充盈和身体稳定，可以提高训练效果，减少肩膀压力。同时，注意位置变化以针对不同肩部肌肉群。",
+      "chapters": [
+        {
+          "start": "00:01",
+          "startSec": 1,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:24",
+          "startSec": 24,
+          "title": "动作讲解",
+          "summary": "模特虎示范哑铃侧平举，讲解动作要领，包括站距、屈膝程度、身体后仰和手腕掉落等问题。",
+          "endSec": null
+        },
+        {
+          "start": "01:04",
+          "startSec": 64,
+          "title": "呼吸调整",
+          "summary": "呼吸调整很重要，先深吸一口气，呼气向上抬，吸气下来，保持胸腔充盈，减少肩膀压力。",
+          "endSec": null
+        },
+        {
+          "start": "04:45",
+          "startSec": 285,
+          "title": "细节注意",
+          "summary": "注意手腕位置、头的位置和身体重心，保持身体稳定，避免肋骨外翻和颈椎不稳定。",
+          "endSec": null
+        },
+        {
+          "start": "06:18",
+          "startSec": 378,
+          "title": "位置变化",
+          "summary": "位置变化影响训练部位，前平举针对前束，侧平举针对中束，注意大臂位置。",
+          "endSec": null
+        },
+        {
+          "start": "07:32",
+          "startSec": 452,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7668880941976944817",
+      "title": "第2集 | 哑铃推胸与推肩动作教学 希望对大家有所帮助！！#哑铃推肩 #哑铃卧推 #力量训练",
+      "author": "谭成义",
+      "collection": "健身房器械和动作详解",
+      "published_text": "2026-08-01 10:14",
+      "duration_text": "25:13",
+      "duration_sec": 1513,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7668880941976944817",
+      "desc": null,
+      "platform_summary": "哑铃推胸和推肩动作的教学，包括凳子选择、姿势调整、呼吸技巧和幅度控制。强调了动作标准和完整性的重要性，以及根据个人目标和能力选择合适的姿势。同时，提供了一些实用的技巧和建议，帮助大家更好地进行训练。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:32",
+          "startSec": 32,
+          "title": "推肩",
+          "summary": "推肩动作讲解，包括凳子选择、姿势调整、呼吸技巧和幅度控制。强调了动作标准和完整性的重要性，以及根据个人目标和能力选择合适的姿势。",
+          "endSec": null
+        },
+        {
+          "start": "10:31",
+          "startSec": 631,
+          "title": "推胸",
+          "summary": "推胸动作讲解，包括上斜、平板和下斜三种模式。分析了不同姿势对呼吸、发力和关节压力的影响，建议根据个人情况选择合适的姿势和调整方法。同时，强调了呼吸节奏和动作幅度的重要性。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7670171990876103153",
+      "title": "第5集 | 哑铃划船，哑铃反飞鸟动作教学 希望对大家有所帮助！！#哑铃划船 #力量训练",
+      "author": "谭成义",
+      "collection": "健身房器械和动作详解",
+      "published_text": "2026-08-05 09:30",
+      "duration_text": "19:31",
+      "duration_sec": 1171,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7670171990876103153",
+      "desc": null,
+      "platform_summary": "哑铃划船和哑铃反飞鸟的动作要领教学，强调在训练中要注意动作质量、躯干稳定和目标肌肉发力感。同时，建议在孤立中找联动，以提高训练效果。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:23",
+          "startSec": 23,
+          "title": "哑铃划船",
+          "summary": "哑铃划船是一种较难的划船动作，需要后侧支撑稳定，对下肢后侧要求高。动作要领包括选择合适重量、保持躯干稳定、抗侧屈、沉肩、背阔肌持续发力等。",
+          "endSec": null
+        },
+        {
+          "start": "10:23",
+          "startSec": 623,
+          "title": "哑铃反飞鸟",
+          "summary": "哑铃反飞鸟可锻炼三角肌后束，可选择含胸或屈髋姿势，注意内旋、肩伸和幅度。训练时要在孤立中找联动，保证躯干稳定。",
+          "endSec": null
+        },
+        {
+          "start": "14:56",
+          "startSec": 896,
+          "title": "训练建议",
+          "summary": "训练时要考虑身体整体性，优先保证躯干稳定，在孤立中找联动，根据自身情况选择重量。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7671852814386030521",
+      "title": "第6集 | 罗马尼亚硬拉动作介绍 希望对大家有所帮助#硬拉 #腿部训练 #力量训练",
+      "author": "谭成义",
+      "collection": "健身房器械和动作详解",
+      "published_text": "2026-08-09 10:27",
+      "duration_text": "10:58",
+      "duration_sec": 658,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7671852814386030521",
+      "desc": null,
+      "platform_summary": "罗马尼亚硬拉的动作要领，强调其对髋铰链提升、体态问题纠正和全身发力的重要性。同时，介绍了直腿硬拉和传统硬拉的区别，建议先掌握罗马尼亚硬拉，再尝试其他形式。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:24",
+          "startSec": 24,
+          "title": "罗马尼亚硬拉",
+          "summary": "罗马尼亚硬拉主要锻炼大腿后侧、臀部和核心，注意动作要领，保持重心稳定，避免腰部受伤。",
+          "endSec": null
+        },
+        {
+          "start": "07:04",
+          "startSec": 424,
+          "title": "直腿硬拉",
+          "summary": "直腿硬拉主要锻炼大腿后侧，注意动作幅度，避免过度拉伸导致腰部压力过大。",
+          "endSec": null
+        },
+        {
+          "start": "09:43",
+          "startSec": 583,
+          "title": "传统硬拉",
+          "summary": "传统硬拉主要锻炼臀部，注意屈膝幅度，避免过度屈膝导致腰部受伤。",
+          "endSec": null
+        },
+        {
+          "start": "10:30",
+          "startSec": 630,
+          "title": "总结",
+          "summary": "推荐先掌握罗马尼亚硬拉，再尝试其他形式。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7674643042243064997",
+      "title": "第7集 | 绳索划船类动作讲解 希望对大家有所帮助！！好好吃饭，好好睡觉就是最好的！！#背部训练 #力量训练",
+      "author": "谭成义",
+      "collection": "健身房器械和动作详解",
+      "published_text": "2026-08-17 09:30",
+      "duration_text": "19:52",
+      "duration_sec": 1192,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7674643042243064997",
+      "desc": null,
+      "platform_summary": "绳索划船类动作的讲解，包括半肩屈、全肩屈和坐姿划船。强调了感受、重量、呼吸、骨盆位置、侧屈和旋转等细节，以及单手和双手训练的重要性。建议在训练中逐渐增加难度，提高背阔肌的完整性和力量。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:06",
+          "startSec": 6,
+          "title": "绳索拉背的优势",
+          "summary": "绳索拉背动作感受好找，适合背阔肌较弱的人，通过感受和重量的提升来提高训练效果。",
+          "endSec": null
+        },
+        {
+          "start": "01:48",
+          "startSec": 108,
+          "title": "半肩屈",
+          "summary": "半肩屈动作讲解，包括滑轮高度、手臂位置、呼吸、骨盆位置、侧屈和旋转等细节。",
+          "endSec": null
+        },
+        {
+          "start": "10:44",
+          "startSec": 644,
+          "title": "全肩屈",
+          "summary": "全肩屈动作讲解，注意骨盆位置、呼吸、侧屈和旋转等细节，建议单手和双手交叉训练。",
+          "endSec": null
+        },
+        {
+          "start": "14:15",
+          "startSec": 855,
+          "title": "坐姿划船",
+          "summary": "坐姿划船动作讲解，强调背阔肌主导、肩胛后缩、下肢稳定等要点，建议窄距和宽距结合训练。",
+          "endSec": null
+        },
+        {
+          "start": "19:43",
+          "startSec": 1183,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7675287401501176506",
+      "title": "第8集 | 肩肘腕不适动作安排和思路 希望对大家有所帮助！！#体态纠正 #肩袖损伤",
+      "author": "谭成义",
+      "collection": "健身房器械和动作详解",
+      "published_text": "2026-08-19 09:30",
+      "duration_text": "17:15",
+      "duration_sec": 1035,
+      "likes_text": null,
+      "url": "https://www.douyin.com/video/7675287401501176506",
+      "desc": null,
+      "platform_summary": "肩肘腕不适的调整方法，包括肩胛骨上回旋、后倾的训练，肘弹响的改善，手腕不适的缓解，以及tyw动作的练习。强调了保持良好的生活习惯，如好好吃饭、睡觉和保持积极心态，对体态和避免损伤的重要性。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:12",
+          "startSec": 12,
+          "title": "肩胛骨上回旋",
+          "summary": "通过弹力带训练肩胛骨上回旋，提高上背部宽度和背展立体度。",
+          "endSec": null
+        },
+        {
+          "start": "04:40",
+          "startSec": 280,
+          "title": "肩胛骨后倾",
+          "summary": "通过弹力带训练肩胛骨后倾，改善肩胛不稳定和肩屈功能。",
+          "endSec": null
+        },
+        {
+          "start": "07:03",
+          "startSec": 423,
+          "title": "肘弹响",
+          "summary": "通过弹力带训练肘伸，缓解肘弹响和手腕不适。",
+          "endSec": null
+        },
+        {
+          "start": "10:43",
+          "startSec": 643,
+          "title": "手腕不适",
+          "summary": "通过训练桡片能力，改善手腕问题。",
+          "endSec": null
+        },
+        {
+          "start": "11:34",
+          "startSec": 694,
+          "title": "tyw动作",
+          "summary": "通过tyw动作训练下斜方、中下斜方和菱形肌，提高肩袖稳定性。",
+          "endSec": null
+        },
+        {
+          "start": "14:26",
+          "startSec": 866,
+          "title": "结语",
+          "summary": "强调好好吃饭、睡觉和保持良好心态的重要性，避免受伤和改善体态。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7684636286796509105",
+      "title": "大重量少次数和小重量多次数的选择 训练中比较常见重量的问题归纳总结！！训练重量的取舍，动作姿势的选择，固定器械的安排！！希望对大家有所帮助！！#训练计划 #体态纠正",
+      "author": "谭成义",
+      "collection": null,
+      "published_text": "2026-09-13 09:30",
+      "duration_text": "18:22",
+      "duration_sec": 1102,
+      "likes_text": "16.5万",
+      "url": "https://www.douyin.com/video/7684636286796509105",
+      "desc": "大重量少次数和小重量多次数的选择 训练中比较常见重量的问题归纳总结！！训练重量的取舍，动作姿势的选择，固定器械的安排！！希望对大家有所帮助！！#训练计划 #体态纠正",
+      "platform_summary": "训练重量的取舍、动作姿势的选择与固定器械的安排，说明大重量少次数与小重量多次数是进退阶关系。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:16",
+          "startSec": 16,
+          "title": "重量的问题",
+          "summary": "大重量少次数和小重量多次数是进退阶关系，目的是增肌并保持优秀的肌肉质量。",
+          "endSec": null
+        },
+        {
+          "start": "05:36",
+          "startSec": 336,
+          "title": "固定器械与自由训练",
+          "summary": "固定器械损耗小，目标肌肉受力更好，但可能导致关节不适；自由训练更简单，更符合人体状态。",
+          "endSec": null
+        },
+        {
+          "start": "07:30",
+          "startSec": 450,
+          "title": "动作姿势的选择",
+          "summary": "与重量挂钩，新手应从简单姿势开始，逐步提高目标肌肉能力。",
+          "endSec": null
+        },
+        {
+          "start": "17:38",
+          "startSec": 1058,
+          "title": "结语",
+          "summary": "下期视频将讨论三倍碳水减不下去的解决方法和新手训练问题。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7686888075494347697",
+      "title": "训练要目标肌肉收紧！！ 对卧上斜推胸动作详细做法，以及为何要去做对握的原因和逻辑，希望对大家有所帮助！！#健身教学干货分享 #胸部训练",
+      "author": "谭成义",
+      "collection": null,
+      "published_text": "2026-09-19 09:30",
+      "duration_text": "12:01",
+      "duration_sec": 721,
+      "likes_text": "10.0万",
+      "url": "https://www.douyin.com/video/7686888075494347697",
+      "desc": "训练要目标肌肉收紧！！ 对卧上斜推胸动作详细做法，以及为何要去做对握的原因和逻辑，希望对大家有所帮助！！#健身教学干货分享 #胸部训练",
+      "platform_summary": "上胸训练的重要性，强调收紧目标肌肉和提高训练重量强度。详细讲解了对握上斜推胸动作的做法，包括凳子角度、哑铃放置、呼吸和肩膀位置。对握有助于降低肩膀压力，收紧上胸内侧，提高训练效果。同时，强调了肩胛内收在热身和训练中的重要性，以缓解关节压力。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:08",
+          "startSec": 8,
+          "title": "上胸训练的重要性",
+          "summary": "上胸训练重要性，提高训练重量强度和收紧目标肌肉。",
+          "endSec": null
+        },
+        {
+          "start": "01:19",
+          "startSec": 79,
+          "title": "对握的好处",
+          "summary": "对握降低肩膀压力，收紧上胸内侧，提高训练效率。",
+          "endSec": null
+        },
+        {
+          "start": "02:44",
+          "startSec": 164,
+          "title": "上斜推胸动作示范",
+          "summary": "凳子角度45度，哑铃放置位置，保持目标肌肉收紧，注意呼吸。",
+          "endSec": null
+        },
+        {
+          "start": "06:13",
+          "startSec": 373,
+          "title": "对握与正手的区别",
+          "summary": "对握与正手区别，对握更易收紧上胸，保持肌张力平衡。",
+          "endSec": null
+        },
+        {
+          "start": "09:21",
+          "startSec": 561,
+          "title": "其他注意事项",
+          "summary": "推类动作关节压力小，夹类动作对二头要求高，热身时激活肩胛内收。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7688311849762979057",
+      "title": "第8集 | 下肢功能肌力训练计划 关节不适的逻辑，动作的详细讲解，力量训练中呼吸的关键，视频较长，干货较多，希望对大家有所帮助！！#核心力量 #下肢力量",
+      "author": "谭成义",
+      "collection": null,
+      "published_text": "2026-09-23 09:30",
+      "duration_text": "25:38",
+      "duration_sec": 1538,
+      "likes_text": "6.7万",
+      "url": "https://www.douyin.com/video/7688311849762979057",
+      "desc": "下肢功能➕肌力训练计划 关节不适的逻辑，动作的详细讲解，力量训练中呼吸的关键，视频较长，干货较多，希望对大家有所帮助！！#核心力量 #下肢力量",
+      "platform_summary": "下肢功能和肌力训练计划分享，强调身体位置感受而非肌肉发力。训练包括热身、正式训练和核心训练，旨在提高关节能力、身体感觉、心肺功能和爆发力。适合关节不适、想改善身体状况或调整训练计划的人。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "01:11",
+          "startSec": 71,
+          "title": "热身",
+          "summary": "青蛙趴、支撑青蛙趴、单腿支撑旋转、单腿臀推、弓步蹲推肩、罗马尼亚硬拉、交替弓步蹲、高位下拉。",
+          "endSec": null
+        },
+        {
+          "start": "11:35",
+          "startSec": 695,
+          "title": "正式训练",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "24:01",
+          "startSec": 1441,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7690225219625580977",
+      "title": "上肢功能性训练 围绕性这身体各个平面的运动，脊柱的旋转，抗旋转，心肺，肩胛的运动！！希望对大家有所帮助！！#健身干货 #新手健身知识 #上肢训练",
+      "author": "谭成义",
+      "collection": null,
+      "published_text": "2026-09-28 09:30",
+      "duration_text": "20:54",
+      "duration_sec": 1254,
+      "likes_text": "7.1万",
+      "url": "https://www.douyin.com/video/7690225219625580977",
+      "desc": "上肢功能性训练 围绕性这身体各个平面的运动，脊柱的旋转，抗旋转，心肺，肩胛的运动！！希望对大家有所帮助！！#健身干货 #新手健身知识 #上肢训练",
+      "platform_summary": "上肢功能性训练包括热身、正式动作和间歇跑。正式动作涵盖身体旋转、坐姿划船、哑铃卧推、支撑后滑、站姿实力推等，旨在提高上肢关节功能、脊柱抗旋转和抗侧屈能力、肩胛后缩、肩的运动肌力以及心肺功能。训练内容全面，适合想要提高功能、心肺能力和爆发力的人。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:10",
+          "startSec": 10,
+          "title": "热身",
+          "summary": "使用弹力带进行简单热身，包括前后拉伸、环绕和直臂环绕。",
+          "endSec": null
+        },
+        {
+          "start": "02:07",
+          "startSec": 127,
+          "title": "正式动作",
+          "summary": "正式动作包括身体旋转、坐姿划船、哑铃卧推、支撑后滑、站姿实力推，共进行14组。",
+          "endSec": null
+        },
+        {
+          "start": "15:53",
+          "startSec": 953,
+          "title": "二头和三头超级组",
+          "summary": "二头和三头超级组，包括坐姿绳索弯曲和三头下压，共进行3组。",
+          "endSec": null
+        },
+        {
+          "start": "18:14",
+          "startSec": 1094,
+          "title": "间歇跑",
+          "summary": "进行间歇跑，共进行4个循环。",
+          "endSec": null
+        },
+        {
+          "start": "19:26",
+          "startSec": 1166,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7694102180848707505",
+      "title": "卧推，下拉，推肩动作中肩部不适如何改善 具体思路和动作安排，希望对大家有所帮助！！多多练习，好好睡觉！！ #体态纠正 #肩部训练",
+      "author": "谭成义",
+      "collection": null,
+      "published_text": "2026-10-08 09:26",
+      "duration_text": "17:04",
+      "duration_sec": 1024,
+      "likes_text": "7.4万",
+      "url": "https://www.douyin.com/video/7694102180848707505",
+      "desc": "卧推，下拉，推肩动作中肩部不适如何改善 具体思路和动作安排，希望对大家有所帮助！！多多练习，好好睡觉！！ #体态纠正 #肩部训练",
+      "platform_summary": "卧推、高位下拉、推肩时肩部不适的改善思路与具体动作安排，包括前锯肌、冈上肌激活与肩胛后缩热身。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:20",
+          "startSec": 20,
+          "title": "拉类动作",
+          "summary": "肩部不适可通过支撑位内旋和前锯肌训练改善。",
+          "endSec": null
+        },
+        {
+          "start": "04:49",
+          "startSec": 289,
+          "title": "推肩",
+          "summary": "可通过前锯肌和冈上肌激活训练改善，也可尝试窄握推。",
+          "endSec": null
+        },
+        {
+          "start": "07:07",
+          "startSec": 427,
+          "title": "推类动作",
+          "summary": "可通过二头肌放松和三头肌激活训练改善，注意滑轮位置。",
+          "endSec": null
+        },
+        {
+          "start": "11:06",
+          "startSec": 666,
+          "title": "预防措施",
+          "summary": "需提前激活肩胛后缩和外展，多做热身。",
+          "endSec": null
+        },
+        {
+          "start": "14:58",
+          "startSec": 898,
+          "title": "总结",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7696330468475857893",
+      "title": "背部感受差怎么调整 具体动作以及训练思路调整！！希望对大家有所帮助！！#背部训练 #增肌",
+      "author": "谭成义",
+      "collection": null,
+      "published_text": "2026-10-14 09:32",
+      "duration_text": "13:56",
+      "duration_sec": 836,
+      "likes_text": "13.1万",
+      "url": "https://www.douyin.com/video/7696330468475857893",
+      "desc": "背部感受差怎么调整 具体动作以及训练思路调整！！希望对大家有所帮助！！#背部训练 #增肌",
+      "platform_summary": "如何提高背部训练感受，强调肩胛骨下沉和内收的重要性。通过高位下拉和龙门架绳索等动作，提高下锯肌、背阔肌和中下斜方肌的力量。这些动作可作为日常基本功训练或激活热身，帮助更好地完成正式训练。",
+      "chapters": [
+        {
+          "start": "00:00",
+          "startSec": 0,
+          "title": "背部训练逻辑",
+          "summary": "背阔肌感受不好的原因是肩胛骨下沉和内收能力不够，需要提高下锯肌、背阔肌和中下斜方肌的力量。",
+          "endSec": null
+        },
+        {
+          "start": "00:47",
+          "startSec": 47,
+          "title": "高位下拉",
+          "summary": "高位下拉动作讲解，强调肩胛骨下沉和内收，选择反手或对握，注意肘的位置，多次数中等重量，可作为日常基本功训练。",
+          "endSec": null
+        },
+        {
+          "start": "09:32",
+          "startSec": 572,
+          "title": "龙门架绳索",
+          "summary": "龙门架绳索动作讲解，肩伸带旋转，降低身体姿势难度，帮助背阔肌发力，可作为激活和热身动作。",
+          "endSec": null
+        },
+        {
+          "start": "13:25",
+          "startSec": 805,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7699679326988050873",
+      "title": "增肌减脂的如何平衡 如何做到进步最大化，增肌和减脂的第一性原则，围绕训练状态和训练强度的提升才是最重要的！！#健身干货 #增肌减脂 #减脂",
+      "author": "谭成义",
+      "collection": null,
+      "published_text": "2026-10-23 10:08",
+      "duration_text": null,
+      "duration_sec": null,
+      "likes_text": "14.3万",
+      "url": "https://www.douyin.com/video/7699679326988050873",
+      "desc": "增肌减脂的如何平衡 如何做到进步最大化，增肌和减脂的第一性原则，围绕训练状态和训练强度的提升才是最重要的！！#健身干货 #增肌减脂 #减脂",
+      "platform_summary": "增肌减脂的关键在于训练状态和训练强度的提升。要实现进步最大化，需了解自己的身体，逐步调整体脂率，保持训练强度。同时，注意饮食适量，避免过度节食或暴饮暴食。遵循这些原则，无论是比赛选手还是普通健身爱好者，都能更好地实现增肌减脂目标。",
+      "chapters": [
+        {
+          "start": "00:03",
+          "startSec": 3,
+          "title": "进步最大的原因",
+          "summary": "作者认为今年进步最大，因为更了解自己的身体，知道该吃多少东西，并且训练强度在提升。",
+          "endSec": null
+        },
+        {
+          "start": "01:17",
+          "startSec": 77,
+          "title": "增肌与减脂的逻辑",
+          "summary": "增肌关键是训练强度，减脂是保证缺口，训练水平提高后，即使热量平衡或稍多，也能达到减脂效果。",
+          "endSec": null
+        },
+        {
+          "start": "02:13",
+          "startSec": 133,
+          "title": "减脂的注意事项",
+          "summary": "减脂要注意体脂变化的幅度，避免身体无法接受，导致反弹。",
+          "endSec": null
+        },
+        {
+          "start": "09:56",
+          "startSec": 596,
+          "title": "肌肉增长的关键",
+          "summary": "肌肉增长与训练状态有关，要保持训练强度，避免状态下降。",
+          "endSec": null
+        },
+        {
+          "start": "10:55",
+          "startSec": 655,
+          "title": "训练状态与饮食",
+          "summary": "训练状态与饮食适量有关，多了少了都不好，要根据训练状态调节减脂。",
+          "endSec": null
+        },
+        {
+          "start": "14:10",
+          "startSec": 850,
+          "title": "进步快的方法",
+          "summary": "进步快的方法是保持训练状态和强度，适量饮食，遵循二八法则。",
+          "endSec": null
+        },
+        {
+          "start": "17:35",
+          "startSec": 1055,
+          "title": "结语",
+          "summary": null,
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7700836420282731898",
+      "title": "力量训练如何安排计划，以及侧重点 又又又是一期烧脑视频，你得懂算数，训练计划的逻辑以及操作模式，休息的定义！！希望对大家有所帮助！！#健身干货 #健身科普 #增肌减脂",
+      "author": "谭成义",
+      "collection": null,
+      "published_text": "2026-10-27 09:30",
+      "duration_text": "22:28",
+      "duration_sec": 1348,
+      "likes_text": "8.5万",
+      "url": "https://www.douyin.com/video/7700836420282731898",
+      "desc": "力量训练如何安排计划，以及侧重点 又又又是一期烧脑视频，你得懂算数，训练计划的逻辑以及操作模式，休息的定义！！希望对大家有所帮助！！#健身干货 #健身科普 #增肌减脂",
+      "platform_summary": "力量训练计划的安排逻辑：各部位以什么动作模式为主、如何搭配协同肌群、如何按个人情况调整分化，以及休息日的定义。",
+      "chapters": [
+        {
+          "start": "00:01",
+          "startSec": 1,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:30",
+          "startSec": 30,
+          "title": "胸部训练",
+          "summary": "以推类动作为主，夹胸动作增肌效率较低。胸带三头属于相对协同状态，胸带二头训练强度更大。",
+          "endSec": null
+        },
+        {
+          "start": "05:37",
+          "startSec": 337,
+          "title": "背部训练",
+          "summary": "以背阔肌为主，内收和上下回旋动作重要。背加二头容量更高，背加三头强度更大。",
+          "endSec": null
+        },
+        {
+          "start": "10:33",
+          "startSec": 633,
+          "title": "肩部训练",
+          "summary": "以推类动作为主，中立位训练更孤立。肩可与背或手臂一起训练。",
+          "endSec": null
+        },
+        {
+          "start": "12:43",
+          "startSec": 763,
+          "title": "下肢训练",
+          "summary": "以臀部、大腿后侧和大腿前侧为主，训练强度和容量重要。",
+          "endSec": null
+        },
+        {
+          "start": "13:13",
+          "startSec": 793,
+          "title": "训练计划的安排",
+          "summary": "需根据个人情况调整，关注训练质量，无需过分纠结训练分化。",
+          "endSec": null
+        },
+        {
+          "start": "18:51",
+          "startSec": 1131,
+          "title": "休息的定义",
+          "summary": "休息时可进行愉悦的动作，如有氧运动、腹肌训练等，提高恢复能力。",
+          "endSec": null
+        }
+      ]
+    },
+    {
+      "platform": "douyin",
+      "aweme_id": "7703372555957598650",
+      "title": "器械系列之单手下拉动作讲解，平替动作安排，时长较长，希望大家耐心观看，希望对大家有所帮助！！#健身干货 #健身教学 #高位下拉",
+      "author": "谭成义",
+      "collection": null,
+      "published_text": "2026-11-02 08:59",
+      "duration_text": "16:26",
+      "duration_sec": 986,
+      "likes_text": "6.4万",
+      "url": "https://www.douyin.com/video/7703372555957598650",
+      "desc": "器械系列之单手下拉动作讲解，平替动作安排，时长较长，希望大家耐心观看，希望对大家有所帮助！！#健身干货 #健身教学 #高位下拉",
+      "platform_summary": "单手下拉动作的讲解，强调了手的位置、握法、手肘角度、呼吸节奏等细节。同时，提到了绳索可以作为替代器械，但行程较短，对躯干要求更高。建议根据个人情况逐步增加行程，以更好地刺激背阔肌。",
+      "chapters": [
+        {
+          "start": "00:01",
+          "startSec": 1,
+          "title": "引言",
+          "summary": null,
+          "endSec": null
+        },
+        {
+          "start": "00:39",
+          "startSec": 39,
+          "title": "动作讲解",
+          "summary": "讲解了动作要领，包括手的位置、握法、手肘的角度、呼吸节奏等。",
+          "endSec": null
+        },
+        {
+          "start": "07:06",
+          "startSec": 426,
+          "title": "呼吸节奏",
+          "summary": "呼吸节奏为放的时候吸气，拉的时候呼气，吐的时候要快。",
+          "endSec": null
+        },
+        {
+          "start": "07:51",
+          "startSec": 471,
+          "title": "动作变化",
+          "summary": "可以根据个人情况调整动作，如侧屈或旋转，以更好地收紧背部。",
+          "endSec": null
+        },
+        {
+          "start": "10:41",
+          "startSec": 641,
+          "title": "绳索替代",
+          "summary": "绳索可以替代器械，但行程较短，对躯干要求更高。",
+          "endSec": null
+        },
+        {
+          "start": "15:18",
+          "startSec": 918,
+          "title": "总结",
+          "summary": "动作详解，行程变化影响刺激部位，可根据个人情况调整。",
+          "endSec": null
+        }
+      ]
+    }
+  ],
+  "works": [
+    {
+      "id": "7618962209967965617",
+      "kind": "video",
+      "pinned": true,
+      "likes_text": "59.6万",
+      "desc": "非常完整的减脂计划视频，教会你了解食物以及吃多少？吃什么？如何调整？视频较长，希望对大家有所帮助！！ #减脂饮食 #减脂期"
+    },
+    {
+      "id": "7582048702325181745",
+      "kind": "video",
+      "pinned": true,
+      "likes_text": "71.5万",
+      "desc": "背部训练需要明确训练目标，审视自己的形体哪里薄弱就多去加强哪里，这才是训练真正的计划，希望大家好好加油训练，做好大家的电子教练！！#背部训练 #增肌"
+    },
+    {
+      "id": "7572420000280811429",
+      "kind": "note",
+      "pinned": true,
+      "likes_text": "4.4万",
+      "desc": "如果可以希望大家都留下自己的目标，是第一次上台比赛，拿下第一次全场冠军还是练出自己理想的形体，让自己的努力有迹可循#努力就会有收获"
+    },
+    {
+      "id": "7703372555957598650",
+      "kind": "video",
+      "likes_text": "6.4万",
+      "desc": "器械系列之单手下拉动作讲解，平替动作安排，时长较长，希望大家耐心观看，希望对大家有所帮助！！#健身干货 #健身教学 #高位下拉"
+    },
+    {
+      "id": "7702054886188739002",
+      "kind": "video",
+      "likes_text": "5.3万",
+      "desc": "内心很开心，身体很疲劳的一次旅行，希望大家好好吃饭，好好睡觉，认真对待每次训练，获得理想的形体！！#真实生活分享 #日常vlog #训练怪兽谷氨酰胺"
+    },
+    {
+      "id": "7700836420282731898",
+      "kind": "video",
+      "likes_text": "8.4万",
+      "desc": "力量训练如何安排计划，以及侧重点 又又又是一期烧脑视频，你得懂算数，训练计划的逻辑以及操作模式，休息的定义！！希望对大家有所帮助！！#健身干货 #健身科普 #增肌减脂"
+    },
+    {
+      "id": "7699679326988050873",
+      "kind": "video",
+      "likes_text": "14.3万",
+      "desc": "增肌减脂的如何平衡 如何做到进步最大化，增肌和减脂的第一性原则，围绕训练状态和训练强度的提升才是最重要的！！#健身干货 #增肌减脂 #减脂"
+    },
+    {
+      "id": "7697936066746434801",
+      "kind": "video",
+      "likes_text": "9.8万",
+      "desc": "北京之行（非常有意思这次） 非常有意思的一次旅行，就是有点累，这次的寰际赛第一次赛，大学生太强啦，都是对手啊以后，回去继续努力！！#减脂 #放纵餐 #训练怪兽乳清蛋白粉"
+    },
+    {
+      "id": "7696330468475857893",
+      "kind": "video",
+      "likes_text": "13.1万",
+      "desc": "背部感受差怎么调整 具体动作以及训练思路调整！！希望对大家有所帮助！！#背部训练 #增肌"
+    },
+    {
+      "id": "7694857980425434993",
+      "kind": "video",
+      "likes_text": "19.8万",
+      "desc": "倒计时35天！！ 尽力而为，不留遗憾！！#减脂期 #力量训练"
+    },
+    {
+      "id": "7694102180848707505",
+      "kind": "video",
+      "likes_text": "7.4万",
+      "desc": "卧推，下拉，推肩动作中肩部不适如何改善 具体思路和动作安排，希望对大家有所帮助！！多多练习，好好睡觉！！ #体态纠正 #肩部训练"
+    },
+    {
+      "id": "7690225219625580977",
+      "kind": "video",
+      "likes_text": "7.1万",
+      "desc": "上肢功能性训练 围绕性这身体各个平面的运动，脊柱的旋转，抗旋转，心肺，肩胛的运动！！希望对大家有所帮助！！#健身干货 #新手健身知识 #上肢训练"
+    },
+    {
+      "id": "7689490373010573041",
+      "kind": "video",
+      "likes_text": "7.9万",
+      "desc": "我们都需要世俗意义上的成功！！ 正式备赛！倒计时50天！加油！！#减脂食谱 #练腿 #亚朵星球深睡稳压枕 #亚朵星球深睡枕Pro4"
+    },
+    {
+      "id": "7688311849762979057",
+      "kind": "video",
+      "likes_text": "6.7万",
+      "desc": "下肢功能➕肌力训练计划 关节不适的逻辑，动作的详细讲解，力量训练中呼吸的关键，视频较长，干货较多，希望对大家有所帮助！！#核心力量 #下肢力量"
+    },
+    {
+      "id": "7686888075494347697",
+      "kind": "video",
+      "likes_text": "10.0万",
+      "desc": "训练要目标肌肉收紧！！ 对卧上斜推胸动作详细做法，以及为何要去做对握的原因和逻辑，希望对大家有所帮助！！#健身教学干货分享 #胸部训练"
+    },
+    {
+      "id": "7685731189625498289",
+      "kind": "video",
+      "likes_text": "18.5万",
+      "desc": "多年前目标完成了，很开心！！继续朝着下个目标前进！！也希望大家越来越好，各自完成自己的目标！！#背部训练 #梦想的力量 #训练怪兽一水肌酸"
+    },
+    {
+      "id": "7684636286796509105",
+      "kind": "video",
+      "likes_text": "16.5万",
+      "desc": "大重量少次数和小重量多次数的选择 训练中比较常见重量的问题归纳总结！！训练重量的取舍，动作姿势的选择，固定器械的安排！！希望对大家有所帮助！！#训练计划 #体态纠正"
+    },
+    {
+      "id": "7683445765468867849",
+      "kind": "video",
+      "likes_text": "5.2万",
+      "desc": "#抖音精选作者宠粉福利 #抖音精选app#谭成义 比赛已经结束了，签证也搞定了，11.13-11.15号本韦德职业赛见！！为了感谢大家的支持和陪伴，给大家准备了100份的苹果手表，希望对大家有所帮助！！"
+    },
+    {
+      "id": "7682072476063647601",
+      "kind": "note",
+      "likes_text": "32.9万",
+      "desc": "故事还在继续！！我们下次再见#谭成义"
+    },
+    {
+      "id": "7681193482207189681",
+      "kind": "note",
+      "likes_text": "22.5万",
+      "desc": ""
+    },
+    {
+      "id": "7680136967959585457",
+      "kind": "video",
+      "likes_text": "21.8万",
+      "desc": "新的开始！！ 妙妙屋2.0的第一次训练有点小累，但是不累！！#减脂食谱 #古典健体 #赛霸鱼油"
+    },
+    {
+      "id": "7586889620748225841",
+      "kind": "video",
+      "likes_text": "3.3万",
+      "desc": "第25集：休息日饮食和疲劳管理的方法，保持开心愉悦才是最重要滴，要开心奥大家！！#增肌 #减脂食谱",
+      "collection": "训练，营养，体态和恢复教学合集",
+      "pub_text": "2025年12月23日",
+      "duration_text": "23:41"
+    }
+  ],
+  "stats": {
+    "works": 22,
+    "videos_with_chapters": 69,
+    "chapters": 396
+  }
+}
